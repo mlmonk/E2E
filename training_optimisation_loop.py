@@ -22,7 +22,12 @@ def main():
     
     # start for loop
     for i in range(20):
-        suggestion = conn.experiments(opts.experiment_id).suggestions().create()
+        suggestion = conn.experiments(opts.experiment_id).suggestions().create(
+            metadata={
+                'node': opts.node,
+                'gpu': str(opts.gpu)
+                }
+            )
         training_opts = []
         # this is kind of a messy workaround because opennmt-py doens't like
         # vector sizes with odd numbers
@@ -75,7 +80,8 @@ def main():
             value=float(best_bleu),
             metadata={
                 'node': opts.node,
-                'gpu': str(opts.gpu)
+                'gpu': str(opts.gpu),
+                'output_dir': generated_outputs_directory
             }
         )
 

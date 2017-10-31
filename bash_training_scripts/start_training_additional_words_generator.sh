@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Usage
-# bash ~/projects/E2E/bash_training_scripts/start_training_template.sh \
+# bash ~/projects/E2E/bash_training_scripts/start_training_additional_words_generator.sh \
 #     -n boole-n021 \
 #     -g 0 \
 #     -p /home/henrye/projects/E2E/experiments/baseline-2017_10_28__13_49
@@ -29,11 +29,6 @@ case $key in
     ;;
     -t|--training_opts)
     training_opts="$2"
-    shift # past argument
-    shift # past value
-    ;;
-    -e|--evaluation_opts)
-    evaluation_opts="$2"
     shift # past argument
     shift # past value
     ;;
@@ -87,10 +82,7 @@ ssh -t -t $node << EOF
         -truncated_decoder 100 \
         -batch_size 128 \
         -encoder_type brnn \
-        -copy_attn \
         -global_attention dot \
-        -optim adam \
-        -learning_rate 0.001 \
         \$training_opts
     # because of how pass the arguments, this doesn't seem to work unless
     # the $ is escaped, even though it's defined before the ssh command
