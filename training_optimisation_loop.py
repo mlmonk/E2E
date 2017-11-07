@@ -68,7 +68,7 @@ def main():
                                    evaluation_output).group(1)
         print('outputs directory: ', generated_outputs_directory, 
             '\n there should be familiar looking files in here')
-        output_scores = glob.glob(os.path.join(generated_outputs_directory, 'dev*'))
+        output_scores = glob.glob(os.path.join(generated_outputs_directory, 'BLEU*dev*'))
         output_scores = sorted(output_scores, reverse=True)
         best_bleu = re.search('BLEU,(.*),NIST', output_scores[0]).group(1)
 

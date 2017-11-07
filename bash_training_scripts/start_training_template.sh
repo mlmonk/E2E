@@ -4,7 +4,7 @@
 # bash ~/projects/E2E/bash_training_scripts/start_training_template.sh \
 #     -n boole-n021 \
 #     -g 0 \
-#     -p /home/henrye/projects/E2E/experiments/baseline-2017_10_28__13_49
+#     -p /home/henrye/projects/E2E/experiments/features-layers,dropout,vec_sizes-27893-2017_10_31__18_30
 
 POSITIONAL=()
 while [[ $# -gt 0 ]]
@@ -82,15 +82,16 @@ ssh -t -t $node << EOF
         -data $preprocessed_dir/preprocessed \
         -save_model $checkpoint_dir/checkpoint \
         -gpuid $gpu \
-        -epochs 20 \
+        -epochs 10 \
         -report_every 50 \
         -truncated_decoder 100 \
         -batch_size 128 \
         -encoder_type brnn \
         -copy_attn \
-        -global_attention dot \
+        -coverage_attn \
         -optim adam \
         -learning_rate 0.001 \
+        -global_attention dot \
         \$training_opts
     # because of how pass the arguments, this doesn't seem to work unless
     # the $ is escaped, even though it's defined before the ssh command

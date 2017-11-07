@@ -15,7 +15,7 @@ done
 # now to do the same thing for evaluation 
 for checkpoint_dir in /home/henrye/projects/E2E/experiments/additional_words_generator-2017_10_31__09_32/checkpoints-boole-n023-gpu_1-2017_10_31__10_02 /home/henrye/projects/E2E/experiments/additional_words_generator-2017_10_31__09_32/checkpoints-boole-n023-gpu_1-2017_10_31__09_51
 do
-    for temperature in 0.4 0.5 0.6 0.7 0.8
+    for temperature in 0.9 1.0 1.1
     do
         for beam_size in 1
         do

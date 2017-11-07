@@ -18,7 +18,7 @@
 # Usage
 # bash ~/projects/E2E/bash_training_scripts/create_experiment_dir.sh \
 #     -p 'layers,dropout,vec_sizes' \
-#     -t baseline
+#     -t features
 
 POSITIONAL=()
 while [[ $# -gt 0 ]]
@@ -96,7 +96,7 @@ elif [ $model_type == features ]
     -src_seq_length 1000 -tgt_seq_length 1000 -dynamic_dict -share_vocab 
     # we copy over what we assume to be canonical evaluation source files
     # TODO we haven't changed these to include the features yet
-    touch $model_dir/.WARNING_these_source_files_do_not_have_additional_words
+    # touch $model_dir/.WARNING_these_source_files_do_not_have_additional_words
     cp $data_dir/{devset-source.tok.unique,test_e2e-source.tok} $model_dir/
 fi
 cd $current_dir
