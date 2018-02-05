@@ -49,7 +49,7 @@ def main():
             '-p', preprocessed_dir,
             '-t', training_opts],
                       stdout=subprocess.PIPE)
-        print('here is the bash command for testing training:\n', ' '.join(training_output_full.args))                  
+        print('here is the bash command for testing training:\n', ' '.join(training_output_full.args))
         print('finished training, starting evaluation')
         training_output = training_output_full.stdout.decode()
         checkpoint_dir = re.search('the checkpoint directory is (.*) end transmission', \
