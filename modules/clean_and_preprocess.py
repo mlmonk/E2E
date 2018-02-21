@@ -12,7 +12,7 @@ def tokenize(text):
     return word_tokens
 
 def main():
-    parser = argparse.ArgumentParser(description='Command-line script for separating wikitext in a list of sentences')
+    parser = argparse.ArgumentParser(description='Tokenise E2E data')
     parser.add_argument('-o', '--output_dir_name', help='output directory')
     parser.add_argument('-i', '--input_file_names', nargs='*', help='wikitext files')
     parser.add_argument('-t', '--test', help='test')
