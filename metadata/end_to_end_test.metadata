@@ -1,5 +1,5 @@
 /home/henrye/projects/E2E/modules/clean_and_preprocess.py -o output_dir_name -i input_file_names --test "{'name':'this_name','bounds':{'min':1,'max':2},'type':'int'}"
-/home/henrye/projects/E2E/modules/create_source_target.py -o output_dir_name -i input_file_names
+/home/henrye/projects/E2E/modules/create_source_target.py -o output_dir_name -i input_file_names --test "{'name':'this_category','categorical_values':[{'name':'yes'},{'name':'no'}],'type':'categorical'}"
 /home/henrye/downloads/OpenNMT-py/preprocess.py -train_src train_src_name -train_tgt train_tgt_name -valid_src valid_src_name -valid_tgt valid_tgt_name -save_data output_dir_name_with_file_root -src_seq_length 100 -tgt_seq_length 100 -dynamic_dict -share_vocab
 /home/henrye/downloads/OpenNMT-py/train.py -gpuid cuda_visible_devices -epochs 2 -data input_dir_name_with_file_root -save_model output_dir_name_with_file_root -layers 1 -word_vec_size 100 -share_embeddings -rnn_size 100 -copy_attn
 /home/henrye/projects/E2E/modules/evaluate_checkpoints.py -o output_dir_name -i input_file_names -s valid_src_name -t valid_tgt_name
