@@ -19,9 +19,11 @@ def main():
                         help='sentence similarity metrc')
     parser.add_argument('--extra_filter', action='store_true', help='filter the'
                         ' additional MRs; eatType, food, area')
+    parser.add_argument('--waste_of_space', action='store_true',
+                        help='an empty argument')
     args = parser.parse_args()
 
-    sub_sample = 5
+    sub_sample = 100
 
     with open(args.train_src_name, 'r') as in_file:
         source_mrs = [line.strip() for line in in_file]
@@ -74,6 +76,8 @@ def main():
     precalc_similar_sents_file_name = os.path.join(args.logging_dir_name,
                                                'precalc_similar_sents.json')
     similarity_filter_key = args.similarity_metric
+    if args.extra_filter:
+        similarity_filter_key += '_extra_filters'
     if os.path.isfile(precalc_similar_sents_file_name):
         with open(precalc_similar_sents_file_name) as in_file:
             precalc_similar_sents = json.load(in_file)
@@ -103,9 +107,15 @@ def main():
                 elif args.similarity_metric == 'cosine':
                     similarity_value = get_cosine(ref_sent, compar_sent)
                 similarities[similarity_value].append(sent_idx)
-            similarities_sorted = [similarities[k] for k in \
-                                   sorted(similarities, key=similarities.get,
-                                          reverse=find_max)]
+            # TODO
+            # there's some kind of bug with sorting floats as keys with the
+            # cosine metric. We do it twice and it works. No idea why, it's not
+            # sorting them as a string or as a float
+            similarity_keys = sorted(similarities,
+                                     key=similarities.get, reverse=find_max)
+            similarity_keys = sorted(similarity_keys,
+                                     reverse=find_max)
+            similarities_sorted = [similarities[k] for k in similarity_keys]
             # flatten the list of lists
             similarities_sorted = [y for x in similarities_sorted for y in x]
             # if we stored all 42,000 rankings for each of the 42,000 sentences
@@ -165,23 +175,24 @@ def main():
     # [print(target_sents[similarities[this_key]]) for this_key in this[0:10]]
     # # nlp('Punter')[0].is_oov
 
-# one_word = re.compile('\w+')
-# bigrams = re.compile(' (?=((?:\w+|\W) (?:\w+|\W)))')
+one_word = re.compile('\w+')
+bigrams = re.compile(' (?=((?:\w+|\W) (?:\w+|\W)))')
 
-# def get_cosine(vec1, vec2):
-#     intersection = set(vec1.keys()) & set(vec2.keys())
-#     numerator = sum([vec1[x] * vec2[x] for x in intersection])
-#     sum1 = sum([vec1[x]**2 for x in vec1.keys()])
-#     sum2 = sum([vec2[x]**2 for x in vec2.keys()])
-#     denominator = math.sqrt(sum1) * math.sqrt(sum2)
-#     if not denominator:
-#         return 0.0
-#     else:
-#         return float(numerator) / denominator
+def get_cosine(vec1, vec2):
+    intersection = set(vec1.keys()) & set(vec2.keys())
+    numerator = sum([vec1[x] * vec2[x] for x in intersection])
+    sum1 = sum([vec1[x]**2 for x in vec1.keys()])
+    sum2 = sum([vec2[x]**2 for x in vec2.keys()])
+    denominator = math.sqrt(sum1) * math.sqrt(sum2)
+    if not denominator:
+        return 0.0
+    else:
+        return float(numerator) / denominator
 
-# def text_to_vector(text):
-#     words = one_word.findall(text)
-#     return Counter(words)
+def text_to_vector(text):
+    words = one_word.findall(text)
+    # words = [word.lower() for word in words]
+    return Counter(words)
 
 if __name__ == '__main__':
     main()
