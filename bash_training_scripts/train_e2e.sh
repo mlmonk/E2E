@@ -12,7 +12,7 @@ python train.py -data $BASE/$MODEL -save_model $MODEL_DIR/$MODEL -rnn_size 60 -w
 for model_checkpoint in $MODEL_DIR/$MODEL{10..20}.pt
     do 
         echo $model_checkpoint
-        python translate.py -model $model_checkpoint -src $BASE/devset-source.tok.unique -gpu $GPU -beam_size 30 -batch_size 1 -max_length 500 -output $OUTPUT -n_best 1
+        python translate.py -model $model_checkpoint -src $BASE/devset-source.tok -gpu $GPU -beam_size 30 -batch_size 1 -max_length 500 -output $OUTPUT -n_best 1
         cd /home/nikhil/Projects/e2e-metrics
 	source activate Python2
         # measure scores run on python 2 so we switch back to the theano environment
