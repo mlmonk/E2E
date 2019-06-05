@@ -1,0 +1,630 @@
+coffee_shop city_centre .
+coffee_shop riverside .
+coffee_shop near 5_out_of_5 .
+coffee_shop near average .
+coffee_shop near average .
+pub city_centre .
+pub riverside .
+pub near 5_out_of_5 .
+pub near average .
+pub near average .
+no Chinese pub city_centre near .
+yes Chinese pub city_centre near .
+no Chinese pub riverside near .
+yes Chinese pub riverside near .
+no English pub city_centre near .
+yes English pub city_centre near .
+no English pub riverside near .
+yes English pub riverside near .
+no Chinese restaurant city_centre near .
+yes Chinese restaurant city_centre near .
+no Chinese restaurant riverside near .
+yes Chinese restaurant riverside near .
+no English restaurant city_centre near .
+yes English restaurant city_centre near .
+no English restaurant riverside near .
+yes English restaurant riverside near .
+coffee_shop near 3_out_of_5 .
+coffee_shop near 5_out_of_5 .
+coffee_shop near .
+pub near 3_out_of_5 .
+pub near 5_out_of_5 .
+pub near .
+coffee_shop near high .
+coffee_shop near high .
+coffee_shop near low .
+coffee_shop near low .
+coffee_shop near .
+coffee_shop near .
+pub near high .
+pub near high .
+pub near low .
+pub near low .
+pub near .
+pub near .
+coffee_shop near .
+pub near .
+coffee_shop near .
+coffee_shop near .
+yes English pub riverside near .
+no Fast_food pub city_centre near .
+yes Fast_food pub city_centre near .
+no Fast_food pub riverside near .
+yes Fast_food pub riverside near .
+yes Fast_food pub riverside near .
+no French pub city_centre near .
+yes French pub city_centre near .
+no French pub riverside near .
+yes French pub riverside near .
+pub near .
+pub near .
+yes English restaurant riverside near .
+no Fast_food restaurant city_centre near .
+yes Fast_food restaurant city_centre near .
+no Fast_food restaurant riverside near .
+yes Fast_food restaurant riverside near .
+yes Fast_food restaurant riverside near .
+no French restaurant city_centre near .
+yes French restaurant city_centre near .
+no French restaurant riverside near .
+yes French restaurant riverside near .
+coffee_shop near 1_out_of_5 .
+coffee_shop near 3_out_of_5 .
+pub near 1_out_of_5 .
+pub near 3_out_of_5 .
+yes Italian pub riverside near .
+yes Italian pub riverside near .
+no Japanese pub city_centre near .
+yes Japanese pub city_centre near .
+no Japanese pub riverside near .
+yes Japanese pub riverside near .
+yes Italian restaurant riverside near .
+yes Italian restaurant riverside near .
+no Japanese restaurant city_centre near .
+yes Japanese restaurant city_centre near .
+no Japanese restaurant riverside near .
+yes Japanese restaurant riverside near .
+coffee_shop riverside .
+pub riverside .
+coffee_shop city_centre .
+coffee_shop near 1_out_of_5 .
+coffee_shop near 1_out_of_5 .
+coffee_shop near low .
+pub city_centre .
+pub near 1_out_of_5 .
+pub near 1_out_of_5 .
+pub near low .
+yes coffee_shop near 1_out_of_5 .
+yes coffee_shop near 3_out_of_5 .
+yes coffee_shop near 3_out_of_5 .
+no coffee_shop near 5_out_of_5 .
+yes coffee_shop near 5_out_of_5 .
+no coffee_shop near average .
+no coffee_shop near average .
+yes coffee_shop near average .
+yes coffee_shop near high .
+yes coffee_shop near high .
+no coffee_shop near low .
+no coffee_shop near low .
+yes coffee_shop near low .
+yes restaurant near 1_out_of_5 .
+yes restaurant near 3_out_of_5 .
+yes restaurant near 3_out_of_5 .
+no restaurant near 5_out_of_5 .
+yes restaurant near 5_out_of_5 .
+no restaurant near average .
+no restaurant near average .
+yes restaurant near average .
+yes restaurant near high .
+yes restaurant near high .
+no restaurant near low .
+no restaurant near low .
+yes restaurant near low .
+no Chinese restaurant city_centre near £_20_@-@_25 high .
+yes Chinese restaurant city_centre near £_20_@-@_25 high .
+no Chinese restaurant riverside near £_20_@-@_25 high .
+yes Chinese restaurant riverside near £_20_@-@_25 high .
+no Chinese restaurant city_centre near cheap 5_out_of_5 .
+yes Chinese restaurant city_centre near cheap 5_out_of_5 .
+no Chinese restaurant riverside near cheap 5_out_of_5 .
+yes Chinese restaurant riverside near cheap 5_out_of_5 .
+no Chinese restaurant city_centre near cheap average .
+yes Chinese restaurant city_centre near cheap average .
+no Chinese restaurant riverside near cheap average .
+yes Chinese restaurant riverside near cheap average .
+no Chinese restaurant city_centre near high 1_out_of_5 .
+yes Chinese restaurant city_centre near high 1_out_of_5 .
+no Chinese restaurant riverside near high 1_out_of_5 .
+yes Chinese restaurant riverside near high 1_out_of_5 .
+no Chinese restaurant city_centre near high average .
+yes Chinese restaurant city_centre near high average .
+no Chinese restaurant riverside near high average .
+yes Chinese restaurant riverside near high average .
+no Chinese restaurant city_centre near less_than_£_20 low .
+yes Chinese restaurant city_centre near less_than_£_20 low .
+no Chinese restaurant riverside near less_than_£_20 low .
+yes Chinese restaurant riverside near less_than_£_20 low .
+no Chinese restaurant city_centre near moderate 1_out_of_5 .
+yes Chinese restaurant city_centre near moderate 1_out_of_5 .
+no Chinese restaurant riverside near moderate 1_out_of_5 .
+yes Chinese restaurant riverside near moderate 1_out_of_5 .
+no Chinese restaurant city_centre near moderate 3_out_of_5 .
+yes Chinese restaurant city_centre near moderate 3_out_of_5 .
+no Chinese restaurant riverside near moderate 3_out_of_5 .
+yes Chinese restaurant riverside near moderate 3_out_of_5 .
+no Chinese restaurant city_centre near more_than_£_30 high .
+yes Chinese restaurant city_centre near more_than_£_30 high .
+no Chinese restaurant riverside near more_than_£_30 high .
+yes Chinese restaurant riverside near more_than_£_30 high .
+no English restaurant city_centre near £_20_@-@_25 high .
+yes English restaurant city_centre near £_20_@-@_25 high .
+no English restaurant riverside near £_20_@-@_25 high .
+yes English restaurant riverside near £_20_@-@_25 high .
+no English restaurant city_centre near cheap 5_out_of_5 .
+yes English restaurant city_centre near cheap 5_out_of_5 .
+no English restaurant riverside near cheap 5_out_of_5 .
+yes English restaurant riverside near cheap 5_out_of_5 .
+no English restaurant city_centre near cheap average .
+yes English restaurant city_centre near cheap average .
+no English restaurant riverside near cheap average .
+yes English restaurant riverside near cheap average .
+no English restaurant city_centre near high 1_out_of_5 .
+yes English restaurant city_centre near high 1_out_of_5 .
+no English restaurant riverside near high 1_out_of_5 .
+yes English restaurant riverside near high 1_out_of_5 .
+no English restaurant city_centre near high average .
+yes English restaurant city_centre near high average .
+no English restaurant riverside near high average .
+pub English high . riverside near yes .
+pub English less_than_£_20 . city_centre near no .
+pub English less_than_£_20 . city_centre near yes .
+pub English less_than_£_20 . riverside near no .
+pub English less_than_£_20 . riverside near yes .
+pub English moderate . city_centre near no .
+pub English moderate . city_centre near yes .
+pub English moderate . riverside near no .
+pub English moderate . riverside near yes .
+pub English more_than_£_30 . riverside near yes .
+pub Fast_food £_20_@-@_25 . riverside near yes .
+no Fast_food pub city_centre near £_20_@-@_25 high .
+yes Fast_food pub city_centre near £_20_@-@_25 high .
+no Fast_food pub riverside near £_20_@-@_25 high .
+yes Fast_food pub riverside near £_20_@-@_25 high .
+yes Fast_food pub riverside near £_20_@-@_25 high .
+pub Fast_food cheap . riverside near yes .
+no Fast_food pub city_centre near cheap 5_out_of_5 .
+yes Fast_food pub city_centre near cheap 5_out_of_5 .
+no Fast_food pub riverside near cheap 5_out_of_5 .
+yes Fast_food pub riverside near cheap 5_out_of_5 .
+no Fast_food pub city_centre near cheap average .
+yes Fast_food pub city_centre near cheap average .
+no Fast_food pub riverside near cheap average .
+yes Fast_food pub riverside near cheap average .
+no Fast_food pub city_centre near high 1_out_of_5 .
+yes Fast_food pub city_centre near high 1_out_of_5 .
+no Fast_food pub riverside near high 1_out_of_5 .
+yes Fast_food pub riverside near high 1_out_of_5 .
+no Fast_food pub city_centre near high average .
+yes Fast_food pub city_centre near high average .
+no Fast_food pub riverside near high average .
+yes Fast_food pub riverside near high average .
+no Fast_food pub city_centre near less_than_£_20 low .
+yes Fast_food pub city_centre near less_than_£_20 low .
+no Fast_food pub riverside near less_than_£_20 low .
+yes Fast_food pub riverside near less_than_£_20 low .
+no Fast_food pub city_centre near moderate 1_out_of_5 .
+yes Fast_food pub city_centre near moderate 1_out_of_5 .
+no Fast_food pub riverside near moderate 1_out_of_5 .
+yes Fast_food pub riverside near moderate 1_out_of_5 .
+no Fast_food pub city_centre near moderate 3_out_of_5 .
+yes Fast_food pub city_centre near moderate 3_out_of_5 .
+no Fast_food pub riverside near moderate 3_out_of_5 .
+yes Fast_food pub riverside near moderate 3_out_of_5 .
+restaurant English high . riverside near yes .
+yes English restaurant riverside near high average .
+restaurant English less_than_£_20 . city_centre near no .
+restaurant English less_than_£_20 . city_centre near yes .
+restaurant English less_than_£_20 . riverside near no .
+restaurant English less_than_£_20 . riverside near yes .
+no English restaurant city_centre near less_than_£_20 low .
+yes English restaurant city_centre near less_than_£_20 low .
+no English restaurant riverside near less_than_£_20 low .
+yes English restaurant riverside near less_than_£_20 low .
+restaurant English moderate . city_centre near no .
+restaurant English moderate . city_centre near yes .
+restaurant English moderate . riverside near no .
+restaurant English moderate . riverside near yes .
+no English restaurant city_centre near moderate 1_out_of_5 .
+yes English restaurant city_centre near moderate 1_out_of_5 .
+no English restaurant riverside near moderate 1_out_of_5 .
+yes English restaurant riverside near moderate 1_out_of_5 .
+no English restaurant city_centre near moderate 3_out_of_5 .
+yes English restaurant city_centre near moderate 3_out_of_5 .
+no English restaurant riverside near moderate 3_out_of_5 .
+yes English restaurant riverside near moderate 3_out_of_5 .
+restaurant English more_than_£_30 . riverside near yes .
+no English restaurant city_centre near more_than_£_30 high .
+yes English restaurant city_centre near more_than_£_30 high .
+no English restaurant riverside near more_than_£_30 high .
+yes English restaurant riverside near more_than_£_30 high .
+restaurant Fast_food £_20_@-@_25 . riverside near yes .
+restaurant Fast_food cheap . riverside near yes .
+pub Fast_food cheap . riverside near yes .
+pub Fast_food high . city_centre near no .
+pub Fast_food high . city_centre near yes .
+pub Fast_food high . riverside near no .
+pub Fast_food high . riverside near yes .
+pub Fast_food less_than_£_20 . city_centre near no .
+pub Fast_food less_than_£_20 . city_centre near yes .
+pub Fast_food less_than_£_20 . riverside near no .
+pub Fast_food less_than_£_20 . riverside near yes .
+pub Fast_food moderate . city_centre near no .
+pub Fast_food moderate . city_centre near yes .
+pub Fast_food moderate . riverside near no .
+pub Fast_food moderate . riverside near yes .
+yes Fast_food pub riverside near moderate 3_out_of_5 .
+pub Fast_food more_than_£_30 . riverside near yes .
+no Fast_food pub city_centre near more_than_£_30 high .
+yes Fast_food pub city_centre near more_than_£_30 high .
+no Fast_food pub riverside near more_than_£_30 high .
+yes Fast_food pub riverside near more_than_£_30 high .
+pub French £_20_@-@_25 . riverside near yes .
+no French pub city_centre near £_20_@-@_25 3_out_of_5 .
+yes French pub city_centre near £_20_@-@_25 3_out_of_5 .
+no French pub riverside near £_20_@-@_25 3_out_of_5 .
+yes French pub riverside near £_20_@-@_25 3_out_of_5 .
+yes French pub riverside near £_20_@-@_25 3_out_of_5 .
+no French pub city_centre near £_20_@-@_25 high .
+yes French pub city_centre near £_20_@-@_25 high .
+no French pub riverside near £_20_@-@_25 high .
+yes French pub riverside near £_20_@-@_25 high .
+pub French cheap . riverside near yes .
+no French pub city_centre near cheap 5_out_of_5 .
+yes French pub city_centre near cheap 5_out_of_5 .
+no French pub riverside near cheap 5_out_of_5 .
+yes French pub riverside near cheap 5_out_of_5 .
+pub French high . riverside near yes .
+no French pub city_centre near high 3_out_of_5 .
+yes French pub city_centre near high 3_out_of_5 .
+no French pub riverside near high 3_out_of_5 .
+yes French pub riverside near high 3_out_of_5 .
+no French pub city_centre near less_than_£_20 average .
+yes French pub city_centre near less_than_£_20 average .
+no French pub riverside near less_than_£_20 average .
+yes French pub riverside near less_than_£_20 average .
+no French pub city_centre near less_than_£_20 low .
+yes French pub city_centre near less_than_£_20 low .
+no French pub riverside near less_than_£_20 low .
+yes French pub riverside near less_than_£_20 low .
+no French pub city_centre near moderate 1_out_of_5 .
+yes French pub city_centre near moderate 1_out_of_5 .
+no French pub riverside near moderate 1_out_of_5 .
+yes French pub riverside near moderate 1_out_of_5 .
+no French pub city_centre near more_than_£_30 5_out_of_5 .
+yes French pub city_centre near more_than_£_30 5_out_of_5 .
+no French pub riverside near more_than_£_30 5_out_of_5 .
+yes French pub riverside near more_than_£_30 5_out_of_5 .
+no French pub city_centre near more_than_£_30 low .
+yes French pub city_centre near more_than_£_30 low .
+no French pub riverside near more_than_£_30 low .
+yes French pub riverside near more_than_£_30 low .
+restaurant Fast_food cheap . riverside near yes .
+restaurant Fast_food high . city_centre near no .
+restaurant Fast_food high . city_centre near yes .
+restaurant Fast_food high . riverside near no .
+restaurant Fast_food high . riverside near yes .
+restaurant Fast_food less_than_£_20 . city_centre near no .
+restaurant Fast_food less_than_£_20 . city_centre near yes .
+restaurant Fast_food less_than_£_20 . riverside near no .
+restaurant Fast_food less_than_£_20 . riverside near yes .
+restaurant Fast_food moderate . city_centre near no .
+restaurant Fast_food moderate . city_centre near yes .
+restaurant Fast_food moderate . riverside near no .
+restaurant Fast_food moderate . riverside near yes .
+restaurant Fast_food more_than_£_30 . riverside near yes .
+restaurant French £_20_@-@_25 . riverside near yes .
+restaurant French cheap . riverside near yes .
+restaurant French high . riverside near yes .
+no Indian restaurant city_centre near £_20_@-@_25 high .
+yes Indian restaurant city_centre near £_20_@-@_25 high .
+no Indian restaurant riverside near £_20_@-@_25 high .
+yes Indian restaurant riverside near £_20_@-@_25 high .
+no Indian restaurant city_centre near cheap 5_out_of_5 .
+yes Indian restaurant city_centre near cheap 5_out_of_5 .
+no Indian restaurant riverside near cheap 5_out_of_5 .
+no Indian restaurant riverside near cheap 5_out_of_5 .
+yes Indian restaurant riverside near cheap 5_out_of_5 .
+no Indian restaurant city_centre near cheap average .
+pub Chinese £_20_@-@_25 . riverside near yes .
+pub Chinese cheap . riverside near yes .
+pub Chinese high . city_centre near no .
+pub Chinese high . city_centre near yes .
+pub Chinese high . riverside near no .
+pub Chinese high . riverside near yes .
+pub Chinese less_than_£_20 . city_centre near no .
+restaurant Chinese £_20_@-@_25 . riverside near yes .
+restaurant Chinese cheap . riverside near yes .
+restaurant Chinese high . city_centre near no .
+restaurant Chinese high . city_centre near yes .
+restaurant Chinese high . riverside near no .
+restaurant Chinese high . riverside near yes .
+restaurant Chinese less_than_£_20 . city_centre near no .
+pub Chinese less_than_£_20 . city_centre near yes .
+pub Chinese less_than_£_20 . riverside near no .
+pub Chinese less_than_£_20 . riverside near yes .
+pub Chinese moderate . city_centre near no .
+pub Chinese moderate . city_centre near yes .
+pub Chinese moderate . riverside near no .
+pub Chinese moderate . riverside near yes .
+pub Chinese more_than_£_30 . riverside near yes .
+pub English £_20_@-@_25 . riverside near yes .
+pub English cheap . riverside near yes .
+pub English high . city_centre near no .
+pub English high . city_centre near yes .
+pub English high . riverside near no .
+pub English high . riverside near yes .
+no Italian pub city_centre near high average .
+restaurant Chinese less_than_£_20 . city_centre near yes .
+restaurant Chinese less_than_£_20 . riverside near no .
+restaurant Chinese less_than_£_20 . riverside near yes .
+restaurant Chinese moderate . city_centre near no .
+restaurant Chinese moderate . city_centre near yes .
+restaurant Chinese moderate . riverside near no .
+restaurant Chinese moderate . riverside near yes .
+restaurant Chinese more_than_£_30 . riverside near yes .
+restaurant English £_20_@-@_25 . riverside near yes .
+restaurant English cheap . riverside near yes .
+restaurant English high . city_centre near no .
+restaurant English high . city_centre near yes .
+restaurant English high . riverside near no .
+restaurant English high . riverside near yes .
+yes Indian restaurant city_centre near cheap average .
+no Indian restaurant riverside near cheap average .
+yes Indian restaurant riverside near cheap average .
+no Indian restaurant city_centre near high 1_out_of_5 .
+yes Indian restaurant city_centre near high 1_out_of_5 .
+no Indian restaurant riverside near high 1_out_of_5 .
+yes Indian restaurant riverside near high 1_out_of_5 .
+no Indian restaurant city_centre near high average .
+yes Indian restaurant city_centre near high average .
+no Indian restaurant riverside near high average .
+yes Indian restaurant riverside near high average .
+no Indian restaurant city_centre near less_than_£_20 low .
+yes Indian restaurant city_centre near less_than_£_20 low .
+no Indian restaurant riverside near less_than_£_20 low .
+yes Indian restaurant riverside near less_than_£_20 low .
+no Indian restaurant city_centre near moderate 1_out_of_5 .
+yes Indian restaurant city_centre near moderate 1_out_of_5 .
+no Indian restaurant riverside near moderate 1_out_of_5 .
+yes Indian restaurant riverside near moderate 1_out_of_5 .
+no Indian restaurant city_centre near moderate 3_out_of_5 .
+yes Indian restaurant city_centre near moderate 3_out_of_5 .
+no Indian restaurant riverside near moderate 3_out_of_5 .
+yes Indian restaurant riverside near moderate 3_out_of_5 .
+no Indian restaurant city_centre near more_than_£_30 high .
+yes Indian restaurant city_centre near more_than_£_30 high .
+no Indian restaurant riverside near more_than_£_30 high .
+yes Indian restaurant riverside near more_than_£_30 high .
+no Italian restaurant city_centre near £_20_@-@_25 high .
+yes Italian restaurant city_centre near £_20_@-@_25 high .
+no Italian restaurant riverside near £_20_@-@_25 high .
+yes Italian restaurant riverside near £_20_@-@_25 high .
+no Italian restaurant city_centre near cheap 5_out_of_5 .
+no Italian restaurant city_centre near cheap 5_out_of_5 .
+yes Italian restaurant city_centre near cheap 5_out_of_5 .
+no Italian restaurant riverside near cheap 5_out_of_5 .
+yes Italian restaurant riverside near cheap 5_out_of_5 .
+no Italian restaurant city_centre near cheap average .
+yes Italian restaurant city_centre near cheap average .
+no Italian restaurant riverside near cheap average .
+yes Italian restaurant riverside near cheap average .
+no Italian restaurant city_centre near high 1_out_of_5 .
+yes Italian restaurant city_centre near high 1_out_of_5 .
+no Italian restaurant riverside near high 1_out_of_5 .
+yes Italian restaurant riverside near high 1_out_of_5 .
+pub French high . riverside near yes .
+pub French less_than_£_20 . city_centre near no .
+pub French less_than_£_20 . city_centre near yes .
+pub French less_than_£_20 . riverside near no .
+pub French less_than_£_20 . riverside near yes .
+pub French moderate . city_centre near no .
+pub French moderate . city_centre near yes .
+pub French moderate . riverside near no .
+pub French moderate . riverside near yes .
+pub French more_than_£_30 . city_centre near no .
+pub French more_than_£_30 . city_centre near yes .
+pub French more_than_£_30 . riverside near no .
+pub French more_than_£_30 . riverside near yes .
+pub Indian £_20_@-@_25 . riverside near yes .
+pub Indian cheap . riverside near yes .
+pub Indian high . city_centre near no .
+pub Indian high . city_centre near yes .
+no Italian pub city_centre near high average .
+yes Italian pub city_centre near high average .
+no Italian pub riverside near high average .
+yes Italian pub riverside near high average .
+no Italian pub city_centre near less_than_£_20 low .
+yes Italian pub city_centre near less_than_£_20 low .
+no Italian pub riverside near less_than_£_20 low .
+yes Italian pub riverside near less_than_£_20 low .
+no Italian pub city_centre near moderate 1_out_of_5 .
+yes Italian pub city_centre near moderate 1_out_of_5 .
+no Italian pub riverside near moderate 1_out_of_5 .
+yes Italian pub riverside near moderate 1_out_of_5 .
+no Italian pub city_centre near moderate 3_out_of_5 .
+yes Italian pub city_centre near moderate 3_out_of_5 .
+no Italian pub riverside near moderate 3_out_of_5 .
+yes Italian pub riverside near moderate 3_out_of_5 .
+no Italian pub city_centre near more_than_£_30 high .
+yes Italian pub city_centre near more_than_£_30 high .
+no Italian pub riverside near more_than_£_30 high .
+yes Italian pub riverside near more_than_£_30 high .
+no Japanese pub city_centre near £_20_@-@_25 3_out_of_5 .
+yes Japanese pub city_centre near £_20_@-@_25 3_out_of_5 .
+no Japanese pub riverside near £_20_@-@_25 3_out_of_5 .
+yes Japanese pub riverside near £_20_@-@_25 3_out_of_5 .
+no Japanese pub city_centre near £_20_@-@_25 high .
+yes Japanese pub city_centre near £_20_@-@_25 high .
+no Japanese pub riverside near £_20_@-@_25 high .
+no Japanese pub riverside near £_20_@-@_25 high .
+yes Japanese pub riverside near £_20_@-@_25 high .
+no Japanese pub city_centre near cheap 5_out_of_5 .
+yes Japanese pub city_centre near cheap 5_out_of_5 .
+no Japanese pub riverside near cheap 5_out_of_5 .
+yes Japanese pub riverside near cheap 5_out_of_5 .
+no Japanese pub city_centre near high 3_out_of_5 .
+yes Japanese pub city_centre near high 3_out_of_5 .
+no Japanese pub riverside near high 3_out_of_5 .
+yes Japanese pub riverside near high 3_out_of_5 .
+no Japanese pub city_centre near less_than_£_20 average .
+yes Japanese pub city_centre near less_than_£_20 average .
+no Japanese pub riverside near less_than_£_20 average .
+yes Japanese pub riverside near less_than_£_20 average .
+no Japanese pub city_centre near less_than_£_20 low .
+yes Japanese pub city_centre near less_than_£_20 low .
+no Japanese pub riverside near less_than_£_20 low .
+yes Japanese pub riverside near less_than_£_20 low .
+no Japanese pub city_centre near moderate 1_out_of_5 .
+yes Japanese pub city_centre near moderate 1_out_of_5 .
+restaurant French high . riverside near yes .
+restaurant French less_than_£_20 . city_centre near no .
+restaurant French less_than_£_20 . city_centre near yes .
+restaurant French less_than_£_20 . riverside near no .
+restaurant French less_than_£_20 . riverside near yes .
+restaurant French moderate . city_centre near no .
+restaurant French moderate . city_centre near yes .
+restaurant French moderate . riverside near no .
+restaurant French moderate . riverside near yes .
+restaurant French more_than_£_30 . city_centre near no .
+restaurant French more_than_£_30 . city_centre near yes .
+restaurant French more_than_£_30 . riverside near no .
+restaurant French more_than_£_30 . riverside near yes .
+restaurant Indian £_20_@-@_25 . riverside near yes .
+restaurant Indian cheap . riverside near yes .
+restaurant Indian high . city_centre near no .
+restaurant Indian high . city_centre near yes .
+pub Indian high . city_centre near yes .
+pub Indian high . riverside near no .
+pub Indian high . riverside near yes .
+pub Indian less_than_£_20 . city_centre near no .
+pub Indian less_than_£_20 . city_centre near yes .
+pub Indian less_than_£_20 . riverside near no .
+pub Indian less_than_£_20 . riverside near yes .
+pub Indian moderate . city_centre near no .
+pub Indian moderate . city_centre near yes .
+pub Indian moderate . riverside near no .
+pub Indian moderate . riverside near yes .
+pub Indian more_than_£_30 . riverside near yes .
+pub Italian £_20_@-@_25 . riverside near yes .
+pub Italian cheap . riverside near yes .
+pub Italian high . city_centre near no .
+pub Italian high . city_centre near yes .
+pub Italian high . riverside near no .
+pub Italian high . riverside near yes .
+pub Italian less_than_£_20 . city_centre near no .
+pub Italian less_than_£_20 . city_centre near yes .
+pub Italian less_than_£_20 . riverside near no .
+restaurant Indian high . city_centre near yes .
+restaurant Indian high . riverside near no .
+restaurant Indian high . riverside near yes .
+restaurant Indian less_than_£_20 . city_centre near no .
+restaurant Indian less_than_£_20 . city_centre near yes .
+restaurant Indian less_than_£_20 . riverside near no .
+restaurant Indian less_than_£_20 . riverside near yes .
+restaurant Indian moderate . city_centre near no .
+restaurant Indian moderate . city_centre near yes .
+restaurant Indian moderate . riverside near no .
+restaurant Indian moderate . riverside near yes .
+restaurant Indian more_than_£_30 . riverside near yes .
+restaurant Italian £_20_@-@_25 . riverside near yes .
+restaurant Italian cheap . riverside near yes .
+restaurant Italian high . city_centre near no .
+restaurant Italian high . city_centre near yes .
+restaurant Italian high . riverside near no .
+restaurant Italian high . riverside near yes .
+restaurant Italian less_than_£_20 . city_centre near no .
+restaurant Italian less_than_£_20 . city_centre near yes .
+restaurant Italian less_than_£_20 . riverside near no .
+pub Italian less_than_£_20 . riverside near no .
+pub Italian less_than_£_20 . riverside near yes .
+pub Italian moderate . city_centre near no .
+pub Italian moderate . city_centre near yes .
+pub Italian moderate . riverside near no .
+pub Italian moderate . riverside near yes .
+pub Italian more_than_£_30 . riverside near yes .
+pub Japanese £_20_@-@_25 . riverside near yes .
+pub Japanese cheap . riverside near yes .
+pub Japanese high . riverside near yes .
+pub Japanese less_than_£_20 . city_centre near no .
+pub Japanese less_than_£_20 . city_centre near yes .
+pub Japanese less_than_£_20 . riverside near no .
+pub Japanese less_than_£_20 . riverside near yes .
+pub Japanese moderate . city_centre near no .
+pub Japanese moderate . city_centre near yes .
+pub Japanese moderate . riverside near no .
+pub Japanese moderate . riverside near yes .
+yes Japanese pub city_centre near moderate 1_out_of_5 .
+no Japanese pub riverside near moderate 1_out_of_5 .
+yes Japanese pub riverside near moderate 1_out_of_5 .
+pub Japanese more_than_£_30 . city_centre near no .
+pub Japanese more_than_£_30 . city_centre near yes .
+pub Japanese more_than_£_30 . riverside near no .
+pub Japanese more_than_£_30 . riverside near yes .
+no Japanese pub city_centre near more_than_£_30 5_out_of_5 .
+yes Japanese pub city_centre near more_than_£_30 5_out_of_5 .
+no Japanese pub riverside near more_than_£_30 5_out_of_5 .
+yes Japanese pub riverside near more_than_£_30 5_out_of_5 .
+no Japanese pub city_centre near more_than_£_30 low .
+yes Japanese pub city_centre near more_than_£_30 low .
+no Japanese pub riverside near more_than_£_30 low .
+yes Japanese pub riverside near more_than_£_30 low .
+restaurant Italian less_than_£_20 . riverside near no .
+restaurant Italian less_than_£_20 . riverside near yes .
+restaurant Italian moderate . city_centre near no .
+restaurant Italian moderate . city_centre near yes .
+restaurant Italian moderate . riverside near no .
+restaurant Italian moderate . riverside near yes .
+restaurant Italian more_than_£_30 . riverside near yes .
+restaurant Japanese £_20_@-@_25 . riverside near yes .
+restaurant Japanese cheap . riverside near yes .
+restaurant Japanese high . riverside near yes .
+restaurant Japanese less_than_£_20 . city_centre near no .
+restaurant Japanese less_than_£_20 . city_centre near yes .
+restaurant Japanese less_than_£_20 . riverside near no .
+restaurant Japanese less_than_£_20 . riverside near yes .
+restaurant Japanese moderate . city_centre near no .
+restaurant Japanese moderate . city_centre near yes .
+restaurant Japanese moderate . riverside near no .
+restaurant Japanese moderate . riverside near yes .
+restaurant Japanese more_than_£_30 . city_centre near no .
+restaurant Japanese more_than_£_30 . city_centre near yes .
+restaurant Japanese more_than_£_30 . riverside near no .
+restaurant Japanese more_than_£_30 . riverside near yes .
+coffee_shop riverside .
+pub riverside .
+yes French pub riverside near .
+no Indian pub city_centre near .
+yes Indian pub city_centre near .
+no Indian pub riverside near .
+yes Indian pub riverside near .
+no Italian pub city_centre near .
+yes Italian pub city_centre near .
+no Italian pub riverside near .
+yes Italian pub riverside near .
+yes French restaurant riverside near .
+no Indian restaurant city_centre near .
+yes Indian restaurant city_centre near .
+no Indian restaurant riverside near .
+yes Indian restaurant riverside near .
+no Italian restaurant city_centre near .
+yes Italian restaurant city_centre near .
+no Italian restaurant riverside near .
+yes Italian restaurant riverside near .
+coffee_shop riverside .
+coffee_shop near average .
+coffee_shop near high .
+coffee_shop near .
+pub riverside .
+pub near average .
+pub near high .
+pub near .

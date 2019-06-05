@@ -545,3 +545,86 @@ restaurant Italian high riverside yes near
 restaurant Italian less_than_£_20 city_centre no near
 restaurant Italian less_than_£_20 city_centre yes near
 restaurant Italian less_than_£_20 riverside no near
+pub Italian less_than_£_20 riverside no near
+pub Italian less_than_£_20 riverside yes near
+pub Italian moderate city_centre no near
+pub Italian moderate city_centre yes near
+pub Italian moderate riverside no near
+pub Italian moderate riverside yes near
+pub Italian more_than_£_30 riverside yes near
+pub Japanese £_20_@-@_25 riverside yes near
+pub Japanese cheap riverside yes near
+pub Japanese high riverside yes near
+pub Japanese less_than_£_20 city_centre no near
+pub Japanese less_than_£_20 city_centre yes near
+pub Japanese less_than_£_20 riverside no near
+pub Japanese less_than_£_20 riverside yes near
+pub Japanese moderate city_centre no near
+pub Japanese moderate city_centre yes near
+pub Japanese moderate riverside no near
+pub Japanese moderate riverside yes near
+pub Japanese moderate 1_out_of_5 city_centre yes near
+pub Japanese moderate 1_out_of_5 riverside no near
+pub Japanese moderate 1_out_of_5 riverside yes near
+pub Japanese more_than_£_30 city_centre no near
+pub Japanese more_than_£_30 city_centre yes near
+pub Japanese more_than_£_30 riverside no near
+pub Japanese more_than_£_30 riverside yes near
+pub Japanese more_than_£_30 5_out_of_5 city_centre no near
+pub Japanese more_than_£_30 5_out_of_5 city_centre yes near
+pub Japanese more_than_£_30 5_out_of_5 riverside no near
+pub Japanese more_than_£_30 5_out_of_5 riverside yes near
+pub Japanese more_than_£_30 low city_centre no near
+pub Japanese more_than_£_30 low city_centre yes near
+pub Japanese more_than_£_30 low riverside no near
+pub Japanese more_than_£_30 low riverside yes near
+restaurant Italian less_than_£_20 riverside no near
+restaurant Italian less_than_£_20 riverside yes near
+restaurant Italian moderate city_centre no near
+restaurant Italian moderate city_centre yes near
+restaurant Italian moderate riverside no near
+restaurant Italian moderate riverside yes near
+restaurant Italian more_than_£_30 riverside yes near
+restaurant Japanese £_20_@-@_25 riverside yes near
+restaurant Japanese cheap riverside yes near
+restaurant Japanese high riverside yes near
+restaurant Japanese less_than_£_20 city_centre no near
+restaurant Japanese less_than_£_20 city_centre yes near
+restaurant Japanese less_than_£_20 riverside no near
+restaurant Japanese less_than_£_20 riverside yes near
+restaurant Japanese moderate city_centre no near
+restaurant Japanese moderate city_centre yes near
+restaurant Japanese moderate riverside no near
+restaurant Japanese moderate riverside yes near
+restaurant Japanese more_than_£_30 city_centre no near
+restaurant Japanese more_than_£_30 city_centre yes near
+restaurant Japanese more_than_£_30 riverside no near
+restaurant Japanese more_than_£_30 riverside yes near
+coffee_shop riverside
+pub riverside
+pub French riverside yes near
+pub Indian city_centre no near
+pub Indian city_centre yes near
+pub Indian riverside no near
+pub Indian riverside yes near
+pub Italian city_centre no near
+pub Italian city_centre yes near
+pub Italian riverside no near
+pub Italian riverside yes near
+restaurant French riverside yes near
+restaurant Indian city_centre no near
+restaurant Indian city_centre yes near
+restaurant Indian riverside no near
+restaurant Indian riverside yes near
+restaurant Italian city_centre no near
+restaurant Italian city_centre yes near
+restaurant Italian riverside no near
+restaurant Italian riverside yes near
+coffee_shop riverside
+coffee_shop average near
+coffee_shop high near
+coffee_shop near
+pub riverside
+pub average near
+pub high near
+pub near

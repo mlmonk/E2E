@@ -1,0 +1,4672 @@
+city_centre no .
+city_centre no .
+no city_centre .
+no city_centre .
+no city_centre .
+city_centre no .
+no near city_centre .
+near city_centre no .
+no . city_centre near .
+near city_centre . no .
+near city_centre no .
+no city_centre near .
+yes city_centre .
+city_centre yes .
+city_centre yes .
+city_centre yes .
+yes city_centre .
+yes city_centre .
+yes near city_centre .
+yes city_centre near .
+city_centre near yes .
+near city_centre yes .
+near city_centre yes .
+yes city_centre near .
+no .
+no riverside .
+no riverside .
+riverside .
+riverside .
+riverside . no .
+riverside no .
+no riverside .
+no . riverside .
+near no .
+riverside near no .
+riverside near no .
+no near riverside .
+riverside near no .
+riverside near no .
+no near .
+near no .
+near riverside . no .
+no . near riverside .
+near no .
+yes riverside .
+riverside yes .
+yes riverside .
+yes riverside .
+riverside yes .
+yes riverside .
+riverside yes .
+yes riverside .
+yes riverside .
+riverside yes .
+riverside yes .
+riverside yes .
+riverside yes .
+riverside yes .
+yes riverside .
+riverside yes .
+riverside yes .
+riverside . yes .
+riverside yes .
+riverside yes .
+yes riverside .
+yes riverside .
+yes riverside .
+riverside . yes .
+yes riverside .
+riverside yes .
+yes riverside .
+riverside yes .
+riverside yes .
+riverside yes .
+yes riverside .
+riverside . yes .
+yes riverside .
+riverside yes .
+riverside yes .
+yes riverside .
+riverside yes .
+yes . near riverside .
+near riverside yes .
+yes riverside near .
+near yes riverside .
+yes near riverside .
+yes near riverside .
+near riverside yes .
+yes riverside near .
+yes riverside near .
+yes riverside near .
+yes riverside near .
+yes near riverside .
+riverside yes . near .
+yes riverside near .
+yes riverside near .
+near riverside yes .
+near yes riverside .
+yes riverside near .
+riverside near yes .
+yes near riverside .
+near riverside yes .
+riverside near yes .
+yes near riverside .
+near yes . riverside .
+yes riverside near .
+near riverside yes .
+yes riverside near .
+riverside near yes .
+yes riverside near .
+near yes riverside .
+yes riverside near .
+yes near riverside .
+riverside yes near .
+near riverside yes .
+riverside near yes .
+near yes .
+riverside near yes .
+yes riverside near .
+yes near riverside .
+Chinese coffee_shop riverside 1_out_of_5 yes .
+coffee_shop Chinese riverside . 1_out_of_5 .
+coffee_shop Chinese riverside . 1_out_of_5 .
+coffee_shop Chinese riverside . 1_out_of_5 .
+coffee_shop Chinese . yes riverside .
+coffee_shop Chinese riverside yes 1_out_of_5 .
+coffee_shop Chinese . riverside yes .
+Chinese coffee_shop 1_out_of_5 riverside yes .
+coffee_shop riverside . Chinese 1_out_of_5 yes .
+coffee_shop riverside . Chinese yes 1_out_of_5 .
+3_out_of_5 coffee_shop riverside . Chinese yes .
+3_out_of_5 yes coffee_shop riverside . Chinese .
+coffee_shop Chinese yes 3_out_of_5 . riverside .
+coffee_shop Chinese riverside 3_out_of_5 .
+yes coffee_shop 3_out_of_5 Chinese riverside .
+coffee_shop Chinese riverside 3_out_of_5 .
+yes coffee_shop Chinese riverside . 3_out_of_5 .
+coffee_shop Chinese city_centre . 5_out_of_5 .
+coffee_shop Chinese . 5_out_of_5 city_centre no .
+5_out_of_5 coffee_shop Chinese . no city_centre .
+coffee_shop Chinese . 5_out_of_5 no city_centre .
+coffee_shop Chinese . 5_out_of_5 city_centre no .
+coffee_shop Chinese . 5_out_of_5 city_centre no .
+coffee_shop Chinese city_centre . 5_out_of_5 .
+yes coffee_shop city_centre Chinese . 5_out_of_5 .
+coffee_shop Chinese city_centre . yes 5_out_of_5 .
+coffee_shop Chinese city_centre . 5_out_of_5 yes .
+coffee_shop Chinese yes 5_out_of_5 . city_centre .
+coffee_shop Chinese city_centre . 5_out_of_5 .
+coffee_shop Chinese riverside . 5_out_of_5 .
+coffee_shop Chinese riverside . 5_out_of_5 no .
+coffee_shop Chinese riverside . 5_out_of_5 .
+5_out_of_5 coffee_shop Chinese riverside . no .
+coffee_shop riverside Chinese . no 5_out_of_5 .
+coffee_shop Chinese riverside . 5_out_of_5 no .
+Chinese coffee_shop riverside . yes 5_out_of_5 .
+coffee_shop Chinese 5_out_of_5 . riverside yes .
+coffee_shop Chinese . yes riverside 5_out_of_5 .
+5_out_of_5 Chinese yes coffee_shop riverside .
+5_out_of_5 yes coffee_shop Chinese riverside .
+Chinese riverside 5_out_of_5 yes coffee_shop .
+coffee_shop riverside yes Chinese 5_out_of_5 .
+coffee_shop Chinese average city_centre . no .
+coffee_shop Chinese average city_centre no .
+coffee_shop Chinese average city_centre no .
+city_centre coffee_shop average Chinese .
+coffee_shop Chinese average city_centre no .
+average coffee_shop Chinese city_centre .
+coffee_shop Chinese average city_centre no .
+city_centre coffee_shop Chinese average yes .
+yes coffee_shop Chinese . city_centre average .
+coffee_shop Chinese . average city_centre yes .
+coffee_shop Chinese average city_centre yes .
+yes coffee_shop Chinese city_centre average .
+coffee_shop Chinese average yes . city_centre .
+average riverside Chinese .
+Chinese coffee_shop average . riverside no .
+coffee_shop average Chinese . riverside no .
+coffee_shop Chinese riverside . average .
+no riverside average Chinese .
+riverside Chinese coffee_shop . no average .
+yes Chinese coffee_shop riverside .
+riverside Chinese coffee_shop yes average .
+coffee_shop Chinese average riverside yes .
+average Chinese coffee_shop riverside yes .
+riverside coffee_shop Chinese yes average .
+yes Chinese coffee_shop riverside . average .
+average Chinese coffee_shop riverside yes .
+yes coffee_shop Chinese . riverside average .
+coffee_shop Chinese . riverside average yes .
+average coffee_shop riverside Chinese . yes .
+yes Chinese coffee_shop riverside . average .
+Chinese coffee_shop yes average riverside .
+coffee_shop Chinese average riverside yes .
+yes riverside Chinese high .
+coffee_shop riverside Chinese . high yes .
+Chinese coffee_shop riverside high yes .
+coffee_shop riverside yes Chinese high .
+Chinese coffee_shop riverside high yes .
+coffee_shop high Chinese riverside yes .
+coffee_shop Chinese riverside . high .
+coffee_shop Chinese riverside . high .
+high yes coffee_shop Chinese riverside .
+coffee_shop Chinese . yes riverside high .
+coffee_shop Chinese low no . city_centre .
+Chinese coffee_shop low no city_centre .
+low no Chinese coffee_shop city_centre .
+Chinese coffee_shop city_centre low no .
+coffee_shop Chinese . low city_centre no .
+coffee_shop city_centre . Chinese low no .
+coffee_shop Chinese city_centre . yes low .
+coffee_shop Chinese city_centre . low .
+yes Chinese coffee_shop city_centre low .
+coffee_shop Chinese city_centre . low .
+riverside coffee_shop no low . Chinese .
+coffee_shop Chinese . low riverside no .
+riverside coffee_shop low Chinese . no .
+coffee_shop Chinese riverside . low .
+Chinese coffee_shop riverside . no low .
+low coffee_shop Chinese riverside . no .
+yes Chinese coffee_shop riverside .
+low coffee_shop Chinese riverside . yes .
+low yes coffee_shop Chinese riverside .
+yes Chinese coffee_shop riverside low .
+coffee_shop Chinese riverside . low .
+Chinese coffee_shop low riverside .
+English coffee_shop riverside yes 1_out_of_5 .
+riverside coffee_shop English yes 1_out_of_5 .
+coffee_shop English . 1_out_of_5 riverside yes .
+English coffee_shop yes riverside 1_out_of_5 .
+coffee_shop riverside English 1_out_of_5 .
+coffee_shop riverside English 1_out_of_5 .
+coffee_shop English riverside yes 1_out_of_5 .
+English coffee_shop yes riverside 1_out_of_5 .
+yes English coffee_shop riverside 1_out_of_5 .
+yes English coffee_shop riverside 1_out_of_5 .
+coffee_shop English . 1_out_of_5 riverside yes .
+riverside English coffee_shop yes 1_out_of_5 .
+yes English coffee_shop 3_out_of_5 riverside .
+coffee_shop English riverside . yes 3_out_of_5 .
+English coffee_shop 3_out_of_5 yes riverside .
+coffee_shop riverside English . yes 3_out_of_5 .
+coffee_shop riverside English 3_out_of_5 . yes .
+yes coffee_shop English riverside . 3_out_of_5 .
+coffee_shop English no 5_out_of_5 city_centre .
+coffee_shop city_centre no English 5_out_of_5 .
+5_out_of_5 city_centre English coffee_shop no .
+city_centre coffee_shop 5_out_of_5 English .
+English coffee_shop city_centre no 5_out_of_5 .
+coffee_shop city_centre 5_out_of_5 no English .
+coffee_shop city_centre yes 5_out_of_5 .
+coffee_shop English yes city_centre 5_out_of_5 .
+coffee_shop yes English . 5_out_of_5 city_centre .
+city_centre 5_out_of_5 yes coffee_shop .
+English coffee_shop riverside . no 5_out_of_5 .
+riverside English coffee_shop . 5_out_of_5 no .
+English coffee_shop riverside no .
+no English coffee_shop riverside .
+5_out_of_5 riverside yes English coffee_shop .
+yes riverside coffee_shop English . 5_out_of_5 .
+yes coffee_shop riverside . English 5_out_of_5 .
+5_out_of_5 coffee_shop riverside . yes .
+5_out_of_5 English coffee_shop yes riverside .
+yes coffee_shop riverside 5_out_of_5 .
+coffee_shop 5_out_of_5 .
+yes coffee_shop riverside 5_out_of_5 English .
+yes English coffee_shop riverside . 5_out_of_5 .
+5_out_of_5 coffee_shop .
+coffee_shop 5_out_of_5 .
+coffee_shop English city_centre no average .
+city_centre average English no coffee_shop .
+coffee_shop city_centre . English average no .
+coffee_shop city_centre English . average no .
+city_centre coffee_shop . English no average .
+English coffee_shop city_centre . average no .
+English yes coffee_shop city_centre . average .
+coffee_shop English . yes average city_centre .
+coffee_shop English . yes average city_centre .
+English coffee_shop city_centre . yes average .
+city_centre coffee_shop English . yes average .
+yes coffee_shop English city_centre . average .
+English coffee_shop riverside . average .
+English coffee_shop . riverside average no .
+riverside English coffee_shop . no average .
+English coffee_shop riverside . average .
+coffee_shop yes .
+yes coffee_shop English riverside average .
+English average yes coffee_shop riverside .
+riverside English coffee_shop .
+average coffee_shop English riverside yes .
+.
+riverside average yes coffee_shop English .
+. riverside coffee_shop yes English .
+coffee_shop .
+average yes coffee_shop .
+coffee_shop riverside English yes average .
+average coffee_shop English riverside . yes .
+. riverside coffee_shop yes English .
+yes English coffee_shop riverside average .
+coffee_shop riverside average English .
+coffee_shop English yes average riverside .
+average yes coffee_shop .
+yes high coffee_shop English riverside .
+high coffee_shop yes English riverside .
+high yes English coffee_shop riverside . .
+yes coffee_shop riverside English high . .
+English coffee_shop riverside . high yes .
+yes coffee_shop riverside . English high .
+coffee_shop yes high . English riverside .
+yes coffee_shop English . riverside high .
+high coffee_shop English yes riverside .
+high yes English coffee_shop riverside . .
+English coffee_shop city_centre no low .
+low coffee_shop English . city_centre no .
+English coffee_shop city_centre low no .
+low coffee_shop city_centre no .
+yes city_centre .
+city_centre yes coffee_shop . English low .
+city_centre .
+coffee_shop yes English . low city_centre .
+coffee_shop .
+coffee_shop no . English .
+riverside English coffee_shop . low no .
+coffee_shop English riverside low .
+English coffee_shop .
+coffee_shop no .
+coffee_shop no .
+coffee_shop riverside .
+low coffee_shop riverside .
+coffee_shop English . no .
+English coffee_shop riverside . no low .
+low riverside . yes .
+coffee_shop yes English . riverside .
+yes coffee_shop riverside . English low .
+English yes coffee_shop . riverside low .
+yes coffee_shop riverside .
+coffee_shop yes .
+coffee_shop yes .
+coffee_shop riverside yes English .
+low coffee_shop yes . riverside .
+city_centre near .
+near city_centre .
+near city_centre .
+near city_centre .
+near city_centre .
+city_centre near .
+riverside near .
+near . riverside .
+riverside near .
+riverside near .
+riverside near .
+near riverside .
+riverside near .
+riverside . near .
+riverside near .
+riverside near .
+near riverside .
+riverside . near .
+coffee_shop Chinese 1_out_of_5 riverside yes near .
+coffee_shop Chinese riverside . near 1_out_of_5 .
+yes coffee_shop near riverside . Chinese 1_out_of_5 .
+coffee_shop Chinese 1_out_of_5 riverside yes near .
+yes riverside coffee_shop Chinese . near 1_out_of_5 .
+near riverside 1_out_of_5 coffee_shop Chinese .
+coffee_shop riverside Chinese . yes near 1_out_of_5 .
+yes coffee_shop Chinese riverside near 1_out_of_5 .
+near riverside yes coffee_shop Chinese 1_out_of_5 .
+riverside 1_out_of_5 coffee_shop near Chinese yes .
+coffee_shop Chinese . near yes riverside 1_out_of_5 .
+coffee_shop Chinese 1_out_of_5 riverside . yes near .
+near riverside . Chinese coffee_shop yes 3_out_of_5 .
+riverside near . coffee_shop Chinese 3_out_of_5 yes .
+coffee_shop Chinese . near riverside yes 3_out_of_5 .
+near riverside Chinese . 3_out_of_5 yes .
+coffee_shop Chinese near riverside . yes 3_out_of_5 .
+3_out_of_5 coffee_shop Chinese . riverside near yes .
+Chinese coffee_shop riverside near . yes 3_out_of_5 .
+5_out_of_5 . no city_centre near .
+near city_centre coffee_shop 5_out_of_5 . no Chinese .
+coffee_shop Chinese city_centre . near 5_out_of_5 .
+Chinese coffee_shop no . city_centre near .
+no Chinese coffee_shop 5_out_of_5 . city_centre near .
+Chinese coffee_shop 5_out_of_5 city_centre near no .
+Chinese coffee_shop near city_centre . 5_out_of_5 yes .
+coffee_shop Chinese . 5_out_of_5 yes city_centre near .
+Chinese coffee_shop near . city_centre 5_out_of_5 yes .
+Chinese coffee_shop 5_out_of_5 city_centre yes near .
+coffee_shop Chinese . 5_out_of_5 city_centre yes near .
+city_centre Chinese coffee_shop near . 5_out_of_5 .
+yes coffee_shop city_centre Chinese . 5_out_of_5 near .
+Chinese 5_out_of_5 coffee_shop near no riverside .
+riverside near 5_out_of_5 Chinese coffee_shop .
+no coffee_shop Chinese 5_out_of_5 . riverside near .
+coffee_shop Chinese riverside near . 5_out_of_5 no .
+no coffee_shop Chinese . 5_out_of_5 riverside near .
+5_out_of_5 coffee_shop riverside near Chinese no .
+coffee_shop Chinese 5_out_of_5 . riverside near no .
+coffee_shop near riverside . Chinese 5_out_of_5 yes .
+coffee_shop Chinese riverside near . yes 5_out_of_5 .
+coffee_shop Chinese . 5_out_of_5 yes near riverside .
+yes coffee_shop Chinese . 5_out_of_5 near riverside .
+near riverside yes .
+5_out_of_5 yes coffee_shop Chinese riverside near .
+Chinese coffee_shop near riverside . yes 5_out_of_5 .
+coffee_shop Chinese city_centre near . no average .
+coffee_shop Chinese city_centre . near average .
+coffee_shop Chinese city_centre near . no average .
+coffee_shop Chinese city_centre . near average .
+coffee_shop Chinese city_centre . near average .
+coffee_shop yes Chinese city_centre near . average .
+near coffee_shop Chinese .
+coffee_shop Chinese average city_centre near .
+coffee_shop Chinese city_centre . near average .
+average coffee_shop Chinese near city_centre .
+coffee_shop average yes Chinese city_centre near .
+coffee_shop Chinese . average riverside near no .
+Chinese riverside coffee_shop . average near no .
+coffee_shop Chinese . average no riverside near .
+coffee_shop Chinese riverside . near average .
+Chinese coffee_shop no average . riverside near .
+coffee_shop Chinese riverside near . no average .
+riverside near yes Chinese coffee_shop . average .
+coffee_shop near riverside . Chinese yes average .
+riverside coffee_shop near . yes Chinese average .
+average yes coffee_shop near Chinese .
+coffee_shop Chinese riverside . near average .
+average coffee_shop Chinese . riverside near yes .
+Chinese coffee_shop . average riverside near yes .
+coffee_shop near riverside . Chinese yes average .
+coffee_shop Chinese . riverside yes average near .
+coffee_shop Chinese . riverside near average yes .
+average Chinese coffee_shop riverside . near .
+Chinese coffee_shop average riverside near . yes .
+Chinese coffee_shop average riverside near .
+yes coffee_shop Chinese riverside near . high .
+yes coffee_shop Chinese riverside near .
+high coffee_shop Chinese yes . riverside near .
+high coffee_shop yes riverside near Chinese .
+coffee_shop riverside near . Chinese high yes .
+coffee_shop near riverside . Chinese yes high .
+yes coffee_shop Chinese . high near riverside .
+near coffee_shop Chinese . riverside yes high .
+coffee_shop Chinese riverside . near high .
+coffee_shop Chinese riverside . near high .
+coffee_shop Chinese riverside . near high .
+low coffee_shop Chinese city_centre . near no .
+coffee_shop Chinese no low . near city_centre .
+coffee_shop city_centre near Chinese no low .
+coffee_shop city_centre near Chinese no low .
+coffee_shop city_centre near . Chinese no low .
+coffee_shop Chinese . no low near city_centre .
+coffee_shop Chinese . low city_centre near no .
+yes Chinese coffee_shop low city_centre near .
+coffee_shop Chinese city_centre . near low .
+coffee_shop Chinese city_centre near yes low .
+coffee_shop Chinese city_centre near . low yes .
+yes Chinese coffee_shop low city_centre near .
+coffee_shop Chinese city_centre . near low .
+coffee_shop Chinese riverside . near low .
+coffee_shop riverside near . no Chinese low .
+coffee_shop Chinese riverside . near low .
+coffee_shop Chinese riverside . near low .
+coffee_shop Chinese low riverside . no near .
+yes coffee_shop low . Chinese near riverside .
+Chinese low . yes riverside near .
+coffee_shop Chinese riverside . near low .
+coffee_shop low . Chinese riverside near .
+riverside near yes Chinese coffee_shop low .
+coffee_shop Chinese riverside . near low .
+yes coffee_shop English riverside near 1_out_of_5 .
+riverside . coffee_shop English yes 1_out_of_5 .
+yes English coffee_shop riverside . 1_out_of_5 .
+coffee_shop English . yes riverside 1_out_of_5 .
+yes coffee_shop riverside English 1_out_of_5 near .
+yes English coffee_shop near riverside . 1_out_of_5 .
+yes coffee_shop riverside English . 1_out_of_5 .
+yes coffee_shop riverside near 1_out_of_5 .
+yes English coffee_shop near riverside . 1_out_of_5 .
+yes coffee_shop English 1_out_of_5 .
+yes coffee_shop riverside near .
+riverside yes English coffee_shop 1_out_of_5 .
+English coffee_shop riverside near 3_out_of_5 . yes .
+yes coffee_shop near riverside . 3_out_of_5 .
+near English coffee_shop 3_out_of_5 .
+near riverside yes coffee_shop 3_out_of_5 .
+English coffee_shop . 5_out_of_5 near city_centre no .
+5_out_of_5 no coffee_shop city_centre near English .
+coffee_shop 5_out_of_5 English near city_centre . no .
+near city_centre English coffee_shop . no .
+coffee_shop English 5_out_of_5 . city_centre near no .
+city_centre near 5_out_of_5 no coffee_shop English .
+yes coffee_shop near city_centre . English 5_out_of_5 .
+yes 5_out_of_5 English coffee_shop city_centre near .
+city_centre near yes 5_out_of_5 English coffee_shop .
+English yes coffee_shop 5_out_of_5 . near city_centre .
+English coffee_shop near . riverside no 5_out_of_5 .
+English coffee_shop riverside . no 5_out_of_5 near .
+no 5_out_of_5 near riverside . coffee_shop English .
+5_out_of_5 English coffee_shop no . near riverside .
+near riverside 5_out_of_5 English coffee_shop no .
+near riverside coffee_shop English . no 5_out_of_5 .
+English riverside 5_out_of_5 near . yes .
+coffee_shop . yes near .
+yes coffee_shop English riverside . near 5_out_of_5 .
+coffee_shop near . English yes 5_out_of_5 .
+yes coffee_shop near .
+coffee_shop 5_out_of_5 English yes riverside near .
+coffee_shop near . yes .
+5_out_of_5 yes coffee_shop near .
+yes English coffee_shop near riverside . 5_out_of_5 .
+5_out_of_5 yes English . near .
+near riverside coffee_shop English yes 5_out_of_5 .
+city_centre near . average English coffee_shop no .
+English coffee_shop near city_centre . average no .
+English coffee_shop near city_centre . average .
+English coffee_shop near city_centre . average no .
+city_centre near no coffee_shop . English average .
+average English coffee_shop near city_centre .
+city_centre near coffee_shop . yes English average .
+near city_centre coffee_shop . English average yes .
+near coffee_shop English yes average .
+yes coffee_shop English . city_centre near average .
+coffee_shop near English yes average .
+yes coffee_shop city_centre near English average .
+no English coffee_shop near riverside . average .
+near riverside coffee_shop English average . no .
+coffee_shop English riverside near average no .
+coffee_shop English average . near riverside no .
+riverside near average . coffee_shop English no .
+no English coffee_shop near riverside average .
+coffee_shop riverside near . English yes average .
+yes English coffee_shop riverside near .
+near riverside yes coffee_shop English . average .
+English yes coffee_shop riverside . near average .
+coffee_shop . English yes near riverside average .
+riverside average coffee_shop near English .
+yes coffee_shop near .
+near riverside coffee_shop English yes . average .
+riverside near English coffee_shop yes .
+coffee_shop yes English . near .
+English coffee_shop . riverside near yes average .
+riverside average yes near English coffee_shop .
+coffee_shop riverside near . average yes .
+yes coffee_shop average English riverside near .
+average coffee_shop near riverside English yes .
+English coffee_shop . riverside near yes average .
+coffee_shop yes English . near .
+yes coffee_shop near . high English riverside .
+yes high English coffee_shop riverside near . .
+coffee_shop near yes . riverside high English .
+riverside near coffee_shop . high English yes .
+near . yes coffee_shop English high .
+yes high English coffee_shop riverside near . .
+near coffee_shop English high yes riverside .
+near riverside high English coffee_shop yes .
+yes coffee_shop English . near high .
+English coffee_shop riverside near . high yes .
+high yes riverside near .
+coffee_shop English high yes riverside near .
+city_centre coffee_shop near .
+coffee_shop English near .
+coffee_shop . English no city_centre near low .
+English city_centre coffee_shop near . low no .
+coffee_shop English . no city_centre near low .
+coffee_shop English near city_centre . no low .
+yes English coffee_shop near city_centre low .
+coffee_shop English yes . near city_centre low .
+coffee_shop yes English . near city_centre low .
+yes coffee_shop English city_centre near low .
+near coffee_shop yes low .
+city_centre near yes coffee_shop English low .
+coffee_shop near .
+coffee_shop English . riverside near low .
+English low . no riverside near .
+coffee_shop near . no .
+near riverside no coffee_shop English low .
+riverside near coffee_shop English low . no .
+near coffee_shop .
+low coffee_shop near .
+low coffee_shop . riverside near .
+English coffee_shop no near riverside low .
+coffee_shop English . riverside near low .
+yes coffee_shop riverside low English .
+riverside yes coffee_shop English low .
+yes coffee_shop . low .
+riverside yes coffee_shop English . low .
+coffee_shop English . low yes riverside .
+yes coffee_shop English . riverside low .
+yes coffee_shop English . low riverside .
+low yes coffee_shop .
+coffee_shop riverside yes low English .
+coffee_shop Chinese 1_out_of_5 riverside near .
+coffee_shop riverside near 1_out_of_5 . Chinese .
+coffee_shop Chinese . 1_out_of_5 riverside near .
+Chinese coffee_shop riverside near 1_out_of_5 .
+coffee_shop riverside near . 1_out_of_5 Chinese .
+Chinese coffee_shop riverside near 1_out_of_5 .
+Chinese coffee_shop near riverside .
+coffee_shop Chinese . riverside 3_out_of_5 near .
+coffee_shop Chinese 3_out_of_5 riverside near .
+riverside near 3_out_of_5 . coffee_shop Chinese .
+coffee_shop Chinese riverside near 3_out_of_5 .
+coffee_shop Chinese 3_out_of_5 riverside near .
+riverside 3_out_of_5 coffee_shop Chinese near .
+near riverside coffee_shop Chinese 3_out_of_5 .
+coffee_shop Chinese city_centre . near 5_out_of_5 .
+coffee_shop Chinese city_centre . near 5_out_of_5 .
+coffee_shop Chinese city_centre . near 5_out_of_5 .
+coffee_shop 5_out_of_5 Chinese near city_centre .
+5_out_of_5 coffee_shop Chinese near city_centre .
+riverside near Chinese coffee_shop 5_out_of_5 .
+Chinese coffee_shop 5_out_of_5 near riverside .
+coffee_shop riverside near Chinese 5_out_of_5 .
+coffee_shop Chinese . riverside near 5_out_of_5 .
+coffee_shop Chinese . riverside near .
+coffee_shop Chinese 5_out_of_5 riverside near .
+coffee_shop Chinese average near .
+coffee_shop city_centre near . average Chinese .
+Chinese coffee_shop near city_centre average .
+coffee_shop near city_centre average .
+coffee_shop Chinese . near city_centre average .
+coffee_shop Chinese average . city_centre near .
+average city_centre near . coffee_shop Chinese .
+riverside near coffee_shop Chinese average .
+coffee_shop Chinese average riverside near .
+average Chinese coffee_shop near . riverside .
+coffee_shop riverside near average Chinese .
+coffee_shop Chinese riverside . near average .
+Chinese coffee_shop average . near riverside .
+coffee_shop Chinese near riverside .
+coffee_shop Chinese . riverside near high .
+coffee_shop riverside near . Chinese high .
+coffee_shop Chinese riverside near .
+coffee_shop high . Chinese near riverside .
+coffee_shop Chinese near riverside . high .
+near riverside Chinese coffee_shop high .
+low coffee_shop city_centre near Chinese .
+coffee_shop Chinese low . city_centre near .
+coffee_shop Chinese city_centre . near low .
+city_centre near Chinese coffee_shop low .
+coffee_shop Chinese city_centre . near .
+low coffee_shop city_centre near Chinese .
+coffee_shop Chinese riverside . near low .
+near coffee_shop low Chinese riverside .
+low coffee_shop Chinese riverside near .
+coffee_shop Chinese low . riverside near .
+coffee_shop low Chinese near riverside .
+near riverside low coffee_shop Chinese .
+near 1_out_of_5 riverside coffee_shop .
+near English . 1_out_of_5 coffee_shop riverside .
+riverside near coffee_shop English 1_out_of_5 .
+coffee_shop near riverside . English 1_out_of_5 .
+coffee_shop near . riverside English 1_out_of_5 .
+coffee_shop near riverside English 1_out_of_5 .
+riverside near coffee_shop English .
+coffee_shop English . near riverside 1_out_of_5 .
+coffee_shop English 1_out_of_5 . near .
+near coffee_shop English . 1_out_of_5 .
+riverside near . coffee_shop English .
+English coffee_shop near riverside .
+English coffee_shop 3_out_of_5 near riverside .
+near riverside English .
+3_out_of_5 near .
+near coffee_shop English city_centre . 5_out_of_5 .
+5_out_of_5 coffee_shop English city_centre near .
+English coffee_shop near city_centre 5_out_of_5 .
+city_centre near coffee_shop English . 5_out_of_5 .
+English coffee_shop 5_out_of_5 city_centre near .
+English coffee_shop near city_centre . 5_out_of_5 .
+near coffee_shop 5_out_of_5 English .
+coffee_shop near 5_out_of_5 English .
+near 5_out_of_5 coffee_shop .
+near riverside English coffee_shop 5_out_of_5 .
+5_out_of_5 English coffee_shop near .
+coffee_shop English near . riverside 5_out_of_5 .
+5_out_of_5 coffee_shop near .
+near coffee_shop English riverside 5_out_of_5 .
+5_out_of_5 coffee_shop near .
+riverside near coffee_shop English 5_out_of_5 .
+coffee_shop near . 5_out_of_5 .
+city_centre near coffee_shop . average English .
+coffee_shop English average . city_centre near .
+coffee_shop city_centre near English .
+coffee_shop English . near city_centre .
+city_centre coffee_shop English . near average .
+city_centre near . coffee_shop English average .
+coffee_shop average near .
+coffee_shop near .
+coffee_shop riverside near English average .
+English riverside . coffee_shop average near .
+near average coffee_shop .
+average coffee_shop near .
+near coffee_shop English . average riverside .
+average coffee_shop near .
+coffee_shop riverside English . near average .
+English coffee_shop near riverside . average .
+coffee_shop English average . riverside near .
+riverside coffee_shop near . English average .
+coffee_shop . near .
+coffee_shop riverside near . English average .
+high coffee_shop English riverside near .
+coffee_shop English high . riverside near .
+coffee_shop near riverside high .
+coffee_shop near riverside English . high .
+coffee_shop English high . near riverside .
+coffee_shop English high . riverside near .
+near riverside high coffee_shop English .
+near riverside English coffee_shop high .
+high coffee_shop English near riverside .
+English near riverside high .
+coffee_shop near riverside high English .
+coffee_shop near city_centre English low .
+English low coffee_shop near city_centre .
+city_centre near coffee_shop . English low .
+coffee_shop English city_centre near . low .
+coffee_shop English . near city_centre low .
+English coffee_shop near city_centre low .
+low coffee_shop English near riverside .
+near low coffee_shop riverside .
+coffee_shop English near riverside low .
+coffee_shop low English riverside near .
+coffee_shop English . riverside near low .
+near coffee_shop .
+. coffee_shop low riverside near .
+coffee_shop . English near riverside low .
+coffee_shop riverside near low .
+coffee_shop near riverside . English low .
+English coffee_shop riverside near .
+coffee_shop Chinese £_20_@-@_25 . high .
+coffee_shop Chinese £_20_@-@_25 . high no .
+no coffee_shop high Chinese £_20_@-@_25 .
+coffee_shop Chinese £_20_@-@_25 . high .
+coffee_shop Chinese £_20_@-@_25 . high .
+yes coffee_shop Chinese £_20_@-@_25 high .
+coffee_shop Chinese £_20_@-@_25 . high .
+coffee_shop Chinese £_20_@-@_25 high yes .
+coffee_shop high Chinese . £_20_@-@_25 yes .
+coffee_shop Chinese £_20_@-@_25 . high yes .
+coffee_shop no Chinese cheap . 5_out_of_5 .
+coffee_shop Chinese cheap . no .
+coffee_shop Chinese cheap . no 5_out_of_5 .
+coffee_shop Chinese cheap . no .
+cheap coffee_shop Chinese no . 5_out_of_5 .
+no 5_out_of_5 coffee_shop Chinese .
+cheap Chinese coffee_shop 5_out_of_5 . no .
+cheap Chinese coffee_shop 5_out_of_5 yes .
+coffee_shop cheap yes . 5_out_of_5 Chinese .
+coffee_shop Chinese cheap 5_out_of_5 yes .
+cheap yes Chinese coffee_shop 5_out_of_5 .
+coffee_shop Chinese cheap . 5_out_of_5 .
+Chinese coffee_shop yes cheap 5_out_of_5 .
+cheap coffee_shop average . Chinese no .
+coffee_shop Chinese cheap . average .
+coffee_shop Chinese . cheap average no .
+coffee_shop Chinese cheap . average .
+coffee_shop cheap Chinese average yes .
+cheap Chinese coffee_shop yes average .
+cheap yes coffee_shop Chinese average .
+coffee_shop cheap Chinese average yes .
+coffee_shop Chinese cheap . average yes .
+yes cheap coffee_shop Chinese . average .
+Chinese coffee_shop yes average .
+Chinese coffee_shop . 1_out_of_5 high no .
+high coffee_shop Chinese . 1_out_of_5 no .
+coffee_shop Chinese high . 1_out_of_5 no .
+coffee_shop Chinese high . 1_out_of_5 no .
+coffee_shop Chinese 1_out_of_5 high . no .
+coffee_shop no high 1_out_of_5 Chinese .
+no Chinese high . 1_out_of_5 .
+coffee_shop Chinese high . 1_out_of_5 yes .
+coffee_shop Chinese . yes .
+high coffee_shop Chinese .
+yes coffee_shop Chinese high 1_out_of_5 .
+coffee_shop Chinese high .
+high yes Chinese coffee_shop 1_out_of_5 .
+Chinese coffee_shop yes .
+high Chinese . average no .
+Chinese coffee_shop average high no .
+average coffee_shop high Chinese . no .
+coffee_shop Chinese . average high no .
+Chinese coffee_shop . high no average .
+coffee_shop high Chinese . average no .
+coffee_shop Chinese high . average no .
+coffee_shop Chinese high yes .
+yes coffee_shop Chinese high . average .
+high yes coffee_shop Chinese average .
+high Chinese coffee_shop . average yes .
+coffee_shop Chinese high . average yes .
+high Chinese coffee_shop average yes .
+high yes coffee_shop average .
+coffee_shop Chinese less_than_£_20 . no low .
+coffee_shop Chinese less_than_£_20 low no .
+less_than_£_20 low coffee_shop Chinese no .
+coffee_shop Chinese less_than_£_20 low no .
+less_than_£_20 coffee_shop Chinese . no .
+coffee_shop Chinese less_than_£_20 . low no .
+less_than_£_20 low coffee_shop Chinese no .
+coffee_shop Chinese yes less_than_£_20 low .
+yes coffee_shop Chinese . low less_than_£_20 .
+less_than_£_20 low Chinese coffee_shop yes .
+less_than_£_20 yes . Chinese coffee_shop low .
+yes Chinese coffee_shop . less_than_£_20 low .
+coffee_shop Chinese . less_than_£_20 low yes .
+coffee_shop less_than_£_20 low Chinese yes .
+coffee_shop no 1_out_of_5 Chinese moderate .
+coffee_shop Chinese moderate . 1_out_of_5 no .
+Chinese coffee_shop . moderate 1_out_of_5 no .
+1_out_of_5 coffee_shop Chinese no moderate .
+Chinese coffee_shop no 1_out_of_5 moderate .
+Chinese coffee_shop 1_out_of_5 . moderate no .
+coffee_shop Chinese moderate 1_out_of_5 no .
+Chinese coffee_shop moderate . yes .
+coffee_shop moderate Chinese . yes 1_out_of_5 .
+yes 1_out_of_5 coffee_shop moderate Chinese .
+moderate coffee_shop Chinese . yes 1_out_of_5 .
+coffee_shop Chinese . moderate yes 1_out_of_5 .
+moderate Chinese coffee_shop 1_out_of_5 . yes .
+moderate coffee_shop yes Chinese . 1_out_of_5 .
+Chinese moderate 3_out_of_5 no .
+coffee_shop no Chinese moderate . 3_out_of_5 .
+coffee_shop moderate . Chinese no 3_out_of_5 .
+coffee_shop Chinese . moderate no 3_out_of_5 .
+Chinese moderate 3_out_of_5 no .
+moderate coffee_shop Chinese 3_out_of_5 no .
+3_out_of_5 . Chinese moderate no .
+coffee_shop Chinese moderate . 3_out_of_5 yes .
+yes coffee_shop Chinese 3_out_of_5 .
+yes coffee_shop Chinese moderate . 3_out_of_5 .
+yes coffee_shop Chinese moderate . 3_out_of_5 .
+Chinese coffee_shop 3_out_of_5 moderate yes .
+moderate Chinese coffee_shop 3_out_of_5 yes .
+yes coffee_shop Chinese 3_out_of_5 .
+Chinese coffee_shop more_than_£_30 high . no .
+coffee_shop Chinese more_than_£_30 high no .
+more_than_£_30 high Chinese coffee_shop . no .
+coffee_shop Chinese . no high more_than_£_30 .
+coffee_shop Chinese . more_than_£_30 high no .
+more_than_£_30 high . coffee_shop Chinese no .
+coffee_shop Chinese . no high more_than_£_30 .
+coffee_shop Chinese more_than_£_30 . high .
+coffee_shop Chinese . more_than_£_30 yes high .
+high Chinese coffee_shop . yes .
+coffee_shop Chinese more_than_£_30 . high .
+English no coffee_shop high £_20_@-@_25 .
+coffee_shop English no high £_20_@-@_25 .
+coffee_shop English . no high .
+English coffee_shop high . no .
+high coffee_shop . English no .
+coffee_shop English . no high .
+coffee_shop English yes . £_20_@-@_25 high .
+English coffee_shop . high yes .
+yes .
+yes coffee_shop English . high £_20_@-@_25 .
+coffee_shop .
+English coffee_shop yes . high .
+high yes .
+coffee_shop high . yes English .
+yes coffee_shop high .
+yes .
+coffee_shop high yes .
+coffee_shop English cheap . no 5_out_of_5 .
+cheap coffee_shop English . 5_out_of_5 no .
+cheap coffee_shop English 5_out_of_5 no .
+English coffee_shop 5_out_of_5 . cheap no .
+cheap English coffee_shop 5_out_of_5 no .
+cheap coffee_shop English . no .
+coffee_shop cheap yes . 5_out_of_5 .
+yes coffee_shop cheap English 5_out_of_5 .
+5_out_of_5 cheap coffee_shop yes .
+cheap 5_out_of_5 yes .
+cheap English coffee_shop . yes 5_out_of_5 .
+cheap English coffee_shop 5_out_of_5 yes .
+5_out_of_5 cheap . coffee_shop English yes .
+5_out_of_5 cheap coffee_shop English yes .
+coffee_shop .
+cheap yes .
+cheap 5_out_of_5 yes .
+coffee_shop cheap English . average no .
+coffee_shop English average cheap no .
+coffee_shop cheap . no average .
+English cheap . no average .
+cheap English no coffee_shop average .
+cheap English no coffee_shop average .
+coffee_shop cheap yes average .
+coffee_shop English yes . average .
+English . coffee_shop yes cheap average .
+yes coffee_shop cheap . average .
+average coffee_shop . yes cheap .
+coffee_shop yes cheap .
+cheap coffee_shop English . yes average .
+cheap English coffee_shop yes average .
+yes average coffee_shop . cheap .
+yes coffee_shop cheap . average .
+coffee_shop cheap yes average .
+1_out_of_5 coffee_shop high English .
+no English coffee_shop high 1_out_of_5 .
+1_out_of_5 English coffee_shop high . no .
+no coffee_shop English high . 1_out_of_5 .
+high English coffee_shop 1_out_of_5 . no .
+no English coffee_shop high 1_out_of_5 .
+yes English coffee_shop high 1_out_of_5 .
+high coffee_shop English . yes 1_out_of_5 .
+coffee_shop yes 1_out_of_5 .
+.
+high English coffee_shop 1_out_of_5 yes .
+English coffee_shop yes high 1_out_of_5 .
+yes English coffee_shop high 1_out_of_5 .
+high English coffee_shop . yes 1_out_of_5 .
+yes coffee_shop . English high 1_out_of_5 .
+yes coffee_shop . high English 1_out_of_5 .
+.
+high coffee_shop English average no .
+coffee_shop no English high average .
+no coffee_shop English high average .
+coffee_shop English high . average no .
+English coffee_shop . average high no .
+average no coffee_shop English high .
+coffee_shop English . yes high average .
+coffee_shop yes . high average .
+coffee_shop high average . yes .
+high coffee_shop average .
+high English coffee_shop . yes average .
+high coffee_shop average . .
+coffee_shop English . yes average high .
+high yes English coffee_shop average .
+average yes coffee_shop . English high .
+English coffee_shop yes average high .
+average high coffee_shop yes .
+coffee_shop less_than_£_20 no .
+coffee_shop no English .
+no coffee_shop less_than_£_20 low .
+English coffee_shop . low less_than_£_20 no .
+coffee_shop no less_than_£_20 .
+coffee_shop English less_than_£_20 low no .
+no coffee_shop less_than_£_20 low .
+coffee_shop less_than_£_20 low .
+less_than_£_20 English coffee_shop low . no .
+English coffee_shop less_than_£_20 low . no .
+less_than_£_20 low coffee_shop no . English .
+coffee_shop yes less_than_£_20 . English low .
+yes less_than_£_20 coffee_shop low .
+coffee_shop low . yes English less_than_£_20 .
+yes coffee_shop English . less_than_£_20 low .
+yes English coffee_shop . less_than_£_20 low .
+yes coffee_shop English less_than_£_20 low .
+yes coffee_shop less_than_£_20 low English .
+coffee_shop yes English . less_than_£_20 low .
+less_than_£_20 yes coffee_shop . English low .
+less_than_£_20 low yes .
+coffee_shop yes less_than_£_20 English low .
+no 1_out_of_5 English moderate .
+coffee_shop moderate English no 1_out_of_5 .
+coffee_shop English . moderate 1_out_of_5 no .
+coffee_shop moderate . English no 1_out_of_5 .
+coffee_shop 1_out_of_5 . no English moderate .
+coffee_shop moderate no . 1_out_of_5 English .
+1_out_of_5 . moderate yes .
+coffee_shop .
+moderate coffee_shop yes .
+1_out_of_5 coffee_shop . moderate .
+coffee_shop moderate . English yes 1_out_of_5 .
+coffee_shop moderate . English yes 1_out_of_5 .
+coffee_shop moderate English . yes .
+moderate coffee_shop English . yes 1_out_of_5 .
+1_out_of_5 coffee_shop .
+yes . coffee_shop moderate .
+coffee_shop yes .
+coffee_shop English . 3_out_of_5 moderate .
+coffee_shop English moderate . 3_out_of_5 no .
+no coffee_shop moderate English . 3_out_of_5 .
+coffee_shop . 3_out_of_5 no moderate English .
+coffee_shop English . 3_out_of_5 moderate .
+moderate English coffee_shop . no 3_out_of_5 .
+coffee_shop yes .
+coffee_shop moderate 3_out_of_5 yes .
+coffee_shop English moderate . yes 3_out_of_5 .
+yes 3_out_of_5 moderate English .
+coffee_shop English moderate yes 3_out_of_5 .
+yes English coffee_shop . moderate 3_out_of_5 .
+moderate yes 3_out_of_5 coffee_shop .
+yes English coffee_shop moderate . 3_out_of_5 .
+coffee_shop yes .
+coffee_shop Chinese . high city_centre near .
+Chinese £_20_@-@_25 high city_centre near .
+coffee_shop Chinese high city_centre near .
+high near city_centre coffee_shop Chinese . £_20_@-@_25 .
+coffee_shop city_centre near Chinese £_20_@-@_25 .
+high coffee_shop Chinese £_20_@-@_25 city_centre near .
+high coffee_shop Chinese £_20_@-@_25 city_centre near .
+Chinese coffee_shop near riverside . £_20_@-@_25 high .
+Chinese coffee_shop riverside . near £_20_@-@_25 high .
+coffee_shop Chinese £_20_@-@_25 . high riverside near .
+coffee_shop riverside near Chinese . .
+high coffee_shop near riverside Chinese .
+coffee_shop riverside near . high Chinese £_20_@-@_25 .
+near riverside coffee_shop Chinese . high £_20_@-@_25 .
+coffee_shop Chinese . cheap 5_out_of_5 city_centre near .
+5_out_of_5 coffee_shop cheap Chinese city_centre near .
+coffee_shop Chinese cheap 5_out_of_5 city_centre near .
+cheap coffee_shop city_centre near . Chinese 5_out_of_5 .
+cheap coffee_shop Chinese . city_centre near 5_out_of_5 .
+coffee_shop cheap Chinese city_centre near 5_out_of_5 .
+coffee_shop . Chinese cheap 5_out_of_5 riverside near .
+coffee_shop Chinese cheap . riverside near 5_out_of_5 .
+coffee_shop riverside near Chinese . 5_out_of_5 cheap .
+Chinese riverside near . coffee_shop cheap 5_out_of_5 .
+cheap coffee_shop Chinese city_centre near average .
+cheap coffee_shop Chinese near city_centre . average .
+average coffee_shop near city_centre Chinese cheap .
+coffee_shop cheap Chinese average city_centre near .
+coffee_shop Chinese cheap average city_centre near .
+cheap coffee_shop Chinese . average city_centre near .
+coffee_shop Chinese cheap average city_centre near .
+Chinese coffee_shop cheap average riverside near .
+coffee_shop cheap Chinese riverside near .
+coffee_shop riverside near Chinese cheap .
+Chinese coffee_shop riverside near average cheap .
+coffee_shop Chinese cheap . riverside near average .
+coffee_shop Chinese high . city_centre near 1_out_of_5 .
+high coffee_shop Chinese 1_out_of_5 city_centre near .
+high coffee_shop Chinese city_centre . near 1_out_of_5 .
+coffee_shop Chinese high city_centre near 1_out_of_5 .
+near high coffee_shop city_centre . Chinese 1_out_of_5 .
+coffee_shop Chinese high 1_out_of_5 . city_centre near .
+coffee_shop Chinese riverside near . high 1_out_of_5 .
+coffee_shop Chinese high . riverside near 1_out_of_5 .
+riverside coffee_shop near . Chinese high 1_out_of_5 .
+coffee_shop Chinese high . riverside near 1_out_of_5 .
+high Chinese city_centre near .
+coffee_shop Chinese high . city_centre near average .
+coffee_shop Chinese city_centre near . average high .
+coffee_shop Chinese high . city_centre near average .
+Chinese high average near city_centre .
+near city_centre average high Chinese .
+coffee_shop Chinese high . riverside near average .
+coffee_shop Chinese high . average riverside near .
+coffee_shop Chinese high . riverside near average .
+coffee_shop average riverside near . Chinese high .
+coffee_shop Chinese less_than_£_20 . city_centre near low .
+coffee_shop Chinese less_than_£_20 . low city_centre near .
+coffee_shop near city_centre . low Chinese less_than_£_20 .
+Chinese coffee_shop city_centre near . less_than_£_20 low .
+Chinese coffee_shop . less_than_£_20 low city_centre near .
+coffee_shop Chinese city_centre near . less_than_£_20 low .
+Chinese coffee_shop near riverside less_than_£_20 low .
+Chinese riverside near . coffee_shop .
+coffee_shop less_than_£_20 Chinese riverside . near .
+near riverside Chinese coffee_shop less_than_£_20 low .
+coffee_shop low Chinese less_than_£_20 near riverside .
+low coffee_shop Chinese less_than_£_20 riverside near .
+coffee_shop city_centre . near moderate 1_out_of_5 .
+Chinese coffee_shop city_centre near moderate 1_out_of_5 .
+near coffee_shop . moderate Chinese 1_out_of_5 .
+coffee_shop Chinese moderate . near city_centre 1_out_of_5 .
+coffee_shop Chinese . moderate 1_out_of_5 city_centre near .
+coffee_shop 1_out_of_5 . Chinese moderate near city_centre .
+coffee_shop moderate Chinese . 1_out_of_5 riverside near .
+moderate coffee_shop Chinese riverside near 1_out_of_5 .
+moderate Chinese coffee_shop riverside near . 1_out_of_5 .
+coffee_shop Chinese moderate . riverside near 1_out_of_5 .
+Chinese coffee_shop near riverside . moderate 1_out_of_5 .
+coffee_shop riverside near . moderate Chinese 1_out_of_5 .
+coffee_shop Chinese moderate . city_centre near 3_out_of_5 .
+city_centre near moderate coffee_shop Chinese . 3_out_of_5 .
+coffee_shop moderate Chinese . 3_out_of_5 city_centre near .
+moderate Chinese coffee_shop . city_centre near 3_out_of_5 .
+coffee_shop Chinese moderate . city_centre near 3_out_of_5 .
+coffee_shop city_centre near . Chinese moderate 3_out_of_5 .
+moderate 3_out_of_5 Chinese coffee_shop riverside near .
+riverside near moderate coffee_shop 3_out_of_5 Chinese .
+moderate 3_out_of_5 coffee_shop Chinese riverside near .
+Chinese coffee_shop moderate 3_out_of_5 riverside near .
+coffee_shop Chinese moderate . riverside near 3_out_of_5 .
+Chinese coffee_shop moderate 3_out_of_5 riverside near .
+more_than_£_30 high near city_centre coffee_shop . Chinese .
+Chinese coffee_shop high near city_centre more_than_£_30 .
+coffee_shop Chinese . high city_centre near .
+Chinese coffee_shop near city_centre more_than_£_30 high .
+coffee_shop Chinese high more_than_£_30 . city_centre near .
+coffee_shop Chinese near city_centre . high more_than_£_30 .
+coffee_shop Chinese riverside near . more_than_£_30 high .
+near riverside high . coffee_shop Chinese more_than_£_30 .
+riverside near coffee_shop Chinese . more_than_£_30 high .
+coffee_shop near riverside Chinese . more_than_£_30 high .
+coffee_shop Chinese more_than_£_30 high . riverside near .
+Chinese coffee_shop near riverside . high more_than_£_30 .
+coffee_shop Chinese riverside near . more_than_£_30 high .
+English city_centre near high coffee_shop .
+English coffee_shop city_centre near .
+coffee_shop near city_centre high English .
+city_centre English near high coffee_shop .
+coffee_shop city_centre near English . high .
+English coffee_shop city_centre near .
+coffee_shop near . high .
+coffee_shop near . high .
+riverside near . coffee_shop high .
+English coffee_shop . high near .
+near . riverside .
+riverside near high .
+near riverside .
+coffee_shop . riverside near high .
+English coffee_shop high . riverside near .
+city_centre near English coffee_shop cheap 5_out_of_5 .
+city_centre near cheap 5_out_of_5 English coffee_shop .
+near city_centre 5_out_of_5 cheap English coffee_shop .
+cheap coffee_shop near city_centre . English 5_out_of_5 .
+cheap English near city_centre coffee_shop . 5_out_of_5 .
+cheap coffee_shop English . near city_centre 5_out_of_5 .
+coffee_shop riverside near . cheap English 5_out_of_5 .
+cheap coffee_shop near riverside . English 5_out_of_5 .
+coffee_shop cheap . near .
+riverside English coffee_shop cheap . near .
+English coffee_shop 5_out_of_5 . cheap riverside near .
+cheap English 5_out_of_5 coffee_shop near riverside .
+near . cheap coffee_shop .
+cheap coffee_shop near . English .
+cheap coffee_shop near 5_out_of_5 .
+cheap coffee_shop near .
+near riverside cheap English 5_out_of_5 .
+city_centre near English coffee_shop . cheap average .
+city_centre cheap average English near .
+city_centre near average cheap coffee_shop .
+cheap coffee_shop English average city_centre near .
+cheap average coffee_shop English city_centre near .
+cheap coffee_shop average English city_centre near .
+English coffee_shop . near riverside average cheap .
+cheap average coffee_shop near .
+coffee_shop riverside near . cheap average .
+coffee_shop near . cheap average .
+cheap coffee_shop near .
+coffee_shop English cheap . riverside near average .
+coffee_shop average near .
+coffee_shop cheap average . near .
+coffee_shop riverside near . English cheap average .
+average coffee_shop near .
+coffee_shop near riverside average cheap .
+coffee_shop high English 1_out_of_5 city_centre near .
+high coffee_shop 1_out_of_5 . English city_centre near .
+city_centre near high English coffee_shop 1_out_of_5 .
+coffee_shop city_centre near . English high 1_out_of_5 .
+English city_centre near . high 1_out_of_5 coffee_shop .
+coffee_shop near high . English city_centre .
+riverside near high coffee_shop English .
+riverside near English coffee_shop high 1_out_of_5 .
+coffee_shop near .
+coffee_shop near high 1_out_of_5 .
+riverside near 1_out_of_5 coffee_shop .
+high 1_out_of_5 English coffee_shop riverside near .
+near .
+coffee_shop high English . riverside near .
+riverside high coffee_shop near English 1_out_of_5 .
+near city_centre coffee_shop English average high .
+English coffee_shop . city_centre near average .
+high coffee_shop near city_centre . English average .
+city_centre near coffee_shop . high English average .
+English coffee_shop . city_centre near average .
+coffee_shop English near city_centre average high .
+near coffee_shop . high average .
+high coffee_shop riverside near .
+English coffee_shop high average near riverside .
+high average coffee_shop near riverside .
+coffee_shop high near .
+coffee_shop near . average .
+high coffee_shop riverside near . English average .
+average coffee_shop riverside English high near .
+coffee_shop near riverside English . high average .
+coffee_shop English riverside . high average near .
+coffee_shop near English . high average .
+coffee_shop less_than_£_20 English . near city_centre low .
+less_than_£_20 coffee_shop English . near city_centre low .
+city_centre near coffee_shop English less_than_£_20 low .
+English coffee_shop near city_centre less_than_£_20 . low .
+city_centre near . coffee_shop English less_than_£_20 low .
+coffee_shop English less_than_£_20 low . city_centre near .
+less_than_£_20 coffee_shop low near .
+coffee_shop English . near less_than_£_20 low .
+near riverside coffee_shop English less_than_£_20 low .
+less_than_£_20 low coffee_shop near riverside .
+riverside near coffee_shop English less_than_£_20 low .
+less_than_£_20 English low coffee_shop riverside near .
+near less_than_£_20 low coffee_shop .
+less_than_£_20 coffee_shop . English near low .
+less_than_£_20 low coffee_shop English . near riverside .
+low coffee_shop English less_than_£_20 riverside near .
+English coffee_shop riverside near less_than_£_20 low .
+coffee_shop . English city_centre near moderate .
+English coffee_shop city_centre . near moderate 1_out_of_5 .
+English coffee_shop near moderate 1_out_of_5 city_centre .
+coffee_shop near city_centre moderate 1_out_of_5 .
+near city_centre coffee_shop moderate 1_out_of_5 .
+English coffee_shop near . moderate 1_out_of_5 city_centre .
+coffee_shop moderate near .
+coffee_shop English near riverside . 1_out_of_5 moderate .
+coffee_shop near riverside English moderate 1_out_of_5 .
+coffee_shop near English .
+near coffee_shop English . riverside moderate 1_out_of_5 .
+coffee_shop riverside near . English .
+coffee_shop near .
+riverside near coffee_shop English moderate 1_out_of_5 .
+1_out_of_5 moderate coffee_shop English . riverside near .
+moderate English city_centre near 3_out_of_5 .
+moderate 3_out_of_5 English coffee_shop city_centre near .
+near city_centre coffee_shop moderate English . 3_out_of_5 .
+3_out_of_5 English coffee_shop moderate city_centre near .
+moderate English city_centre near 3_out_of_5 .
+3_out_of_5 English coffee_shop moderate city_centre near .
+near . riverside coffee_shop moderate 3_out_of_5 .
+coffee_shop near .
+coffee_shop moderate 3_out_of_5 . near .
+3_out_of_5 English coffee_shop riverside near .
+near riverside coffee_shop moderate 3_out_of_5 .
+near moderate 3_out_of_5 coffee_shop .
+moderate 3_out_of_5 coffee_shop near .
+English coffee_shop near riverside 3_out_of_5 .
+coffee_shop near 3_out_of_5 .
+high English coffee_shop city_centre near more_than_£_30 .
+more_than_£_30 high English coffee_shop city_centre near .
+coffee_shop English . high city_centre near .
+high coffee_shop city_centre near English . more_than_£_30 .
+high coffee_shop city_centre near more_than_£_30 English .
+English coffee_shop city_centre near high more_than_£_30 .
+city_centre Chinese coffee_shop . no £_20_@-@_25 .
+Chinese coffee_shop city_centre . £_20_@-@_25 no high .
+Chinese coffee_shop . city_centre high no .
+coffee_shop Chinese . high city_centre no .
+Chinese . city_centre coffee_shop no high £_20_@-@_25 .
+coffee_shop Chinese . city_centre high no .
+coffee_shop Chinese . high city_centre no .
+yes high Chinese coffee_shop city_centre .
+yes coffee_shop Chinese . city_centre .
+coffee_shop Chinese city_centre . yes high .
+coffee_shop Chinese city_centre . yes high .
+yes Chinese coffee_shop city_centre . high .
+Chinese coffee_shop high . city_centre yes .
+Chinese coffee_shop high . city_centre yes .
+coffee_shop riverside Chinese . no high .
+Chinese coffee_shop riverside . no high .
+coffee_shop Chinese £_20_@-@_25 . riverside high .
+no high coffee_shop riverside . Chinese £_20_@-@_25 .
+coffee_shop Chinese £_20_@-@_25 . riverside high .
+high coffee_shop Chinese riverside . £_20_@-@_25 no .
+coffee_shop riverside Chinese . yes high £_20_@-@_25 .
+high yes coffee_shop Chinese riverside .
+coffee_shop Chinese riverside . yes £_20_@-@_25 high .
+coffee_shop Chinese £_20_@-@_25 . riverside high .
+coffee_shop yes Chinese riverside . high .
+coffee_shop Chinese £_20_@-@_25 . riverside high .
+city_centre Chinese coffee_shop . no cheap 5_out_of_5 .
+coffee_shop Chinese city_centre 5_out_of_5 . no .
+coffee_shop Chinese cheap . city_centre 5_out_of_5 .
+cheap Chinese coffee_shop 5_out_of_5 city_centre . no .
+Chinese coffee_shop city_centre . 5_out_of_5 no cheap .
+coffee_shop Chinese city_centre . cheap no 5_out_of_5 .
+cheap . city_centre .
+Chinese cheap coffee_shop city_centre yes 5_out_of_5 .
+yes coffee_shop city_centre . 5_out_of_5 Chinese cheap .
+yes coffee_shop . cheap Chinese .
+yes coffee_shop . cheap Chinese city_centre 5_out_of_5 .
+Chinese cheap coffee_shop city_centre yes 5_out_of_5 .
+coffee_shop Chinese cheap 5_out_of_5 riverside no .
+coffee_shop Chinese . 5_out_of_5 no .
+cheap coffee_shop Chinese riverside . 5_out_of_5 no .
+no coffee_shop riverside . cheap Chinese 5_out_of_5 .
+cheap Chinese 5_out_of_5 . coffee_shop riverside no .
+5_out_of_5 no coffee_shop cheap Chinese .
+coffee_shop Chinese cheap 5_out_of_5 riverside no .
+coffee_shop Chinese cheap . 5_out_of_5 yes riverside .
+riverside yes Chinese coffee_shop cheap 5_out_of_5 .
+cheap yes coffee_shop Chinese . 5_out_of_5 .
+riverside . cheap 5_out_of_5 coffee_shop Chinese .
+cheap 5_out_of_5 Chinese . yes coffee_shop riverside .
+coffee_shop Chinese cheap . yes 5_out_of_5 riverside .
+5_out_of_5 Chinese riverside coffee_shop . yes cheap .
+cheap coffee_shop city_centre no .
+cheap Chinese coffee_shop city_centre . average no .
+no Chinese coffee_shop average . cheap city_centre .
+coffee_shop city_centre Chinese cheap no .
+average coffee_shop city_centre Chinese cheap no .
+city_centre average coffee_shop . no Chinese .
+cheap coffee_shop city_centre Chinese . average no .
+coffee_shop city_centre Chinese yes . average cheap .
+cheap Chinese city_centre . yes coffee_shop average .
+yes coffee_shop city_centre cheap Chinese average .
+Chinese . cheap yes average .
+Chinese coffee_shop yes city_centre cheap .
+Chinese city_centre coffee_shop yes cheap . average .
+coffee_shop city_centre . cheap Chinese average yes .
+Chinese coffee_shop riverside . cheap average .
+riverside . cheap coffee_shop Chinese no .
+coffee_shop riverside Chinese cheap . average no .
+coffee_shop cheap Chinese . average no riverside .
+coffee_shop riverside Chinese cheap . average no .
+average cheap coffee_shop riverside Chinese no .
+cheap coffee_shop Chinese . riverside average .
+coffee_shop Chinese cheap . riverside average .
+coffee_shop Chinese cheap . riverside yes average .
+yes coffee_shop Chinese cheap .
+cheap coffee_shop riverside Chinese . average yes .
+cheap Chinese coffee_shop riverside average . yes .
+riverside coffee_shop yes . cheap Chinese .
+coffee_shop city_centre . Chinese high no 1_out_of_5 .
+coffee_shop city_centre Chinese no . high 1_out_of_5 .
+high coffee_shop city_centre Chinese 1_out_of_5 no .
+coffee_shop Chinese high 1_out_of_5 city_centre . no .
+high coffee_shop city_centre Chinese . 1_out_of_5 no .
+coffee_shop high Chinese . 1_out_of_5 city_centre no .
+coffee_shop Chinese high . 1_out_of_5 city_centre no .
+coffee_shop Chinese high . city_centre 1_out_of_5 .
+Chinese coffee_shop city_centre high .
+coffee_shop Chinese high . city_centre 1_out_of_5 .
+city_centre coffee_shop 1_out_of_5 yes . Chinese high .
+coffee_shop high Chinese yes 1_out_of_5 city_centre .
+high Chinese coffee_shop city_centre .
+coffee_shop Chinese riverside . high 1_out_of_5 no .
+no Chinese coffee_shop high . riverside 1_out_of_5 .
+no Chinese coffee_shop riverside . high 1_out_of_5 .
+Chinese coffee_shop high 1_out_of_5 . no .
+no coffee_shop Chinese riverside high 1_out_of_5 .
+coffee_shop Chinese no high 1_out_of_5 riverside .
+coffee_shop Chinese high . riverside 1_out_of_5 .
+Chinese . high 1_out_of_5 riverside yes .
+riverside 1_out_of_5 . yes high .
+coffee_shop Chinese high 1_out_of_5 riverside .
+coffee_shop Chinese high . riverside 1_out_of_5 .
+coffee_shop city_centre average . Chinese high no .
+coffee_shop city_centre . high average no Chinese .
+coffee_shop Chinese high . city_centre average .
+coffee_shop Chinese high . city_centre average .
+city_centre coffee_shop Chinese . high average no .
+coffee_shop Chinese . city_centre no average high .
+coffee_shop Chinese high average city_centre yes .
+Chinese coffee_shop average high yes city_centre .
+Chinese coffee_shop average high . yes city_centre .
+coffee_shop Chinese high . city_centre average .
+coffee_shop Chinese city_centre . yes average high .
+coffee_shop Chinese high average city_centre yes .
+Chinese coffee_shop riverside high no average .
+Chinese coffee_shop riverside . average high no .
+riverside high coffee_shop Chinese . average no .
+Chinese coffee_shop high . riverside average no .
+Chinese coffee_shop high . riverside average .
+coffee_shop Chinese high average riverside no .
+coffee_shop Chinese riverside . high average no .
+coffee_shop Chinese high . riverside average .
+coffee_shop Chinese riverside yes . high average .
+coffee_shop Chinese yes riverside . high average .
+coffee_shop Chinese high . riverside average .
+coffee_shop high yes Chinese riverside . average .
+coffee_shop riverside yes Chinese . high average .
+coffee_shop Chinese . city_centre no less_than_£_20 low .
+city_centre . less_than_£_20 low Chinese coffee_shop no .
+coffee_shop Chinese less_than_£_20 low . city_centre .
+city_centre coffee_shop Chinese less_than_£_20 low no .
+coffee_shop no low . Chinese city_centre less_than_£_20 .
+city_centre less_than_£_20 low coffee_shop Chinese . no .
+coffee_shop Chinese . less_than_£_20 low city_centre .
+coffee_shop less_than_£_20 Chinese . low yes city_centre .
+coffee_shop less_than_£_20 Chinese . low yes city_centre .
+coffee_shop Chinese less_than_£_20 . city_centre low .
+coffee_shop less_than_£_20 yes Chinese city_centre .
+coffee_shop yes Chinese city_centre .
+yes coffee_shop Chinese . less_than_£_20 low city_centre .
+less_than_£_20 low coffee_shop Chinese . riverside no .
+less_than_£_20 low Chinese coffee_shop . no riverside .
+Chinese coffee_shop riverside low less_than_£_20 no .
+riverside Chinese coffee_shop no less_than_£_20 low .
+Chinese coffee_shop less_than_£_20 low . no .
+Chinese coffee_shop riverside less_than_£_20 . no .
+riverside Chinese coffee_shop . less_than_£_20 no .
+coffee_shop Chinese less_than_£_20 low . riverside yes .
+Chinese coffee_shop riverside . less_than_£_20 yes low .
+coffee_shop Chinese less_than_£_20 . riverside low .
+Chinese coffee_shop riverside yes low . less_than_£_20 .
+riverside Chinese coffee_shop low . less_than_£_20 yes .
+moderate coffee_shop Chinese . 1_out_of_5 city_centre no .
+coffee_shop Chinese moderate . 1_out_of_5 city_centre no .
+moderate 1_out_of_5 coffee_shop city_centre no .
+moderate Chinese coffee_shop no city_centre 1_out_of_5 .
+no coffee_shop Chinese . city_centre 1_out_of_5 .
+coffee_shop Chinese . 1_out_of_5 moderate city_centre no .
+moderate Chinese coffee_shop 1_out_of_5 no city_centre .
+coffee_shop Chinese moderate . city_centre 1_out_of_5 .
+coffee_shop Chinese moderate . city_centre 1_out_of_5 .
+coffee_shop Chinese moderate . 1_out_of_5 yes city_centre .
+moderate yes coffee_shop Chinese city_centre .
+coffee_shop Chinese moderate . 1_out_of_5 city_centre yes .
+city_centre coffee_shop Chinese . yes moderate .
+coffee_shop moderate Chinese 1_out_of_5 . riverside .
+coffee_shop Chinese moderate . 1_out_of_5 riverside no .
+coffee_shop Chinese moderate . riverside 1_out_of_5 .
+coffee_shop Chinese moderate . riverside 1_out_of_5 .
+riverside moderate coffee_shop Chinese . 1_out_of_5 no .
+moderate coffee_shop riverside Chinese . 1_out_of_5 no .
+coffee_shop Chinese moderate . riverside 1_out_of_5 .
+coffee_shop Chinese moderate 1_out_of_5 . riverside yes .
+moderate coffee_shop riverside Chinese . yes 1_out_of_5 .
+coffee_shop Chinese moderate . riverside 1_out_of_5 .
+moderate coffee_shop Chinese riverside . 1_out_of_5 yes .
+yes 1_out_of_5 coffee_shop riverside . moderate Chinese .
+moderate coffee_shop city_centre . Chinese 3_out_of_5 no .
+coffee_shop Chinese . no 3_out_of_5 city_centre moderate .
+3_out_of_5 coffee_shop city_centre Chinese moderate no .
+coffee_shop Chinese moderate 3_out_of_5 city_centre no .
+coffee_shop city_centre . moderate 3_out_of_5 .
+3_out_of_5 coffee_shop city_centre Chinese moderate no .
+coffee_shop Chinese city_centre moderate 3_out_of_5 . .
+city_centre coffee_shop moderate yes Chinese . 3_out_of_5 .
+yes coffee_shop Chinese . 3_out_of_5 city_centre moderate .
+coffee_shop Chinese moderate . city_centre 3_out_of_5 .
+coffee_shop Chinese moderate . city_centre 3_out_of_5 .
+coffee_shop Chinese . 3_out_of_5 city_centre moderate yes .
+coffee_shop Chinese moderate riverside . 3_out_of_5 no .
+moderate Chinese 3_out_of_5 coffee_shop riverside . no .
+coffee_shop Chinese riverside . moderate 3_out_of_5 no .
+Chinese coffee_shop riverside . moderate no 3_out_of_5 .
+coffee_shop Chinese moderate . riverside 3_out_of_5 .
+moderate coffee_shop riverside Chinese . 3_out_of_5 no .
+yes coffee_shop riverside Chinese moderate 3_out_of_5 .
+yes coffee_shop riverside Chinese moderate 3_out_of_5 .
+moderate coffee_shop Chinese 3_out_of_5 . yes riverside .
+coffee_shop Chinese moderate . riverside 3_out_of_5 .
+yes coffee_shop riverside Chinese moderate 3_out_of_5 .
+Chinese riverside . moderate yes coffee_shop 3_out_of_5 .
+coffee_shop Chinese more_than_£_30 high . city_centre .
+coffee_shop Chinese more_than_£_30 . city_centre high .
+coffee_shop Chinese city_centre . more_than_£_30 high no .
+coffee_shop city_centre . more_than_£_30 high .
+Chinese coffee_shop more_than_£_30 high . city_centre no .
+city_centre coffee_shop Chinese high more_than_£_30 no .
+coffee_shop city_centre yes . Chinese more_than_£_30 high .
+Chinese coffee_shop city_centre . high more_than_£_30 yes .
+Chinese coffee_shop more_than_£_30 . high yes city_centre .
+coffee_shop Chinese high . city_centre yes .
+yes Chinese coffee_shop more_than_£_30 high city_centre .
+coffee_shop Chinese yes . high city_centre .
+Chinese coffee_shop city_centre more_than_£_30 high . yes .
+riverside Chinese coffee_shop . high no more_than_£_30 .
+coffee_shop Chinese high more_than_£_30 riverside no .
+no riverside . Chinese coffee_shop .
+coffee_shop Chinese riverside . high more_than_£_30 no .
+no riverside coffee_shop more_than_£_30 high .
+high coffee_shop riverside no . more_than_£_30 .
+more_than_£_30 Chinese coffee_shop riverside no .
+Chinese coffee_shop high riverside . yes more_than_£_30 .
+coffee_shop Chinese more_than_£_30 . riverside high .
+coffee_shop high Chinese riverside more_than_£_30 .
+Chinese high coffee_shop riverside .
+Chinese coffee_shop riverside high . more_than_£_30 .
+coffee_shop city_centre .
+high coffee_shop city_centre English £_20_@-@_25 . no .
+city_centre English £_20_@-@_25 . coffee_shop high no .
+coffee_shop city_centre .
+English coffee_shop city_centre high . no .
+city_centre English coffee_shop . no high .
+English coffee_shop yes £_20_@-@_25 city_centre .
+yes English coffee_shop high city_centre .
+high yes coffee_shop English £_20_@-@_25 city_centre .
+coffee_shop city_centre English high yes .
+city_centre high English coffee_shop yes .
+city_centre coffee_shop English yes high .
+no riverside coffee_shop English . high £_20_@-@_25 .
+high English no riverside coffee_shop . £_20_@-@_25 .
+. no English riverside .
+English coffee_shop . riverside .
+. no English riverside .
+English riverside .
+riverside high yes coffee_shop English .
+riverside coffee_shop yes high .
+yes high coffee_shop riverside .
+high coffee_shop riverside . English yes .
+coffee_shop yes .
+yes coffee_shop high .
+yes coffee_shop English high riverside £_20_@-@_25 .
+high yes coffee_shop riverside English .
+riverside high . English yes £_20_@-@_25 .
+no coffee_shop city_centre . English cheap 5_out_of_5 .
+coffee_shop English cheap . city_centre 5_out_of_5 .
+coffee_shop English cheap . city_centre 5_out_of_5 .
+5_out_of_5 coffee_shop city_centre English cheap no .
+cheap coffee_shop 5_out_of_5 .
+yes cheap English coffee_shop city_centre . 5_out_of_5 .
+city_centre cheap yes English coffee_shop 5_out_of_5 .
+cheap coffee_shop 5_out_of_5 .
+5_out_of_5 cheap yes English coffee_shop city_centre .
+5_out_of_5 English coffee_shop city_centre . yes .
+coffee_shop riverside no . English cheap 5_out_of_5 .
+no coffee_shop cheap English 5_out_of_5 riverside .
+5_out_of_5 cheap English no coffee_shop riverside .
+5_out_of_5 English coffee_shop riverside . cheap no .
+English coffee_shop riverside . 5_out_of_5 cheap no .
+riverside coffee_shop English . no 5_out_of_5 cheap .
+5_out_of_5 yes coffee_shop .
+5_out_of_5 yes coffee_shop cheap English riverside .
+coffee_shop yes cheap English . riverside .
+5_out_of_5 coffee_shop riverside yes English cheap .
+cheap coffee_shop 5_out_of_5 yes English riverside .
+5_out_of_5 coffee_shop .
+cheap coffee_shop 5_out_of_5 . yes English riverside .
+cheap coffee_shop . 5_out_of_5 yes .
+cheap yes coffee_shop riverside English . 5_out_of_5 .
+yes coffee_shop riverside 5_out_of_5 cheap English .
+cheap coffee_shop riverside 5_out_of_5 . yes English .
+coffee_shop city_centre English . cheap no .
+cheap English coffee_shop no city_centre average .
+coffee_shop English city_centre . cheap average no .
+cheap average English coffee_shop no city_centre .
+coffee_shop cheap yes English . city_centre average .
+cheap coffee_shop English yes . average city_centre .
+city_centre cheap yes English coffee_shop average .
+coffee_shop city_centre cheap English yes average .
+cheap yes English coffee_shop average city_centre .
+city_centre cheap yes coffee_shop English average .
+English coffee_shop riverside . average cheap no .
+riverside coffee_shop average English cheap .
+no English coffee_shop riverside .
+cheap English coffee_shop riverside .
+riverside average coffee_shop English cheap .
+English coffee_shop riverside . cheap average no .
+yes coffee_shop cheap .
+cheap yes coffee_shop riverside .
+yes coffee_shop riverside average English .
+coffee_shop average . cheap yes .
+coffee_shop average . cheap yes .
+cheap yes coffee_shop riverside .
+coffee_shop riverside . English cheap .
+cheap English coffee_shop riverside . yes average .
+riverside yes coffee_shop average English .
+cheap yes coffee_shop English riverside .
+yes cheap coffee_shop English riverside .
+high coffee_shop English city_centre . 1_out_of_5 no .
+coffee_shop high English . city_centre no 1_out_of_5 .
+coffee_shop city_centre English . 1_out_of_5 high no .
+city_centre coffee_shop English . high 1_out_of_5 no .
+yes coffee_shop city_centre English 1_out_of_5 high .
+yes coffee_shop English 1_out_of_5 high .
+yes English . city_centre 1_out_of_5 coffee_shop high .
+yes English . city_centre 1_out_of_5 coffee_shop high .
+high English coffee_shop city_centre yes . 1_out_of_5 .
+high English coffee_shop city_centre yes . 1_out_of_5 .
+high coffee_shop English riverside . no .
+no English coffee_shop . 1_out_of_5 high riverside .
+riverside high English . coffee_shop 1_out_of_5 no .
+riverside high coffee_shop English . 1_out_of_5 .
+coffee_shop high English . 1_out_of_5 no riverside .
+no English coffee_shop . 1_out_of_5 high riverside .
+English riverside coffee_shop . 1_out_of_5 yes high .
+riverside yes coffee_shop . English high 1_out_of_5 .
+yes coffee_shop English riverside . 1_out_of_5 high .
+1_out_of_5 yes coffee_shop English high . riverside .
+yes coffee_shop riverside . high English 1_out_of_5 .
+yes coffee_shop . riverside .
+high coffee_shop . yes 1_out_of_5 .
+yes high 1_out_of_5 . riverside English .
+yes coffee_shop . riverside .
+coffee_shop English . high 1_out_of_5 yes .
+riverside coffee_shop yes . 1_out_of_5 English high .
+coffee_shop city_centre average . English high no .
+English coffee_shop no city_centre . average high .
+English coffee_shop city_centre average high . no .
+coffee_shop no high average .
+English coffee_shop city_centre . average no high .
+coffee_shop English city_centre .
+yes English coffee_shop city_centre high average .
+English coffee_shop city_centre high average yes .
+high yes coffee_shop English city_centre . average .
+yes coffee_shop English city_centre . high average .
+city_centre high English coffee_shop average . yes .
+coffee_shop English high yes average .
+coffee_shop riverside English no average high .
+riverside coffee_shop no high average English .
+high riverside coffee_shop English . average no .
+riverside coffee_shop English high average . no .
+average coffee_shop high .
+coffee_shop English riverside yes high .
+coffee_shop yes .
+riverside coffee_shop . high English yes average .
+average coffee_shop high .
+English coffee_shop riverside average yes high .
+coffee_shop riverside English yes high .
+yes coffee_shop average English riverside high .
+coffee_shop English riverside . high average yes .
+coffee_shop riverside . high average English yes .
+coffee_shop . yes .
+less_than_£_20 low coffee_shop English no .
+coffee_shop English city_centre low less_than_£_20 no .
+less_than_£_20 coffee_shop city_centre . no low .
+less_than_£_20 coffee_shop city_centre . no low .
+yes coffee_shop city_centre . English less_than_£_20 low .
+yes coffee_shop English city_centre . less_than_£_20 low .
+yes coffee_shop city_centre less_than_£_20 low .
+less_than_£_20 English coffee_shop city_centre yes low .
+less_than_£_20 English city_centre low yes .
+yes coffee_shop city_centre less_than_£_20 low .
+less_than_£_20 low coffee_shop English .
+riverside less_than_£_20 coffee_shop . no .
+less_than_£_20 low coffee_shop English . riverside no .
+riverside English less_than_£_20 . coffee_shop no low .
+less_than_£_20 coffee_shop riverside . no .
+less_than_£_20 English no coffee_shop riverside low .
+low no coffee_shop riverside English less_than_£_20 .
+riverside coffee_shop English . no less_than_£_20 low .
+English riverside coffee_shop . less_than_£_20 no low .
+English riverside coffee_shop . less_than_£_20 no low .
+coffee_shop less_than_£_20 English riverside low .
+yes less_than_£_20 low coffee_shop English riverside .
+yes coffee_shop less_than_£_20 low English riverside .
+less_than_£_20 English coffee_shop yes low .
+coffee_shop less_than_£_20 yes low .
+coffee_shop riverside English less_than_£_20 low .
+. yes coffee_shop less_than_£_20 low .
+coffee_shop English . less_than_£_20 low yes .
+English coffee_shop less_than_£_20 . yes low .
+yes coffee_shop . less_than_£_20 English low .
+yes coffee_shop less_than_£_20 low . riverside English .
+coffee_shop riverside . less_than_£_20 low yes English .
+no moderate English coffee_shop city_centre 1_out_of_5 .
+English coffee_shop moderate city_centre . no 1_out_of_5 .
+moderate English coffee_shop city_centre no . 1_out_of_5 .
+English coffee_shop city_centre no . moderate 1_out_of_5 .
+moderate coffee_shop city_centre . 1_out_of_5 no English .
+moderate English coffee_shop city_centre no 1_out_of_5 .
+1_out_of_5 English coffee_shop moderate . city_centre yes .
+yes coffee_shop moderate . English city_centre 1_out_of_5 .
+moderate coffee_shop English . yes city_centre 1_out_of_5 .
+city_centre yes English coffee_shop 1_out_of_5 .
+English coffee_shop city_centre . moderate yes 1_out_of_5 .
+moderate yes English coffee_shop city_centre . 1_out_of_5 .
+moderate English coffee_shop . riverside 1_out_of_5 .
+coffee_shop riverside English . moderate no 1_out_of_5 .
+riverside 1_out_of_5 coffee_shop moderate English .
+English coffee_shop riverside . moderate no 1_out_of_5 .
+coffee_shop English moderate . riverside 1_out_of_5 no .
+moderate coffee_shop English 1_out_of_5 riverside .
+yes moderate English coffee_shop 1_out_of_5 .
+coffee_shop .
+moderate coffee_shop riverside English yes 1_out_of_5 .
+coffee_shop English . yes moderate 1_out_of_5 .
+coffee_shop moderate yes .
+moderate yes coffee_shop riverside . English 1_out_of_5 .
+coffee_shop yes .
+coffee_shop . yes .
+yes moderate 1_out_of_5 coffee_shop English . riverside .
+moderate English coffee_shop city_centre . 3_out_of_5 no .
+moderate 3_out_of_5 coffee_shop English . city_centre no .
+coffee_shop city_centre . moderate 3_out_of_5 English no .
+3_out_of_5 no English coffee_shop city_centre moderate .
+English coffee_shop moderate . city_centre no 3_out_of_5 .
+city_centre 3_out_of_5 moderate no English coffee_shop .
+English coffee_shop city_centre . moderate yes 3_out_of_5 .
+coffee_shop English moderate 3_out_of_5 yes .
+yes coffee_shop . moderate English city_centre 3_out_of_5 .
+yes moderate . English coffee_shop city_centre 3_out_of_5 .
+English coffee_shop city_centre yes moderate 3_out_of_5 .
+city_centre . coffee_shop English moderate 3_out_of_5 yes .
+moderate 3_out_of_5 coffee_shop riverside English no .
+no English coffee_shop riverside 3_out_of_5 .
+English coffee_shop moderate 3_out_of_5 . riverside no .
+coffee_shop riverside . no English moderate 3_out_of_5 .
+English coffee_shop riverside . moderate 3_out_of_5 no .
+coffee_shop English . riverside moderate 3_out_of_5 .
+yes coffee_shop moderate riverside . English 3_out_of_5 .
+yes coffee_shop .
+English yes . riverside moderate 3_out_of_5 .
+3_out_of_5 yes coffee_shop .
+English yes riverside . moderate 3_out_of_5 .
+riverside coffee_shop 3_out_of_5 English . yes .
+riverside coffee_shop . English yes 3_out_of_5 moderate .
+coffee_shop riverside English yes .
+coffee_shop yes .
+English coffee_shop yes . moderate riverside 3_out_of_5 .
+3_out_of_5 coffee_shop yes .
+city_centre . English coffee_shop high no more_than_£_30 .
+English coffee_shop city_centre no more_than_£_30 high .
+more_than_£_30 high coffee_shop no city_centre .
+coffee_shop city_centre more_than_£_30 high . no .
+city_centre no more_than_£_30 English coffee_shop high .
+English coffee_shop city_centre no more_than_£_30 high .
+yes coffee_shop city_centre high more_than_£_30 English .
+city_centre high English coffee_shop . more_than_£_30 yes .
+English coffee_shop city_centre more_than_£_30 . high yes .
+English coffee_shop city_centre more_than_£_30 . high yes .
+yes coffee_shop city_centre more_than_£_30 high English .
+yes English coffee_shop city_centre . high more_than_£_30 .
+coffee_shop riverside . English high no more_than_£_30 .
+coffee_shop riverside . English high no more_than_£_30 .
+more_than_£_30 high no coffee_shop riverside English .
+riverside coffee_shop high more_than_£_30 English no .
+more_than_£_30 high coffee_shop no English riverside .
+coffee_shop no riverside more_than_£_30 high English .
+1_out_of_5 near .
+near 1_out_of_5 .
+near 1_out_of_5 .
+near 1_out_of_5 .
+1_out_of_5 near .
+near 1_out_of_5 .
+near 1_out_of_5 .
+near 1_out_of_5 .
+near 1_out_of_5 .
+near 1_out_of_5 .
+near 1_out_of_5 .
+1_out_of_5 near .
+near 1_out_of_5 .
+near .
+3_out_of_5 near .
+near .
+near 3_out_of_5 .
+3_out_of_5 . near .
+near .
+3_out_of_5 near .
+3_out_of_5 near .
+3_out_of_5 near .
+near 3_out_of_5 .
+near 3_out_of_5 .
+3_out_of_5 near .
+3_out_of_5 near .
+5_out_of_5 near .
+5_out_of_5 near .
+5_out_of_5 near .
+5_out_of_5 near .
+near .
+near 5_out_of_5 .
+5_out_of_5 near .
+5_out_of_5 near .
+5_out_of_5 near .
+near 5_out_of_5 .
+5_out_of_5 . near .
+near .
+near .
+average near .
+average near .
+average near .
+average near .
+near average .
+average near .
+average near .
+near average .
+average near .
+near average .
+average near .
+average near .
+average near .
+high near .
+high near .
+high near .
+near high .
+high near .
+near high .
+high near .
+high near .
+high near .
+near high .
+high near .
+near high .
+high near .
+low near .
+low near .
+low near .
+near low .
+low near .
+low near .
+low . near .
+low near .
+low near .
+low near .
+low near .
+near low .
+low near .
+near city_centre coffee_shop Chinese . no .
+coffee_shop city_centre . no near Chinese .
+coffee_shop Chinese city_centre . no near .
+near coffee_shop Chinese city_centre .
+coffee_shop city_centre Chinese . no near .
+city_centre . near coffee_shop Chinese no .
+coffee_shop city_centre . Chinese no near .
+coffee_shop Chinese city_centre . near .
+city_centre near yes coffee_shop . Chinese .
+coffee_shop Chinese city_centre . near .
+Chinese . yes coffee_shop city_centre near .
+coffee_shop Chinese . city_centre near yes .
+yes coffee_shop city_centre . Chinese near .
+no coffee_shop riverside near . Chinese .
+coffee_shop riverside near Chinese . no .
+coffee_shop riverside near . no Chinese .
+coffee_shop Chinese riverside near . no .
+coffee_shop riverside Chinese . no near .
+coffee_shop Chinese riverside . near .
+yes Chinese coffee_shop riverside near .
+yes coffee_shop near riverside Chinese .
+yes coffee_shop Chinese riverside near .
+coffee_shop Chinese riverside . near .
+yes . Chinese coffee_shop riverside near .
+Chinese coffee_shop riverside . yes near .
+yes coffee_shop Chinese riverside near .
+riverside near coffee_shop Chinese yes .
+Chinese coffee_shop riverside yes . near .
+riverside yes coffee_shop . Chinese near .
+near riverside coffee_shop . yes Chinese .
+riverside near yes Chinese coffee_shop .
+coffee_shop Chinese yes riverside near .
+Chinese coffee_shop riverside near yes .
+coffee_shop yes Chinese . riverside near .
+yes coffee_shop riverside near Chinese .
+coffee_shop Chinese riverside near .
+coffee_shop Chinese . near riverside yes .
+near riverside yes coffee_shop . Chinese .
+yes coffee_shop near riverside . Chinese .
+English . near city_centre coffee_shop no .
+coffee_shop no . English city_centre near .
+English . near city_centre coffee_shop no .
+coffee_shop near city_centre . English no .
+near city_centre coffee_shop . English .
+English no coffee_shop city_centre near .
+near city_centre yes coffee_shop English .
+coffee_shop near city_centre . English yes .
+yes coffee_shop English . city_centre near .
+yes English near city_centre .
+yes English near city_centre .
+coffee_shop city_centre near yes English .
+English coffee_shop near riverside . no .
+coffee_shop riverside near . no .
+near riverside coffee_shop . no .
+coffee_shop near . no .
+riverside near no coffee_shop English .
+riverside coffee_shop . near no .
+riverside coffee_shop near . English no .
+coffee_shop near riverside . no English .
+no coffee_shop riverside English near .
+coffee_shop English . riverside near no .
+no coffee_shop near riverside .
+coffee_shop English . yes riverside .
+near riverside coffee_shop English yes .
+yes coffee_shop English . riverside .
+riverside yes coffee_shop . English .
+riverside near English coffee_shop yes .
+yes English coffee_shop riverside near .
+yes English coffee_shop near riverside .
+yes coffee_shop riverside near English .
+coffee_shop yes near riverside .
+riverside yes coffee_shop English .
+riverside coffee_shop English yes .
+coffee_shop English riverside near yes .
+riverside . coffee_shop yes English .
+near riverside yes coffee_shop . English .
+riverside coffee_shop near . yes English .
+yes English coffee_shop riverside near .
+yes coffee_shop near riverside .
+English coffee_shop near riverside . yes .
+riverside near yes coffee_shop English .
+coffee_shop near riverside yes .
+English yes coffee_shop riverside .
+English yes coffee_shop riverside near .
+riverside near English coffee_shop yes .
+coffee_shop riverside near . English yes .
+coffee_shop riverside near English yes .
+riverside coffee_shop English yes .
+yes coffee_shop English near .
+coffee_shop riverside near . English yes .
+yes coffee_shop . English riverside near .
+English yes coffee_shop riverside .
+coffee_shop . near riverside yes English .
+riverside near yes coffee_shop .
+yes coffee_shop English . riverside near .
+coffee_shop English yes riverside near .
+yes coffee_shop English riverside near .
+coffee_shop near riverside . English yes .
+yes coffee_shop riverside near . English .
+yes English coffee_shop riverside near .
+coffee_shop yes English . riverside near .
+English coffee_shop . riverside near yes .
+near yes coffee_shop riverside .
+near riverside English yes .
+riverside coffee_shop English yes .
+yes coffee_shop riverside near . 1_out_of_5 .
+near riverside . yes coffee_shop 1_out_of_5 .
+yes near riverside .
+yes . coffee_shop near riverside 1_out_of_5 .
+riverside near yes coffee_shop . 1_out_of_5 .
+yes . 1_out_of_5 riverside near .
+coffee_shop near riverside yes 1_out_of_5 .
+yes coffee_shop near riverside . 1_out_of_5 .
+1_out_of_5 yes coffee_shop near riverside .
+riverside . coffee_shop near yes 1_out_of_5 .
+riverside near yes coffee_shop 1_out_of_5 .
+yes coffee_shop riverside near . 1_out_of_5 .
+riverside near coffee_shop 1_out_of_5 yes .
+1_out_of_5 coffee_shop . yes riverside near .
+coffee_shop near riverside yes 1_out_of_5 .
+coffee_shop near riverside yes 1_out_of_5 .
+coffee_shop near riverside . 1_out_of_5 yes .
+yes coffee_shop . riverside near 1_out_of_5 .
+coffee_shop yes 1_out_of_5 . riverside near .
+riverside yes coffee_shop 1_out_of_5 . near .
+yes coffee_shop near riverside . 1_out_of_5 .
+riverside yes near .
+yes coffee_shop riverside near . 1_out_of_5 .
+coffee_shop yes near riverside . 1_out_of_5 .
+riverside near yes coffee_shop 1_out_of_5 .
+yes coffee_shop 1_out_of_5 riverside near .
+riverside near coffee_shop yes .
+yes coffee_shop riverside near 1_out_of_5 .
+near riverside yes coffee_shop 1_out_of_5 .
+yes coffee_shop near riverside . 3_out_of_5 .
+coffee_shop near . yes riverside 3_out_of_5 .
+coffee_shop riverside near . yes 3_out_of_5 .
+riverside near . coffee_shop yes .
+yes coffee_shop 3_out_of_5 riverside near .
+yes coffee_shop riverside near . 3_out_of_5 .
+coffee_shop near riverside yes .
+riverside near yes coffee_shop . 3_out_of_5 .
+coffee_shop riverside near . yes 3_out_of_5 .
+coffee_shop riverside near yes 3_out_of_5 .
+near riverside coffee_shop 3_out_of_5 yes .
+yes coffee_shop riverside . near 3_out_of_5 .
+coffee_shop riverside near yes 3_out_of_5 .
+riverside near coffee_shop . 3_out_of_5 yes .
+riverside near yes coffee_shop .
+yes coffee_shop riverside . 3_out_of_5 near .
+yes coffee_shop riverside near 3_out_of_5 .
+yes coffee_shop riverside near . 3_out_of_5 .
+yes coffee_shop riverside . near 3_out_of_5 .
+3_out_of_5 coffee_shop yes near riverside .
+riverside near coffee_shop . 3_out_of_5 yes .
+yes coffee_shop . riverside near 3_out_of_5 .
+coffee_shop riverside near . yes 3_out_of_5 .
+riverside coffee_shop 3_out_of_5 . yes near .
+coffee_shop city_centre near . 5_out_of_5 .
+coffee_shop city_centre near . no 5_out_of_5 .
+coffee_shop city_centre near . 5_out_of_5 no .
+near city_centre coffee_shop . no 5_out_of_5 .
+yes coffee_shop near city_centre . 5_out_of_5 .
+yes coffee_shop near . city_centre 5_out_of_5 .
+city_centre near .
+yes coffee_shop city_centre . near 5_out_of_5 .
+near city_centre coffee_shop . yes 5_out_of_5 .
+coffee_shop city_centre near .
+coffee_shop 5_out_of_5 . near riverside no .
+coffee_shop 5_out_of_5 . no riverside near .
+near coffee_shop . no riverside 5_out_of_5 .
+no coffee_shop riverside near . 5_out_of_5 .
+near coffee_shop . no riverside 5_out_of_5 .
+near riverside coffee_shop . no 5_out_of_5 .
+near coffee_shop 5_out_of_5 . riverside yes .
+near riverside coffee_shop . yes 5_out_of_5 .
+riverside yes coffee_shop . 5_out_of_5 near .
+coffee_shop near riverside . yes 5_out_of_5 .
+yes coffee_shop riverside near .
+coffee_shop 5_out_of_5 . yes riverside near .
+coffee_shop riverside near . yes 5_out_of_5 .
+riverside yes coffee_shop 5_out_of_5 near .
+yes coffee_shop riverside near . 5_out_of_5 .
+yes coffee_shop 5_out_of_5 . near riverside .
+coffee_shop yes 5_out_of_5 . near riverside .
+near riverside yes coffee_shop 5_out_of_5 .
+riverside near . yes coffee_shop 5_out_of_5 .
+riverside yes coffee_shop . 5_out_of_5 near .
+yes coffee_shop near riverside . 5_out_of_5 .
+riverside near coffee_shop . yes 5_out_of_5 .
+near riverside yes coffee_shop 5_out_of_5 .
+riverside . yes 5_out_of_5 coffee_shop near .
+coffee_shop 5_out_of_5 . riverside near yes .
+riverside near yes coffee_shop 5_out_of_5 .
+yes coffee_shop riverside near .
+coffee_shop yes riverside 5_out_of_5 near .
+riverside coffee_shop near . 5_out_of_5 yes .
+coffee_shop near riverside 5_out_of_5 yes .
+city_centre near . average no .
+no coffee_shop average city_centre near .
+no average coffee_shop near city_centre .
+city_centre coffee_shop near average no .
+coffee_shop city_centre near . no average .
+no average coffee_shop near city_centre .
+city_centre coffee_shop yes near .
+near city_centre coffee_shop yes average .
+average coffee_shop near yes .
+coffee_shop near average .
+yes coffee_shop average near city_centre .
+average yes near coffee_shop city_centre .
+coffee_shop near riverside .
+coffee_shop no average riverside near .
+no coffee_shop near riverside average .
+coffee_shop riverside near no .
+no coffee_shop near riverside . average .
+coffee_shop riverside near .
+near riverside average yes coffee_shop .
+coffee_shop near . average yes .
+average . yes coffee_shop near riverside .
+near riverside yes coffee_shop average .
+coffee_shop yes near . riverside average .
+coffee_shop yes riverside near average .
+coffee_shop riverside near yes average .
+yes coffee_shop riverside . average near .
+average coffee_shop yes near riverside .
+yes coffee_shop riverside near average .
+yes coffee_shop riverside near average .
+yes average coffee_shop riverside near .
+yes coffee_shop near . average riverside .
+yes coffee_shop riverside . average near .
+yes coffee_shop average near riverside .
+average coffee_shop riverside near yes .
+yes coffee_shop near riverside average .
+coffee_shop yes average . near .
+coffee_shop near riverside yes average .
+riverside average near yes coffee_shop .
+yes coffee_shop riverside near average .
+riverside yes coffee_shop . near .
+average yes . coffee_shop near riverside .
+yes coffee_shop average near riverside .
+yes coffee_shop average riverside near .
+coffee_shop near riverside . yes average .
+riverside average coffee_shop . yes near .
+yes high coffee_shop near riverside .
+coffee_shop yes high . near riverside .
+yes coffee_shop riverside near high .
+yes coffee_shop near riverside .
+riverside coffee_shop near yes high .
+near high coffee_shop . yes riverside .
+coffee_shop yes high near riverside .
+yes coffee_shop near riverside . high .
+near yes coffee_shop . riverside high .
+high yes coffee_shop near riverside .
+coffee_shop near riverside . yes high .
+near yes coffee_shop riverside .
+coffee_shop yes high near riverside .
+near yes riverside coffee_shop high .
+near yes coffee_shop riverside . high .
+riverside near high coffee_shop . yes .
+near riverside yes coffee_shop .
+coffee_shop yes high . riverside near .
+near riverside yes high coffee_shop .
+yes coffee_shop near riverside . high .
+near riverside yes coffee_shop .
+near riverside yes coffee_shop high .
+coffee_shop yes high near riverside .
+near riverside high coffee_shop .
+coffee_shop near riverside yes high .
+coffee_shop riverside near . yes high .
+riverside coffee_shop high yes . near .
+low coffee_shop city_centre near . no .
+city_centre near coffee_shop no low .
+no coffee_shop low . near city_centre .
+coffee_shop city_centre near . low no .
+coffee_shop near city_centre . low no .
+coffee_shop near city_centre . no .
+low yes coffee_shop city_centre near .
+low yes coffee_shop near city_centre .
+city_centre yes coffee_shop near low .
+coffee_shop near city_centre . yes low .
+coffee_shop near city_centre . yes low .
+low yes coffee_shop near city_centre .
+coffee_shop no near riverside . low .
+coffee_shop riverside near . low no .
+low coffee_shop near .
+coffee_shop no low near riverside .
+low coffee_shop near .
+coffee_shop . no near riverside low .
+coffee_shop no near riverside .
+coffee_shop near riverside . low .
+coffee_shop near .
+coffee_shop no near riverside low .
+coffee_shop low . no near .
+yes coffee_shop riverside near . low .
+coffee_shop yes near riverside . low .
+yes coffee_shop low . riverside near .
+low coffee_shop riverside near yes .
+low yes coffee_shop riverside near .
+coffee_shop riverside near . low yes .
+low yes coffee_shop riverside . near .
+yes coffee_shop riverside near low .
+yes coffee_shop riverside near . low .
+yes coffee_shop near riverside .
+riverside near yes coffee_shop . low .
+riverside near coffee_shop . low yes .
+coffee_shop yes low . riverside near .
+near riverside yes coffee_shop . low .
+coffee_shop riverside near . yes low .
+coffee_shop yes near riverside . low .
+yes coffee_shop riverside . near low .
+yes low coffee_shop riverside near .
+riverside near yes coffee_shop low .
+low yes coffee_shop riverside near .
+yes coffee_shop riverside . low near .
+coffee_shop yes . near riverside low .
+yes coffee_shop . riverside near low .
+near riverside coffee_shop . yes low .
+coffee_shop Chinese near yes 1_out_of_5 .
+1_out_of_5 Chinese coffee_shop near yes .
+coffee_shop Chinese yes near . 1_out_of_5 .
+Chinese coffee_shop . yes near 1_out_of_5 .
+1_out_of_5 coffee_shop Chinese yes . near .
+near . coffee_shop Chinese 1_out_of_5 yes .
+coffee_shop 1_out_of_5 yes Chinese near .
+Chinese coffee_shop near . yes 1_out_of_5 .
+coffee_shop Chinese . yes near 1_out_of_5 .
+coffee_shop Chinese near . 1_out_of_5 .
+yes coffee_shop Chinese near . 1_out_of_5 .
+coffee_shop Chinese . 1_out_of_5 yes near .
+Chinese coffee_shop 1_out_of_5 . yes near .
+coffee_shop Chinese near . 3_out_of_5 .
+Chinese coffee_shop near . yes .
+coffee_shop Chinese . near 3_out_of_5 yes .
+yes coffee_shop Chinese near . 3_out_of_5 .
+near 3_out_of_5 yes Chinese coffee_shop .
+coffee_shop Chinese near . 5_out_of_5 .
+coffee_shop near Chinese . 5_out_of_5 no .
+coffee_shop Chinese near . 5_out_of_5 .
+coffee_shop Chinese near . 5_out_of_5 .
+Chinese 5_out_of_5 coffee_shop near . no .
+coffee_shop Chinese near . 5_out_of_5 .
+coffee_shop near Chinese . yes 5_out_of_5 .
+coffee_shop Chinese near . 5_out_of_5 .
+coffee_shop Chinese 5_out_of_5 . near yes .
+coffee_shop Chinese near . 5_out_of_5 .
+coffee_shop Chinese no average near .
+Chinese coffee_shop near no average .
+coffee_shop Chinese near . no average .
+coffee_shop Chinese near .
+near Chinese coffee_shop average no .
+coffee_shop Chinese average no . near .
+coffee_shop Chinese . yes average near .
+coffee_shop Chinese near . average yes .
+yes average coffee_shop Chinese . near .
+yes Chinese coffee_shop average . near .
+Chinese coffee_shop . average yes near .
+coffee_shop near Chinese yes average .
+Chinese coffee_shop average . near yes .
+coffee_shop Chinese near . average .
+average coffee_shop Chinese yes near .
+near coffee_shop Chinese . yes average .
+coffee_shop Chinese near . average .
+Chinese . average yes near .
+Chinese coffee_shop yes near . average .
+coffee_shop Chinese near . high .
+coffee_shop Chinese near . high .
+high yes Chinese coffee_shop near .
+coffee_shop near Chinese . high yes .
+Chinese high yes near .
+yes coffee_shop near high . Chinese .
+coffee_shop Chinese high . yes near .
+coffee_shop Chinese . high yes near .
+coffee_shop near Chinese . high yes .
+high Chinese coffee_shop near . yes .
+yes coffee_shop high Chinese near .
+near yes coffee_shop high Chinese .
+near . Chinese no .
+coffee_shop Chinese near . low no .
+near coffee_shop Chinese . no low .
+near no . Chinese low .
+coffee_shop near Chinese . low no .
+near Chinese coffee_shop . low no .
+coffee_shop near Chinese low no .
+coffee_shop Chinese near . yes low .
+coffee_shop near Chinese . yes low .
+coffee_shop Chinese near . low .
+coffee_shop Chinese near yes . low .
+coffee_shop Chinese near . low .
+coffee_shop Chinese . yes low near .
+English coffee_shop yes 1_out_of_5 near .
+near coffee_shop . English yes 1_out_of_5 .
+coffee_shop near English . yes 1_out_of_5 .
+coffee_shop English . yes 1_out_of_5 near .
+coffee_shop English yes 1_out_of_5 near .
+1_out_of_5 coffee_shop English near yes .
+yes coffee_shop 1_out_of_5 near .
+coffee_shop near English yes 1_out_of_5 .
+1_out_of_5 . yes coffee_shop near .
+near yes coffee_shop English . 1_out_of_5 .
+near coffee_shop English yes 1_out_of_5 .
+coffee_shop English . near yes 1_out_of_5 .
+near yes coffee_shop English 3_out_of_5 .
+yes coffee_shop English 3_out_of_5 near .
+coffee_shop near . English 5_out_of_5 no .
+coffee_shop English 5_out_of_5 near .
+near English coffee_shop 5_out_of_5 .
+English coffee_shop no near . 5_out_of_5 .
+English coffee_shop no near . 5_out_of_5 .
+near coffee_shop English 5_out_of_5 . no .
+coffee_shop 5_out_of_5 yes near .
+coffee_shop yes 5_out_of_5 near .
+yes coffee_shop near .
+English coffee_shop near .
+yes English coffee_shop near 5_out_of_5 .
+English coffee_shop yes near 5_out_of_5 .
+coffee_shop English yes near 5_out_of_5 .
+coffee_shop English yes near 5_out_of_5 .
+coffee_shop 5_out_of_5 yes near .
+English coffee_shop near .
+near yes 5_out_of_5 coffee_shop .
+English . average no coffee_shop near .
+average coffee_shop near . English no .
+coffee_shop near average English . no .
+average coffee_shop English . near no .
+coffee_shop English yes near . average .
+near coffee_shop English . yes average .
+English . near coffee_shop yes average .
+coffee_shop yes near . average .
+near . yes coffee_shop English average .
+English average near . yes coffee_shop .
+coffee_shop English . near yes .
+yes coffee_shop near .
+English . near coffee_shop yes average .
+average coffee_shop English . yes near .
+coffee_shop near average . yes English .
+English yes near coffee_shop average .
+yes coffee_shop average English near .
+near coffee_shop . English yes average .
+yes coffee_shop near .
+yes coffee_shop near .
+yes coffee_shop near . average English .
+high yes coffee_shop near .
+yes coffee_shop English . high .
+near coffee_shop English . high yes .
+yes English coffee_shop high near .
+coffee_shop English near . yes high .
+high yes coffee_shop near . English .
+coffee_shop near yes high . English .
+yes English coffee_shop high near .
+yes coffee_shop English high . near .
+yes coffee_shop near . high English .
+yes coffee_shop near . high .
+coffee_shop high English near . yes .
+near coffee_shop English . low no .
+no coffee_shop near . low English .
+coffee_shop near English low . no .
+low coffee_shop near . no English .
+coffee_shop near no .
+coffee_shop low English . near .
+coffee_shop English near . no .
+near coffee_shop . English no .
+coffee_shop near low English .
+yes coffee_shop near English low .
+low yes coffee_shop near English .
+coffee_shop English yes near low .
+near coffee_shop .
+yes coffee_shop near .
+coffee_shop near .
+coffee_shop English . yes near low .
+near . yes .
+coffee_shop near . low yes .
+near coffee_shop English . yes low .
+riverside near . yes 1_out_of_5 .
+riverside near 1_out_of_5 yes .
+near riverside 1_out_of_5 yes .
+near riverside yes . 1_out_of_5 .
+1_out_of_5 yes riverside near .
+riverside near 1_out_of_5 yes .
+yes 1_out_of_5 near .
+1_out_of_5 . near yes .
+riverside near . yes 1_out_of_5 .
+near yes 1_out_of_5 riverside .
+riverside near yes 1_out_of_5 .
+1_out_of_5 yes near riverside .
+yes near riverside 1_out_of_5 .
+yes near riverside 1_out_of_5 .
+riverside near 1_out_of_5 yes .
+yes riverside near . 1_out_of_5 .
+riverside near . yes .
+1_out_of_5 yes near riverside .
+near riverside . 1_out_of_5 yes .
+yes near riverside . 1_out_of_5 .
+yes riverside near 1_out_of_5 .
+riverside near yes 1_out_of_5 .
+yes . near riverside .
+riverside near yes 1_out_of_5 .
+yes riverside near 1_out_of_5 .
+riverside near 1_out_of_5 yes .
+riverside near yes 1_out_of_5 .
+riverside near .
+yes riverside 1_out_of_5 near .
+3_out_of_5 riverside near .
+yes riverside 3_out_of_5 . near .
+riverside yes . near 3_out_of_5 .
+3_out_of_5 yes . near riverside .
+yes 3_out_of_5 near riverside .
+yes riverside near . 3_out_of_5 .
+riverside yes . 3_out_of_5 near .
+yes 3_out_of_5 . near riverside .
+yes near riverside . 3_out_of_5 .
+near riverside . yes .
+near riverside . yes 3_out_of_5 .
+riverside . 3_out_of_5 near yes .
+near yes 3_out_of_5 riverside .
+yes riverside near . 3_out_of_5 .
+riverside near 3_out_of_5 yes .
+riverside near yes 3_out_of_5 .
+riverside yes 3_out_of_5 near .
+yes riverside 3_out_of_5 . near .
+riverside near yes 3_out_of_5 .
+near riverside . 3_out_of_5 yes .
+near riverside . 3_out_of_5 yes .
+yes riverside . near 3_out_of_5 .
+near riverside 3_out_of_5 . yes .
+3_out_of_5 yes near .
+near city_centre no .
+near city_centre . no .
+city_centre near . no 5_out_of_5 .
+near city_centre . no .
+city_centre near . no 5_out_of_5 .
+yes near city_centre 5_out_of_5 .
+5_out_of_5 yes city_centre near .
+yes city_centre near . 5_out_of_5 .
+yes 5_out_of_5 . city_centre near .
+near riverside 5_out_of_5 . no .
+near riverside no 5_out_of_5 .
+5_out_of_5 no near riverside .
+riverside near . 5_out_of_5 no .
+5_out_of_5 . riverside near no .
+no . riverside near .
+near riverside . yes 5_out_of_5 .
+near yes . riverside .
+yes riverside near 5_out_of_5 .
+yes 5_out_of_5 . riverside near .
+near riverside 5_out_of_5 yes .
+yes . 5_out_of_5 riverside near .
+yes riverside near . 5_out_of_5 .
+yes riverside . near 5_out_of_5 .
+riverside yes near .
+5_out_of_5 . yes near riverside .
+riverside near yes 5_out_of_5 .
+riverside yes 5_out_of_5 near .
+5_out_of_5 yes riverside . near .
+near riverside yes . 5_out_of_5 .
+yes near riverside 5_out_of_5 .
+yes riverside 5_out_of_5 . near .
+yes near . riverside 5_out_of_5 .
+yes riverside near . 5_out_of_5 .
+riverside near . yes 5_out_of_5 .
+near 5_out_of_5 yes . riverside .
+riverside yes near 5_out_of_5 .
+yes 5_out_of_5 . near riverside .
+riverside near . yes 5_out_of_5 .
+5_out_of_5 . riverside near yes .
+average no near city_centre .
+near city_centre . no average .
+average near city_centre . no .
+city_centre near . no average .
+city_centre near yes average .
+city_centre near yes average .
+yes average . city_centre near .
+city_centre near . yes average .
+average yes city_centre near .
+city_centre near yes average .
+riverside near . average no .
+average near riverside . no .
+near riverside . no average .
+average . riverside near no .
+near riverside . no .
+riverside . near no average .
+riverside near yes . average .
+riverside near . yes average .
+riverside near yes average .
+riverside yes . near average .
+yes near riverside . average .
+yes near riverside average .
+yes average . near riverside .
+riverside near average yes .
+near yes riverside average .
+yes average . riverside near .
+average near riverside yes .
+yes riverside near . average .
+yes . average near riverside .
+near riverside . yes average .
+average yes riverside near .
+yes riverside near . average .
+riverside near yes average .
+riverside near . yes average .
+near . yes average .
+riverside near . yes average .
+near riverside .
+riverside near . yes average .
+yes near riverside . average .
+near riverside . yes average .
+near riverside yes average .
+riverside near . yes average .
+yes riverside near . average .
+near riverside yes average .
+riverside near . yes average .
+near yes high .
+near riverside high yes .
+high yes riverside near .
+near high riverside yes .
+high yes riverside near .
+riverside near yes high .
+near riverside high yes .
+yes near .
+high . yes near riverside .
+near riverside high yes .
+near yes riverside high .
+high riverside near .
+high yes riverside . near .
+high . riverside near yes .
+riverside near . high yes .
+high yes riverside near .
+riverside near . high yes .
+high yes . riverside near .
+riverside near high yes .
+high yes riverside near .
+riverside near high yes .
+high yes . near riverside .
+near riverside . high yes .
+near riverside yes high .
+yes riverside near high .
+near riverside high yes .
+yes high . near riverside .
+yes near riverside . high .
+high near yes .
+no city_centre near .
+near city_centre low no .
+near city_centre . low no .
+near city_centre low no .
+no low . city_centre near .
+no near city_centre low .
+yes near city_centre . low .
+near city_centre low yes .
+low yes near city_centre .
+low yes city_centre near .
+yes near city_centre low .
+near city_centre . yes low .
+near no .
+riverside near no low .
+low no . near .
+riverside near . no low .
+riverside near . low no .
+near low no .
+near riverside low no .
+near riverside . no low .
+near .
+riverside near low .
+near .
+yes riverside near low .
+near riverside yes low .
+near . yes low riverside .
+yes low riverside near .
+near low yes riverside .
+riverside near yes .
+low yes riverside near . .
+low near yes riverside .
+near low yes riverside .
+yes riverside near low .
+yes near riverside low .
+low yes . riverside near .
+near riverside .
+yes riverside near .
+yes . near riverside low .
+yes near riverside low .
+near riverside yes low .
+riverside near yes .
+near low yes riverside .
+riverside near . low yes .
+yes low . riverside near .
+yes near riverside low .
+yes riverside near . low .
+low yes . riverside near .
+coffee_shop Chinese city_centre near no .
+coffee_shop Chinese £_20_@-@_25 . city_centre near no high .
+high Chinese . £_20_@-@_25 city_centre near .
+coffee_shop Chinese . high no city_centre near .
+high Chinese £_20_@-@_25 . coffee_shop city_centre near no .
+city_centre . near Chinese £_20_@-@_25 no high .
+high coffee_shop city_centre near . Chinese no .
+yes city_centre near high Chinese .
+coffee_shop Chinese £_20_@-@_25 . city_centre near high .
+city_centre near high yes Chinese .
+coffee_shop Chinese high . near city_centre yes .
+coffee_shop Chinese high . city_centre yes near .
+coffee_shop Chinese near riverside . £_20_@-@_25 high no .
+coffee_shop Chinese riverside near high £_20_@-@_25 no .
+coffee_shop Chinese near riverside . no high £_20_@-@_25 .
+coffee_shop Chinese £_20_@-@_25 . riverside near high .
+coffee_shop Chinese £_20_@-@_25 . riverside near high .
+coffee_shop Chinese high £_20_@-@_25 no riverside near .
+coffee_shop Chinese £_20_@-@_25 . riverside near high .
+coffee_shop riverside . Chinese high yes near .
+coffee_shop Chinese . high yes riverside near .
+coffee_shop Chinese £_20_@-@_25 . riverside near high .
+coffee_shop Chinese £_20_@-@_25 . riverside near high .
+coffee_shop Chinese city_centre near 5_out_of_5 cheap no .
+coffee_shop city_centre near cheap Chinese 5_out_of_5 . no .
+coffee_shop city_centre near Chinese 5_out_of_5 cheap . no .
+coffee_shop Chinese cheap . city_centre near 5_out_of_5 .
+coffee_shop Chinese cheap 5_out_of_5 . city_centre near no .
+5_out_of_5 cheap coffee_shop near city_centre . Chinese no .
+5_out_of_5 cheap no coffee_shop Chinese . near city_centre .
+5_out_of_5 Chinese yes coffee_shop city_centre near .
+coffee_shop Chinese cheap 5_out_of_5 city_centre yes near .
+coffee_shop Chinese cheap 5_out_of_5 yes near city_centre .
+coffee_shop Chinese cheap 5_out_of_5 city_centre yes near .
+cheap coffee_shop city_centre near . yes Chinese 5_out_of_5 .
+Chinese coffee_shop near city_centre 5_out_of_5 cheap yes .
+city_centre near 5_out_of_5 yes Chinese cheap .
+coffee_shop Chinese . 5_out_of_5 cheap riverside near no .
+riverside near . cheap no coffee_shop Chinese 5_out_of_5 .
+riverside near . 5_out_of_5 no cheap Chinese coffee_shop .
+coffee_shop cheap Chinese . 5_out_of_5 no riverside near .
+Chinese coffee_shop cheap . no 5_out_of_5 riverside near .
+no coffee_shop Chinese . riverside near cheap 5_out_of_5 .
+riverside near 5_out_of_5 cheap Chinese .
+riverside near cheap coffee_shop . Chinese yes 5_out_of_5 .
+Chinese coffee_shop 5_out_of_5 . riverside yes near .
+coffee_shop Chinese cheap . riverside near 5_out_of_5 .
+coffee_shop Chinese cheap 5_out_of_5 . yes riverside near .
+coffee_shop Chinese . cheap yes 5_out_of_5 riverside near .
+coffee_shop cheap Chinese . city_centre near average no .
+coffee_shop Chinese cheap . city_centre near average .
+coffee_shop Chinese cheap . city_centre near average .
+coffee_shop Chinese cheap . city_centre near average .
+Chinese city_centre cheap coffee_shop . average no near .
+cheap coffee_shop Chinese average . city_centre near yes .
+coffee_shop Chinese cheap . average city_centre yes near .
+yes cheap Chinese coffee_shop . average near .
+coffee_shop Chinese cheap . city_centre near average .
+coffee_shop city_centre near . cheap Chinese yes average .
+coffee_shop Chinese city_centre near . yes cheap average .
+riverside near coffee_shop Chinese cheap average .
+coffee_shop cheap Chinese . average riverside no near .
+cheap Chinese average riverside near . no .
+no coffee_shop Chinese riverside near cheap average .
+coffee_shop Chinese cheap average no near riverside .
+coffee_shop Chinese cheap average no riverside near .
+Chinese coffee_shop riverside near . no cheap .
+coffee_shop Chinese cheap . riverside near average .
+coffee_shop Chinese riverside near . cheap yes average .
+cheap yes coffee_shop near riverside . Chinese average .
+coffee_shop cheap Chinese average near riverside yes .
+coffee_shop Chinese cheap . riverside near average .
+coffee_shop Chinese high 1_out_of_5 . city_centre near no .
+city_centre near no . coffee_shop Chinese 1_out_of_5 .
+coffee_shop Chinese city_centre near . no high 1_out_of_5 .
+coffee_shop Chinese high . 1_out_of_5 no near city_centre .
+coffee_shop Chinese high 1_out_of_5 city_centre no near .
+coffee_shop high Chinese . 1_out_of_5 city_centre near no .
+city_centre near Chinese coffee_shop 1_out_of_5 yes .
+Chinese city_centre . near yes 1_out_of_5 .
+coffee_shop Chinese high 1_out_of_5 yes near city_centre .
+coffee_shop Chinese . high 1_out_of_5 city_centre yes near .
+coffee_shop Chinese high 1_out_of_5 yes near city_centre .
+coffee_shop high Chinese near .
+high Chinese coffee_shop riverside near . no 1_out_of_5 .
+riverside near no coffee_shop . Chinese high 1_out_of_5 .
+coffee_shop Chinese . no 1_out_of_5 near riverside .
+coffee_shop Chinese . high 1_out_of_5 riverside near no .
+no coffee_shop near riverside Chinese . high 1_out_of_5 .
+no coffee_shop Chinese . 1_out_of_5 near riverside .
+coffee_shop no riverside . Chinese high 1_out_of_5 near .
+high coffee_shop near riverside . Chinese yes 1_out_of_5 .
+1_out_of_5 coffee_shop Chinese high . riverside near yes .
+yes Chinese coffee_shop 1_out_of_5 high riverside near .
+high coffee_shop riverside near . yes Chinese .
+Chinese coffee_shop . high 1_out_of_5 yes riverside near .
+coffee_shop Chinese high . 1_out_of_5 near riverside yes .
+Chinese . high 1_out_of_5 riverside near yes .
+no coffee_shop city_centre . Chinese high average near .
+coffee_shop Chinese near high average .
+no Chinese coffee_shop average . high city_centre near .
+coffee_shop Chinese . average high no city_centre near .
+coffee_shop Chinese near no average .
+Chinese coffee_shop city_centre near . average high no .
+city_centre near coffee_shop . no Chinese average high .
+coffee_shop Chinese high . city_centre near average .
+yes coffee_shop Chinese high average . city_centre near .
+coffee_shop Chinese high . city_centre near average .
+coffee_shop Chinese city_centre near . high average yes .
+coffee_shop Chinese high average city_centre near yes .
+coffee_shop Chinese high . riverside near average .
+coffee_shop riverside near . no high Chinese .
+Chinese coffee_shop riverside near . high average no .
+high coffee_shop Chinese riverside near . no average .
+high coffee_shop Chinese average . no riverside near .
+coffee_shop near high Chinese riverside average no .
+coffee_shop near riverside . high Chinese yes average .
+Chinese coffee_shop near riverside . high average .
+high average yes Chinese coffee_shop near riverside .
+coffee_shop Chinese high . riverside near average .
+Chinese coffee_shop riverside near . yes high average .
+coffee_shop Chinese . high average yes near riverside .
+coffee_shop Chinese . less_than_£_20 low city_centre no near .
+coffee_shop city_centre Chinese near .
+Chinese . less_than_£_20 low city_centre no near .
+coffee_shop Chinese less_than_£_20 . city_centre near low .
+coffee_shop Chinese less_than_£_20 . city_centre near low .
+city_centre near coffee_shop Chinese .
+less_than_£_20 low coffee_shop Chinese . yes city_centre near .
+yes coffee_shop Chinese less_than_£_20 low . near city_centre .
+coffee_shop . Chinese less_than_£_20 low yes city_centre near .
+city_centre . near yes low coffee_shop Chinese less_than_£_20 .
+less_than_£_20 low . Chinese near .
+yes coffee_shop near city_centre less_than_£_20 Chinese .
+riverside less_than_£_20 low coffee_shop Chinese . near no .
+coffee_shop Chinese . less_than_£_20 low no riverside near .
+coffee_shop near riverside Chinese . low no .
+coffee_shop Chinese . riverside near less_than_£_20 low no .
+less_than_£_20 low coffee_shop riverside near Chinese . no .
+coffee_shop riverside Chinese near . less_than_£_20 low no .
+riverside coffee_shop near Chinese less_than_£_20 . low no .
+Chinese coffee_shop . less_than_£_20 low yes riverside near .
+coffee_shop Chinese . riverside near yes less_than_£_20 low .
+less_than_£_20 low coffee_shop Chinese riverside near .
+coffee_shop Chinese . less_than_£_20 near yes .
+coffee_shop Chinese . less_than_£_20 low riverside near yes .
+less_than_£_20 low yes coffee_shop Chinese near .
+coffee_shop Chinese moderate 1_out_of_5 city_centre no near .
+coffee_shop Chinese city_centre near . no moderate 1_out_of_5 .
+coffee_shop Chinese moderate 1_out_of_5 city_centre no near .
+coffee_shop moderate Chinese . city_centre near no 1_out_of_5 .
+coffee_shop Chinese moderate . city_centre near 1_out_of_5 .
+moderate Chinese . city_centre near 1_out_of_5 no .
+coffee_shop Chinese moderate 1_out_of_5 city_centre yes near .
+1_out_of_5 yes Chinese city_centre . near .
+Chinese city_centre . near moderate yes 1_out_of_5 .
+coffee_shop Chinese moderate 1_out_of_5 city_centre yes near .
+coffee_shop moderate Chinese city_centre near .
+coffee_shop moderate . Chinese yes city_centre near .
+coffee_shop . moderate Chinese 1_out_of_5 yes near city_centre .
+Chinese coffee_shop no . 1_out_of_5 moderate riverside near .
+riverside near coffee_shop . moderate Chinese 1_out_of_5 no .
+coffee_shop moderate Chinese . riverside near 1_out_of_5 no .
+coffee_shop Chinese moderate . 1_out_of_5 no riverside near .
+moderate Chinese coffee_shop . near riverside no 1_out_of_5 .
+Chinese coffee_shop riverside near . moderate 1_out_of_5 no .
+near riverside . coffee_shop Chinese moderate no 1_out_of_5 .
+coffee_shop Chinese . moderate 1_out_of_5 riverside near .
+riverside Chinese near moderate 1_out_of_5 .
+coffee_shop Chinese moderate . riverside near 1_out_of_5 .
+coffee_shop Chinese moderate . riverside near 1_out_of_5 .
+coffee_shop Chinese riverside near 1_out_of_5 . yes moderate .
+coffee_shop Chinese . city_centre near 3_out_of_5 no .
+no Chinese coffee_shop near city_centre 3_out_of_5 moderate .
+city_centre near no 3_out_of_5 coffee_shop Chinese moderate .
+city_centre near Chinese coffee_shop moderate . 3_out_of_5 no .
+Chinese coffee_shop moderate . 3_out_of_5 no city_centre near .
+coffee_shop Chinese moderate 3_out_of_5 city_centre near no .
+coffee_shop near city_centre . 3_out_of_5 no Chinese .
+yes coffee_shop Chinese moderate 3_out_of_5 . city_centre near .
+city_centre near . moderate yes coffee_shop Chinese 3_out_of_5 .
+Chinese coffee_shop city_centre . near yes moderate 3_out_of_5 .
+coffee_shop Chinese moderate . city_centre near 3_out_of_5 .
+moderate yes coffee_shop Chinese . 3_out_of_5 city_centre near .
+moderate yes coffee_shop Chinese . near city_centre 3_out_of_5 .
+coffee_shop Chinese moderate . near riverside no 3_out_of_5 .
+coffee_shop Chinese near riverside moderate 3_out_of_5 no .
+3_out_of_5 riverside near coffee_shop Chinese moderate no .
+coffee_shop Chinese moderate . 3_out_of_5 no near riverside .
+coffee_shop Chinese riverside near . no moderate 3_out_of_5 .
+no near riverside . coffee_shop Chinese moderate 3_out_of_5 .
+coffee_shop Chinese . moderate 3_out_of_5 no riverside near .
+Chinese coffee_shop moderate . 3_out_of_5 yes riverside near .
+riverside coffee_shop Chinese . yes moderate 3_out_of_5 near .
+yes coffee_shop moderate Chinese . 3_out_of_5 riverside near .
+coffee_shop Chinese moderate . riverside near 3_out_of_5 .
+3_out_of_5 Chinese coffee_shop moderate near riverside . yes .
+city_centre near no coffee_shop Chinese . more_than_£_30 high .
+coffee_shop Chinese . more_than_£_30 high city_centre no near .
+Chinese coffee_shop city_centre . more_than_£_30 high no near .
+coffee_shop Chinese more_than_£_30 high . no near city_centre .
+coffee_shop Chinese . more_than_£_30 high city_centre near no .
+Chinese city_centre . no coffee_shop more_than_£_30 high near .
+high Chinese . coffee_shop near no .
+coffee_shop Chinese . more_than_£_30 high yes near city_centre .
+near coffee_shop Chinese . city_centre more_than_£_30 high yes .
+coffee_shop city_centre Chinese . near more_than_£_30 high yes .
+coffee_shop Chinese . more_than_£_30 high city_centre near .
+coffee_shop Chinese . high more_than_£_30 city_centre yes near .
+coffee_shop Chinese more_than_£_30 high . yes near city_centre .
+Chinese coffee_shop high more_than_£_30 . no riverside near .
+Chinese coffee_shop riverside near . more_than_£_30 high no .
+near coffee_shop Chinese . more_than_£_30 high riverside no .
+Chinese coffee_shop . more_than_£_30 high no near .
+Chinese coffee_shop riverside near more_than_£_30 high . no .
+Chinese coffee_shop riverside near . high more_than_£_30 no .
+coffee_shop Chinese . more_than_£_30 high riverside no near .
+riverside coffee_shop . high yes Chinese near .
+near Chinese high coffee_shop riverside yes .
+high coffee_shop Chinese near riverside .
+coffee_shop .
+coffee_shop Chinese . more_than_£_30 high riverside near yes .
+coffee_shop Chinese more_than_£_30 high riverside yes near .
+coffee_shop Chinese more_than_£_30 high riverside yes near .
+city_centre near . English no high .
+English coffee_shop . city_centre near high £_20_@-@_25 no .
+English coffee_shop city_centre near . high no .
+English coffee_shop near city_centre £_20_@-@_25 no .
+city_centre near English coffee_shop high . no £_20_@-@_25 .
+English coffee_shop near city_centre £_20_@-@_25 no .
+English coffee_shop city_centre near .
+yes near . £_20_@-@_25 English city_centre coffee_shop high .
+English coffee_shop city_centre near . high yes .
+yes coffee_shop . city_centre near English high .
+city_centre near yes coffee_shop English . high £_20_@-@_25 .
+yes English coffee_shop city_centre near . high £_20_@-@_25 .
+English coffee_shop near riverside . high £_20_@-@_25 no .
+coffee_shop English . riverside near £_20_@-@_25 .
+near riverside English coffee_shop . no £_20_@-@_25 high .
+coffee_shop English . riverside near £_20_@-@_25 high .
+English near riverside . high coffee_shop .
+coffee_shop riverside near high English no .
+coffee_shop yes riverside near .
+yes coffee_shop near .
+yes coffee_shop near .
+coffee_shop near . high yes English riverside .
+coffee_shop English riverside near yes high .
+near riverside yes coffee_shop .
+English coffee_shop near . yes high riverside .
+coffee_shop English riverside near yes high .
+riverside near English coffee_shop £_20_@-@_25 high yes .
+5_out_of_5 coffee_shop city_centre near . cheap English no .
+near city_centre 5_out_of_5 cheap coffee_shop English .
+cheap coffee_shop city_centre . 5_out_of_5 no English near .
+cheap no coffee_shop 5_out_of_5 . English city_centre near .
+city_centre near coffee_shop English no . 5_out_of_5 cheap .
+cheap coffee_shop city_centre near English 5_out_of_5 .
+cheap English coffee_shop near yes city_centre .
+5_out_of_5 English coffee_shop city_centre near . cheap yes .
+coffee_shop yes English cheap 5_out_of_5 city_centre near .
+city_centre English coffee_shop 5_out_of_5 . near yes cheap .
+cheap English coffee_shop city_centre near . 5_out_of_5 yes .
+yes coffee_shop English 5_out_of_5 cheap city_centre near .
+cheap coffee_shop English riverside near . 5_out_of_5 .
+cheap 5_out_of_5 coffee_shop riverside near . English .
+near riverside coffee_shop English cheap 5_out_of_5 .
+cheap English 5_out_of_5 . riverside near no .
+cheap 5_out_of_5 coffee_shop . English no riverside near .
+cheap English . riverside near no 5_out_of_5 .
+coffee_shop cheap . English yes near .
+coffee_shop English near . yes .
+near riverside coffee_shop . English yes cheap .
+cheap riverside . coffee_shop yes English near .
+English riverside near . cheap yes 5_out_of_5 .
+cheap coffee_shop English riverside near . yes 5_out_of_5 .
+English coffee_shop riverside near . cheap 5_out_of_5 .
+riverside near cheap yes coffee_shop English . 5_out_of_5 .
+coffee_shop English cheap . riverside near yes 5_out_of_5 .
+average cheap English coffee_shop near city_centre . no .
+cheap coffee_shop city_centre near . English average no .
+coffee_shop city_centre near average English cheap .
+cheap English coffee_shop near city_centre . average no .
+no coffee_shop city_centre near cheap English average .
+coffee_shop cheap English no . city_centre near average .
+English coffee_shop . city_centre near yes average cheap .
+. English city_centre near cheap .
+. English city_centre near cheap .
+city_centre English coffee_shop near . average cheap yes .
+coffee_shop English near .
+no English coffee_shop riverside near average cheap .
+no English coffee_shop riverside near cheap average .
+riverside coffee_shop cheap English near .
+English average near riverside . cheap no coffee_shop .
+coffee_shop near riverside English cheap no average .
+yes coffee_shop cheap English riverside near .
+cheap English yes coffee_shop riverside near .
+coffee_shop English . cheap yes riverside near .
+cheap coffee_shop yes near .
+yes cheap coffee_shop riverside near .
+cheap coffee_shop riverside . English average yes near .
+yes coffee_shop near riverside cheap average .
+English yes coffee_shop near riverside . cheap average .
+cheap average yes coffee_shop near riverside .
+English yes coffee_shop riverside . near cheap average .
+cheap coffee_shop yes average near .
+no English coffee_shop city_centre high 1_out_of_5 near .
+English coffee_shop city_centre near . no high .
+high English coffee_shop city_centre near 1_out_of_5 no .
+English coffee_shop city_centre near high 1_out_of_5 no .
+near city_centre coffee_shop no 1_out_of_5 .
+no English coffee_shop . high city_centre near 1_out_of_5 .
+English coffee_shop near city_centre high . 1_out_of_5 yes .
+coffee_shop city_centre near . English yes high 1_out_of_5 .
+near city_centre coffee_shop . 1_out_of_5 yes .
+near coffee_shop . yes 1_out_of_5 English high .
+coffee_shop near city_centre . English yes high 1_out_of_5 .
+English yes near city_centre . coffee_shop 1_out_of_5 high .
+coffee_shop 1_out_of_5 English . near riverside high no .
+coffee_shop high . riverside near English 1_out_of_5 no .
+coffee_shop near English riverside 1_out_of_5 . high no .
+English coffee_shop near high 1_out_of_5 .
+near riverside 1_out_of_5 . English coffee_shop high no .
+English coffee_shop near high 1_out_of_5 .
+riverside near . 1_out_of_5 yes English coffee_shop .
+yes English coffee_shop high . 1_out_of_5 riverside near .
+coffee_shop yes . English high 1_out_of_5 near .
+high coffee_shop near .
+near high .
+English coffee_shop yes high 1_out_of_5 . riverside near .
+high yes near riverside .
+coffee_shop riverside 1_out_of_5 high English . yes near .
+high English coffee_shop average city_centre near no .
+high English coffee_shop average city_centre near no .
+city_centre near . high coffee_shop English average no .
+high English coffee_shop city_centre near . average no .
+city_centre near high English coffee_shop . no average .
+high coffee_shop near city_centre . average no English .
+near city_centre coffee_shop English . high average yes .
+English coffee_shop city_centre near . high average yes .
+coffee_shop English city_centre near . yes average high .
+yes coffee_shop near city_centre . English average high .
+English near city_centre . yes average high .
+English coffee_shop city_centre near . average high yes .
+no English coffee_shop riverside near average high .
+near riverside . high English coffee_shop no average .
+no English coffee_shop riverside near high average .
+English coffee_shop riverside . no average near .
+no riverside near English . high coffee_shop average .
+English coffee_shop average . no riverside near .
+coffee_shop riverside near English high . yes average .
+average high . yes coffee_shop English riverside near .
+yes coffee_shop English . average high near riverside .
+riverside near high English coffee_shop average yes .
+high yes coffee_shop English . near .
+coffee_shop riverside near . yes average English high .
+near riverside yes average coffee_shop English high .
+near coffee_shop English . high yes .
+riverside near . high English coffee_shop yes average .
+high coffee_shop English . yes average riverside near .
+near yes riverside average coffee_shop English high .
+coffee_shop city_centre near less_than_£_20 low English . no .
+city_centre near less_than_£_20 low no coffee_shop English .
+city_centre near coffee_shop less_than_£_20 low . English .
+less_than_£_20 low no coffee_shop English city_centre near .
+less_than_£_20 low English city_centre . near no .
+city_centre near coffee_shop English less_than_£_20 low .
+yes less_than_£_20 low coffee_shop English . city_centre near .
+coffee_shop English city_centre near . yes less_than_£_20 low .
+less_than_£_20 low yes English coffee_shop . city_centre near .
+coffee_shop yes English less_than_£_20 low . near city_centre .
+yes coffee_shop near city_centre . English less_than_£_20 low .
+coffee_shop English . yes near city_centre less_than_£_20 low .
+coffee_shop near . less_than_£_20 low no .
+coffee_shop near less_than_£_20 .
+coffee_shop English less_than_£_20 low . near riverside .
+coffee_shop English less_than_£_20 near riverside low .
+coffee_shop near . low .
+coffee_shop near riverside English . no less_than_£_20 low .
+coffee_shop English less_than_£_20 low . near riverside .
+less_than_£_20 low no coffee_shop . near .
+English near no less_than_£_20 coffee_shop .
+coffee_shop no . near .
+coffee_shop near . less_than_£_20 low no .
+coffee_shop near riverside . less_than_£_20 low .
+low yes coffee_shop near . less_than_£_20 .
+riverside near . English yes coffee_shop low less_than_£_20 .
+yes coffee_shop riverside near English less_than_£_20 low .
+yes coffee_shop less_than_£_20 . English riverside near low .
+less_than_£_20 low coffee_shop near yes .
+yes coffee_shop less_than_£_20 low . near .
+yes coffee_shop English less_than_£_20 low . near riverside .
+riverside near yes coffee_shop English less_than_£_20 . low .
+yes coffee_shop less_than_£_20 low . near .
+yes coffee_shop less_than_£_20 . riverside near .
+coffee_shop city_centre near . English moderate no 1_out_of_5 .
+no 1_out_of_5 coffee_shop English moderate . city_centre near .
+coffee_shop English . moderate no 1_out_of_5 city_centre near .
+moderate coffee_shop 1_out_of_5 . English near city_centre no .
+near city_centre coffee_shop moderate English . 1_out_of_5 no .
+coffee_shop city_centre near English moderate . 1_out_of_5 no .
+city_centre near yes English coffee_shop . 1_out_of_5 .
+coffee_shop moderate English 1_out_of_5 . city_centre near yes .
+coffee_shop 1_out_of_5 . moderate yes near city_centre .
+near city_centre English coffee_shop yes 1_out_of_5 .
+1_out_of_5 coffee_shop near city_centre . moderate English .
+English coffee_shop city_centre near yes moderate .
+coffee_shop moderate no English . near riverside .
+coffee_shop moderate English no 1_out_of_5 near riverside .
+near riverside coffee_shop English no 1_out_of_5 .
+riverside near coffee_shop moderate English . no 1_out_of_5 .
+riverside near . coffee_shop 1_out_of_5 moderate English .
+coffee_shop moderate . English no 1_out_of_5 near riverside .
+yes coffee_shop moderate . riverside near English 1_out_of_5 .
+English coffee_shop near riverside . 1_out_of_5 yes moderate .
+riverside coffee_shop . near 1_out_of_5 moderate yes .
+1_out_of_5 coffee_shop English . yes moderate near riverside .
+yes coffee_shop near . 1_out_of_5 .
+near riverside coffee_shop moderate 1_out_of_5 .
+coffee_shop English . near riverside moderate yes 1_out_of_5 .
+near riverside coffee_shop moderate 1_out_of_5 .
+yes coffee_shop near . 1_out_of_5 .
+yes moderate coffee_shop near .
+moderate English yes . near riverside 1_out_of_5 .
+near city_centre coffee_shop English . moderate 3_out_of_5 no .
+coffee_shop no . near city_centre English moderate 3_out_of_5 .
+city_centre near coffee_shop .
+coffee_shop near city_centre . no moderate English 3_out_of_5 .
+coffee_shop near city_centre . moderate 3_out_of_5 .
+no coffee_shop English near city_centre . moderate 3_out_of_5 .
+moderate English 3_out_of_5 coffee_shop yes city_centre near .
+moderate 3_out_of_5 English near city_centre yes .
+moderate yes coffee_shop English . city_centre near 3_out_of_5 .
+English near city_centre 3_out_of_5 moderate .
+English coffee_shop near riverside moderate no 3_out_of_5 .
+no coffee_shop English riverside near moderate 3_out_of_5 .
+coffee_shop near riverside . English moderate 3_out_of_5 .
+riverside near moderate 3_out_of_5 English coffee_shop no .
+English coffee_shop riverside near . moderate 3_out_of_5 no .
+coffee_shop near riverside . English 3_out_of_5 moderate .
+moderate 3_out_of_5 coffee_shop near . yes .
+riverside coffee_shop yes moderate English 3_out_of_5 . near .
+riverside coffee_shop yes moderate English 3_out_of_5 . near .
+yes coffee_shop moderate English . 3_out_of_5 riverside near .
+coffee_shop English . near .
+coffee_shop English . near .
+riverside near coffee_shop yes . 3_out_of_5 .
+riverside coffee_shop near moderate yes . 3_out_of_5 English .
+riverside near coffee_shop yes . 3_out_of_5 .
+coffee_shop more_than_£_30 high city_centre near . English no .
+coffee_shop more_than_£_30 near city_centre high English .
+more_than_£_30 high coffee_shop no . city_centre near English .
+English coffee_shop city_centre near more_than_£_30 high . no .
+English coffee_shop more_than_£_30 . no high city_centre near .
+English coffee_shop more_than_£_30 . no high city_centre near .
+high yes English coffee_shop city_centre near . more_than_£_30 .
+English coffee_shop near city_centre . high yes more_than_£_30 .
+coffee_shop near .
+near city_centre yes coffee_shop English more_than_£_30 high .
+coffee_shop yes . English near city_centre more_than_£_30 high .
+coffee_shop near .
+coffee_shop riverside near more_than_£_30 high . English no .
+more_than_£_30 high coffee_shop English no near riverside .
+coffee_shop riverside near English . more_than_£_30 high no .
+coffee_shop riverside near . high English more_than_£_30 .
+riverside near high more_than_£_30 coffee_shop English no .
+coffee_shop near high . English more_than_£_30 riverside .
+city_centre Chinese coffee_shop . high .
+high Chinese coffee_shop city_centre . £_20_@-@_25 .
+coffee_shop city_centre Chinese high .
+coffee_shop Chinese £_20_@-@_25 . high city_centre .
+high Chinese coffee_shop city_centre . £_20_@-@_25 .
+Chinese coffee_shop £_20_@-@_25 city_centre .
+coffee_shop high city_centre Chinese £_20_@-@_25 .
+coffee_shop Chinese £_20_@-@_25 . riverside high .
+coffee_shop Chinese . high riverside .
+high Chinese coffee_shop riverside . £_20_@-@_25 .
+coffee_shop Chinese £_20_@-@_25 . riverside high .
+riverside coffee_shop Chinese . high .
+coffee_shop riverside high Chinese .
+high Chinese coffee_shop riverside £_20_@-@_25 .
+coffee_shop Chinese cheap . city_centre 5_out_of_5 .
+city_centre cheap Chinese 5_out_of_5 coffee_shop .
+coffee_shop city_centre cheap Chinese 5_out_of_5 .
+Chinese cheap .
+city_centre Chinese cheap .
+coffee_shop Chinese cheap . city_centre 5_out_of_5 .
+coffee_shop Chinese cheap riverside 5_out_of_5 .
+coffee_shop Chinese cheap . riverside 5_out_of_5 .
+coffee_shop Chinese cheap . riverside 5_out_of_5 .
+cheap Chinese coffee_shop . 5_out_of_5 .
+coffee_shop Chinese cheap 5_out_of_5 riverside .
+coffee_shop Chinese riverside . 5_out_of_5 cheap .
+coffee_shop cheap Chinese . city_centre average .
+coffee_shop Chinese . city_centre average cheap .
+cheap coffee_shop city_centre Chinese . average .
+average city_centre . coffee_shop Chinese .
+city_centre coffee_shop Chinese cheap . average .
+coffee_shop Chinese cheap average city_centre .
+Chinese coffee_shop riverside . average cheap .
+riverside average . cheap coffee_shop Chinese .
+riverside average cheap . coffee_shop Chinese .
+cheap Chinese coffee_shop riverside average .
+riverside coffee_shop Chinese . cheap average .
+coffee_shop Chinese . cheap average riverside .
+coffee_shop Chinese . riverside average cheap .
+city_centre Chinese coffee_shop high .
+city_centre coffee_shop Chinese .
+1_out_of_5 high . Chinese coffee_shop city_centre .
+coffee_shop Chinese high . city_centre 1_out_of_5 .
+city_centre Chinese coffee_shop high 1_out_of_5 .
+coffee_shop Chinese . high city_centre .
+high Chinese coffee_shop 1_out_of_5 city_centre . .
+Chinese coffee_shop riverside . high 1_out_of_5 .
+coffee_shop riverside Chinese . high 1_out_of_5 .
+coffee_shop high Chinese . riverside .
+riverside coffee_shop Chinese . 1_out_of_5 high .
+coffee_shop Chinese high 1_out_of_5 riverside .
+Chinese coffee_shop riverside . high 1_out_of_5 .
+coffee_shop Chinese high . 1_out_of_5 riverside .
+coffee_shop Chinese high average city_centre .
+coffee_shop Chinese high average . city_centre .
+coffee_shop city_centre Chinese . average high .
+coffee_shop Chinese high average city_centre .
+coffee_shop Chinese high . city_centre average .
+city_centre . coffee_shop high average Chinese .
+coffee_shop Chinese high . average riverside .
+coffee_shop Chinese . riverside high average .
+Chinese coffee_shop riverside . high average .
+Chinese coffee_shop high riverside . average .
+high coffee_shop Chinese riverside . average .
+riverside coffee_shop . Chinese high average .
+high coffee_shop riverside Chinese . average .
+coffee_shop city_centre Chinese less_than_£_20 low .
+coffee_shop Chinese less_than_£_20 city_centre . low .
+coffee_shop city_centre Chinese less_than_£_20 . low .
+coffee_shop city_centre Chinese . less_than_£_20 low .
+coffee_shop Chinese less_than_£_20 . city_centre low .
+coffee_shop Chinese less_than_£_20 . city_centre low .
+coffee_shop Chinese . riverside less_than_£_20 low .
+coffee_shop Chinese less_than_£_20 . riverside low .
+riverside Chinese coffee_shop . low less_than_£_20 .
+riverside . less_than_£_20 Chinese low .
+Chinese coffee_shop riverside low . less_than_£_20 .
+less_than_£_20 Chinese riverside .
+coffee_shop riverside Chinese less_than_£_20 . low .
+coffee_shop Chinese moderate 1_out_of_5 city_centre .
+coffee_shop Chinese moderate . city_centre 1_out_of_5 .
+coffee_shop 1_out_of_5 . Chinese city_centre moderate .
+coffee_shop Chinese moderate . city_centre 1_out_of_5 .
+moderate coffee_shop city_centre Chinese . 1_out_of_5 .
+Chinese coffee_shop moderate city_centre 1_out_of_5 .
+coffee_shop . 1_out_of_5 Chinese city_centre moderate .
+coffee_shop riverside Chinese moderate 1_out_of_5 .
+moderate Chinese coffee_shop riverside 1_out_of_5 .
+coffee_shop Chinese . moderate 1_out_of_5 riverside .
+coffee_shop riverside . 1_out_of_5 moderate .
+riverside 1_out_of_5 moderate Chinese coffee_shop .
+coffee_shop riverside . Chinese moderate 1_out_of_5 .
+Chinese coffee_shop city_centre . moderate 3_out_of_5 .
+coffee_shop Chinese moderate city_centre . 3_out_of_5 .
+coffee_shop moderate Chinese city_centre . 3_out_of_5 .
+Chinese coffee_shop city_centre . 3_out_of_5 moderate .
+moderate Chinese coffee_shop city_centre . 3_out_of_5 .
+Chinese city_centre coffee_shop . 3_out_of_5 moderate .
+coffee_shop Chinese city_centre .
+coffee_shop Chinese moderate 3_out_of_5 riverside .
+coffee_shop Chinese moderate 3_out_of_5 riverside .
+Chinese 3_out_of_5 riverside moderate .
+coffee_shop Chinese moderate 3_out_of_5 riverside .
+moderate Chinese coffee_shop riverside 3_out_of_5 .
+coffee_shop Chinese moderate 3_out_of_5 riverside .
+Chinese coffee_shop riverside 3_out_of_5 moderate .
+coffee_shop Chinese high more_than_£_30 . city_centre .
+coffee_shop city_centre . more_than_£_30 high Chinese .
+more_than_£_30 high coffee_shop Chinese . city_centre .
+coffee_shop Chinese . city_centre more_than_£_30 high .
+coffee_shop Chinese city_centre . high more_than_£_30 .
+high Chinese more_than_£_30 . city_centre .
+city_centre more_than_£_30 high . coffee_shop Chinese .
+riverside coffee_shop Chinese more_than_£_30 . high .
+coffee_shop riverside Chinese more_than_£_30 high .
+riverside more_than_£_30 high . coffee_shop Chinese .
+more_than_£_30 high coffee_shop riverside Chinese .
+more_than_£_30 high riverside coffee_shop Chinese .
+coffee_shop Chinese more_than_£_30 high riverside .
+more_than_£_30 high coffee_shop riverside Chinese .
+coffee_shop city_centre English . £_20_@-@_25 high .
+English coffee_shop . city_centre £_20_@-@_25 high .
+high £_20_@-@_25 . coffee_shop English city_centre .
+coffee_shop city_centre English £_20_@-@_25 high .
+English high . coffee_shop city_centre .
+city_centre high English . £_20_@-@_25 .
+high coffee_shop .
+riverside coffee_shop high English £_20_@-@_25 .
+£_20_@-@_25 high coffee_shop riverside .
+coffee_shop .
+coffee_shop .
+coffee_shop English riverside . high .
+coffee_shop .
+English coffee_shop high . riverside .
+riverside high coffee_shop English .
+cheap English coffee_shop 5_out_of_5 city_centre .
+English coffee_shop city_centre cheap 5_out_of_5 .
+English coffee_shop . cheap 5_out_of_5 city_centre .
+5_out_of_5 coffee_shop English city_centre . cheap .
+English coffee_shop city_centre 5_out_of_5 cheap .
+cheap English coffee_shop city_centre 5_out_of_5 .
+coffee_shop .
+cheap coffee_shop 5_out_of_5 English riverside .
+cheap coffee_shop English riverside 5_out_of_5 .
+coffee_shop cheap riverside .
+coffee_shop English cheap 5_out_of_5 riverside .
+cheap English coffee_shop riverside 5_out_of_5 .
+riverside 5_out_of_5 coffee_shop English cheap .
+cheap coffee_shop riverside .
+cheap coffee_shop .
+English coffee_shop riverside cheap 5_out_of_5 .
+coffee_shop riverside English . 5_out_of_5 cheap .
+city_centre cheap coffee_shop English . average .
+coffee_shop city_centre average cheap English .
+average cheap English coffee_shop city_centre .
+average cheap English coffee_shop city_centre .
+cheap coffee_shop city_centre English . average .
+city_centre average coffee_shop cheap English .
+average cheap coffee_shop English riverside .
+cheap average coffee_shop riverside .
+riverside cheap .
+cheap English . coffee_shop riverside average .
+riverside cheap English coffee_shop . average .
+coffee_shop .
+average cheap . riverside .
+coffee_shop riverside cheap English average .
+coffee_shop riverside .
+average coffee_shop riverside .
+cheap English coffee_shop average riverside .
+coffee_shop English city_centre high .
+English high city_centre .
+English high city_centre .
+coffee_shop English city_centre . 1_out_of_5 high .
+coffee_shop city_centre English high .
+coffee_shop English 1_out_of_5 . city_centre high .
+coffee_shop riverside .
+high coffee_shop English riverside 1_out_of_5 .
+English coffee_shop .
+high 1_out_of_5 English coffee_shop riverside .
+riverside . coffee_shop English high 1_out_of_5 .
+coffee_shop riverside .
+high 1_out_of_5 coffee_shop riverside English .
+coffee_shop .
+high 1_out_of_5 coffee_shop riverside English .
+coffee_shop . riverside .
+English coffee_shop .
+average . English coffee_shop high city_centre .
+average high . coffee_shop city_centre English .
+English coffee_shop average . high city_centre .
+city_centre . coffee_shop English average high .
+coffee_shop English city_centre . high average .
+average . coffee_shop city_centre English high .
+coffee_shop riverside English high . average .
+coffee_shop riverside . English high average .
+coffee_shop average .
+coffee_shop .
+average high coffee_shop riverside .
+high coffee_shop riverside .
+English coffee_shop riverside average high .
+high coffee_shop riverside .
+English riverside coffee_shop . average high .
+English coffee_shop city_centre . less_than_£_20 low .
+coffee_shop city_centre English less_than_£_20 low .
+less_than_£_20 low . city_centre .
+coffee_shop city_centre English less_than_£_20 low .
+less_than_£_20 low city_centre .
+less_than_£_20 low coffee_shop city_centre . English .
+less_than_£_20 .
+less_than_£_20 low coffee_shop English riverside .
+less_than_£_20 low coffee_shop riverside .
+coffee_shop English riverside .
+riverside English . coffee_shop low less_than_£_20 .
+less_than_£_20 riverside . coffee_shop low English .
+coffee_shop English less_than_£_20 low .
+less_than_£_20 coffee_shop . English low .
+less_than_£_20 English coffee_shop . riverside .
+English coffee_shop city_centre . 1_out_of_5 moderate .
+English coffee_shop city_centre moderate 1_out_of_5 .
+English coffee_shop city_centre .
+English coffee_shop city_centre moderate 1_out_of_5 .
+1_out_of_5 English coffee_shop moderate city_centre .
+city_centre English coffee_shop moderate 1_out_of_5 .
+English coffee_shop riverside moderate .
+coffee_shop English moderate . riverside 1_out_of_5 .
+riverside coffee_shop English moderate 1_out_of_5 .
+coffee_shop English riverside moderate 1_out_of_5 .
+1_out_of_5 moderate . coffee_shop riverside English .
+coffee_shop riverside .
+coffee_shop riverside English moderate .
+moderate 1_out_of_5 coffee_shop .
+moderate 1_out_of_5 coffee_shop .
+moderate coffee_shop city_centre . English 3_out_of_5 .
+city_centre coffee_shop English moderate . 3_out_of_5 .
+city_centre coffee_shop English . moderate 3_out_of_5 .
+coffee_shop English city_centre moderate 3_out_of_5 .
+coffee_shop English city_centre moderate 3_out_of_5 .
+coffee_shop city_centre English moderate . 3_out_of_5 .
+coffee_shop riverside .
+English coffee_shop .
+riverside English . moderate 3_out_of_5 .
+moderate 3_out_of_5 coffee_shop riverside .
+moderate coffee_shop English riverside 3_out_of_5 .
+coffee_shop riverside .
+coffee_shop riverside English .
+riverside . moderate coffee_shop English 3_out_of_5 .
+English coffee_shop riverside . moderate 3_out_of_5 .
+coffee_shop city_centre . more_than_£_30 high English .
+high coffee_shop city_centre English .
+high coffee_shop city_centre English .
+coffee_shop English . city_centre more_than_£_30 high .
+coffee_shop city_centre . English high more_than_£_30 .
+coffee_shop city_centre more_than_£_30 high . English .
+high coffee_shop riverside .
+coffee_shop English riverside more_than_£_30 high .
+coffee_shop English . riverside more_than_£_30 high .
+riverside .
+coffee_shop riverside more_than_£_30 high English .
+coffee_shop English . more_than_£_30 high .
+riverside coffee_shop English . high .
+coffee_shop more_than_£_30 high . English .
+high . riverside .
+coffee_shop riverside more_than_£_30 high English .
+high coffee_shop . more_than_£_30 .
+near riverside coffee_shop Chinese £_20_@-@_25 .
+Chinese £_20_@-@_25 . riverside near coffee_shop .
+coffee_shop Chinese riverside near £_20_@-@_25 .
+riverside near coffee_shop Chinese £_20_@-@_25 .
+coffee_shop riverside near Chinese £_20_@-@_25 .
+Chinese coffee_shop riverside near .
+near riverside Chinese coffee_shop .
+coffee_shop Chinese cheap . riverside near .
+coffee_shop Chinese cheap . riverside near .
+coffee_shop Chinese cheap . riverside near .
+coffee_shop cheap Chinese riverside near .
+cheap Chinese riverside near coffee_shop .
+coffee_shop riverside near . Chinese cheap .
+high coffee_shop Chinese city_centre . near .
+coffee_shop Chinese high . city_centre near .
+coffee_shop Chinese . city_centre near .
+coffee_shop high Chinese city_centre near .
+coffee_shop Chinese . city_centre near high .
+coffee_shop near city_centre . high Chinese .
+coffee_shop . riverside near .
+Chinese coffee_shop high riverside near .
+Chinese . high near .
+high Chinese coffee_shop riverside near .
+coffee_shop Chinese high riverside near .
+high coffee_shop Chinese riverside near .
+riverside near high Chinese coffee_shop .
+Chinese coffee_shop city_centre near . less_than_£_20 .
+coffee_shop Chinese less_than_£_20 . city_centre near .
+city_centre near Chinese coffee_shop . less_than_£_20 .
+coffee_shop Chinese city_centre near less_than_£_20 .
+coffee_shop Chinese less_than_£_20 . city_centre near .
+coffee_shop Chinese less_than_£_20 . city_centre near .
+coffee_shop near riverside less_than_£_20 Chinese .
+Chinese less_than_£_20 . coffee_shop riverside near .
+Chinese coffee_shop less_than_£_20 riverside near .
+Chinese coffee_shop riverside near .
+near coffee_shop Chinese .
+coffee_shop Chinese less_than_£_20 riverside near .
+city_centre near coffee_shop Chinese moderate .
+coffee_shop Chinese moderate . city_centre near .
+coffee_shop Chinese moderate city_centre near .
+coffee_shop Chinese moderate . city_centre near .
+coffee_shop near riverside Chinese moderate .
+moderate riverside near Chinese .
+moderate coffee_shop Chinese riverside near .
+coffee_shop near riverside moderate Chinese .
+moderate Chinese coffee_shop riverside near .
+coffee_shop Chinese . moderate riverside near .
+moderate coffee_shop Chinese . riverside near .
+more_than_£_30 coffee_shop Chinese riverside near .
+coffee_shop Chinese near riverside .
+near Chinese coffee_shop more_than_£_30 . riverside .
+Chinese coffee_shop . more_than_£_30 riverside near .
+riverside near coffee_shop Chinese .
+more_than_£_30 coffee_shop Chinese riverside near .
+Chinese coffee_shop riverside near . more_than_£_30 .
+coffee_shop riverside near English £_20_@-@_25 .
+near riverside coffee_shop English £_20_@-@_25 .
+riverside coffee_shop English . near .
+coffee_shop riverside English £_20_@-@_25 near .
+riverside coffee_shop English near £_20_@-@_25 .
+coffee_shop riverside near . English .
+cheap English coffee_shop . near riverside .
+near riverside cheap English coffee_shop .
+English cheap coffee_shop riverside near .
+coffee_shop riverside near . English cheap .
+cheap coffee_shop riverside near English .
+coffee_shop near riverside English cheap .
+riverside near cheap coffee_shop English .
+cheap coffee_shop English . riverside near .
+riverside cheap coffee_shop English near .
+cheap coffee_shop English riverside near .
+English coffee_shop riverside . near cheap .
+coffee_shop city_centre near English .
+coffee_shop high . English city_centre near .
+coffee_shop English . high near city_centre .
+coffee_shop English . city_centre near .
+coffee_shop English near .
+coffee_shop near .
+riverside near . coffee_shop English .
+riverside near high English coffee_shop .
+high near riverside .
+near riverside .
+coffee_shop high English . riverside near .
+high coffee_shop English . riverside near .
+coffee_shop near English .
+coffee_shop near .
+near coffee_shop .
+coffee_shop English near high riverside .
+high English coffee_shop riverside near .
+riverside near coffee_shop English .
+high coffee_shop riverside near . English .
+coffee_shop English near high riverside .
+near city_centre . coffee_shop English less_than_£_20 .
+English coffee_shop city_centre near less_than_£_20 .
+English coffee_shop city_centre near less_than_£_20 .
+coffee_shop near city_centre English less_than_£_20 .
+coffee_shop city_centre near . English .
+coffee_shop . city_centre near English .
+less_than_£_20 coffee_shop near .
+less_than_£_20 coffee_shop near riverside .
+coffee_shop English . near riverside .
+English coffee_shop riverside near .
+riverside near less_than_£_20 coffee_shop .
+less_than_£_20 coffee_shop near riverside .
+coffee_shop less_than_£_20 English near riverside .
+coffee_shop English near riverside less_than_£_20 .
+less_than_£_20 coffee_shop near riverside .
+near riverside coffee_shop English less_than_£_20 .
+coffee_shop English near riverside .
+near coffee_shop English moderate .
+English near city_centre coffee_shop moderate .
+coffee_shop English . moderate city_centre near .
+city_centre near coffee_shop English moderate .
+coffee_shop city_centre near English moderate .
+English coffee_shop near city_centre moderate .
+near riverside coffee_shop moderate English .
+moderate English coffee_shop near riverside .
+coffee_shop near . riverside English moderate .
+coffee_shop English . riverside near moderate .
+coffee_shop riverside .
+moderate coffee_shop near riverside English .
+riverside near coffee_shop . English moderate .
+coffee_shop English . riverside near moderate .
+riverside near moderate English coffee_shop .
+coffee_shop . riverside .
+near riverside moderate English coffee_shop .
+riverside near moderate coffee_shop English .
+coffee_shop near riverside moderate English .
+coffee_shop English moderate . near .
+coffee_shop English moderate . near .
+coffee_shop near . riverside English moderate .
+coffee_shop English more_than_£_30 . near riverside .
+near riverside coffee_shop English more_than_£_30 . .
+coffee_shop English more_than_£_30 near .
+coffee_shop near English more_than_£_30 .
+coffee_shop English more_than_£_30 near .
+English coffee_shop near . more_than_£_30 .
+1_out_of_5 riverside .
+riverside 1_out_of_5 .
+riverside .
+riverside .
+riverside 1_out_of_5 .
+1_out_of_5 riverside .
+riverside 1_out_of_5 .
+1_out_of_5 riverside .
+riverside 1_out_of_5 .
+1_out_of_5 . riverside .
+riverside 1_out_of_5 .
+1_out_of_5 riverside .
+1_out_of_5 riverside .
+riverside 3_out_of_5 .
+riverside 3_out_of_5 .
+riverside 3_out_of_5 .
+riverside 3_out_of_5 .
+riverside 3_out_of_5 .
+3_out_of_5 riverside .
+riverside . 3_out_of_5 .
+riverside 3_out_of_5 .
+riverside 3_out_of_5 .
+3_out_of_5 riverside .
+riverside .
+riverside 3_out_of_5 .
+riverside 3_out_of_5 .
+city_centre 5_out_of_5 .
+city_centre 5_out_of_5 .
+city_centre . 5_out_of_5 .
+city_centre 5_out_of_5 .
+city_centre 5_out_of_5 .
+city_centre 5_out_of_5 .
+riverside 5_out_of_5 .
+riverside 5_out_of_5 .
+riverside 5_out_of_5 .
+riverside 5_out_of_5 .
+riverside . 5_out_of_5 .
+5_out_of_5 riverside .
+riverside .
+5_out_of_5 riverside .
+. riverside .
+riverside 5_out_of_5 .
+riverside .
+riverside 5_out_of_5 .
+5_out_of_5 riverside .
+5_out_of_5 riverside .
+city_centre average .
+average city_centre .
+average city_centre .
+city_centre average .
+city_centre average .
+city_centre average .
+average riverside .
+riverside average .
+riverside average .
+riverside .
+average . riverside .
+riverside average .
+average riverside .
+average riverside .
+riverside average .
+average . riverside .
+riverside average .
+average riverside .
+riverside .
+high riverside .
+high riverside .
+riverside high .
+riverside high .
+riverside high .
+riverside high .
+riverside .
+riverside .
+riverside high .
+high riverside .
+riverside high .
+riverside high .
+high riverside .
+low city_centre .
+city_centre low .
+low city_centre .
+city_centre low .
+low city_centre .
+city_centre low .
+low riverside .
+riverside low .
+low riverside .
+riverside low .
+low riverside .
+riverside low .
+riverside low .
+low . riverside .
+low riverside .
+riverside low .
+riverside low .
+riverside . low .
+riverside .
+yes riverside 1_out_of_5 .
+riverside yes . 1_out_of_5 .
+yes 1_out_of_5 riverside .
+riverside yes 1_out_of_5 .
+riverside yes 1_out_of_5 .
+yes riverside . 1_out_of_5 .
+riverside . yes 1_out_of_5 .
+riverside 1_out_of_5 . yes .
+yes riverside 1_out_of_5 .
+yes riverside . 1_out_of_5 .
+yes riverside . 1_out_of_5 .
+1_out_of_5 yes riverside .
+yes riverside 1_out_of_5 .
+riverside yes 1_out_of_5 .
+riverside yes 1_out_of_5 .
+riverside yes . 1_out_of_5 .
+yes riverside . 1_out_of_5 .
+yes 1_out_of_5 riverside .
+riverside 1_out_of_5 . yes .
+yes riverside 1_out_of_5 .
+yes riverside .
+riverside yes . 1_out_of_5 .
+yes riverside .
+riverside yes . 1_out_of_5 .
+yes 3_out_of_5 riverside .
+riverside 3_out_of_5 yes .
+riverside 3_out_of_5 yes .
+riverside yes 3_out_of_5 .
+riverside yes 3_out_of_5 .
+yes 3_out_of_5 riverside .
+3_out_of_5 yes . riverside .
+3_out_of_5 .
+riverside yes 3_out_of_5 .
+3_out_of_5 yes riverside .
+yes riverside 3_out_of_5 .
+3_out_of_5 riverside .
+yes riverside 3_out_of_5 .
+riverside yes 3_out_of_5 .
+yes riverside . 3_out_of_5 .
+riverside yes 3_out_of_5 .
+riverside 3_out_of_5 .
+riverside 3_out_of_5 yes .
+yes riverside 3_out_of_5 .
+3_out_of_5 yes riverside .
+3_out_of_5 yes riverside .
+yes . riverside 3_out_of_5 .
+yes riverside 3_out_of_5 .
+riverside yes . 3_out_of_5 .
+yes riverside . 3_out_of_5 .
+yes riverside 3_out_of_5 .
+yes riverside 3_out_of_5 .
+riverside 3_out_of_5 yes .
+yes 3_out_of_5 riverside .
+no city_centre .
+5_out_of_5 city_centre .
+city_centre no 5_out_of_5 .
+city_centre no .
+city_centre . no 5_out_of_5 .
+no city_centre . 5_out_of_5 .
+yes city_centre 5_out_of_5 .
+city_centre yes 5_out_of_5 .
+yes city_centre 5_out_of_5 .
+yes city_centre 5_out_of_5 .
+yes city_centre .
+yes city_centre . 5_out_of_5 .
+riverside 5_out_of_5 no .
+5_out_of_5 no riverside .
+riverside 5_out_of_5 . no .
+riverside no 5_out_of_5 .
+riverside 5_out_of_5 . no .
+5_out_of_5 riverside .
+riverside yes 5_out_of_5 .
+yes . riverside 5_out_of_5 .
+yes 5_out_of_5 . riverside .
+yes riverside 5_out_of_5 .
+yes 5_out_of_5 riverside .
+5_out_of_5 riverside yes .
+5_out_of_5 yes riverside .
+yes 5_out_of_5 riverside .
+yes 5_out_of_5 . riverside .
+yes riverside . 5_out_of_5 .
+yes riverside 5_out_of_5 .
+yes riverside 5_out_of_5 .
+riverside 5_out_of_5 yes .
+riverside yes 5_out_of_5 .
+5_out_of_5 riverside .
+riverside yes 5_out_of_5 .
+5_out_of_5 riverside yes .
+5_out_of_5 . yes .
+riverside yes 5_out_of_5 .
+5_out_of_5 . riverside yes .
+riverside yes 5_out_of_5 .
+yes riverside 5_out_of_5 .
+yes 5_out_of_5 riverside .
+riverside .
+riverside yes 5_out_of_5 .
+yes riverside . 5_out_of_5 .
+riverside . yes 5_out_of_5 .
+5_out_of_5 yes . riverside .
+riverside .
+city_centre no average .
+city_centre . no average .
+city_centre average no .
+city_centre average no .
+average city_centre no .
+average city_centre . no .
+city_centre yes .
+average yes city_centre .
+city_centre average yes .
+yes average city_centre .
+yes city_centre . average .
+average . city_centre yes .
+riverside average no .
+riverside average no .
+riverside average no .
+riverside average no .
+riverside no average .
+no riverside average .
+riverside yes average .
+average yes riverside .
+average yes riverside .
+average riverside yes .
+average yes riverside .
+riverside yes average .
+riverside average yes .
+riverside average yes .
+riverside yes average .
+riverside yes average .
+yes .
+yes riverside .
+riverside average yes .
+average riverside .
+average yes .
+yes riverside .
+average yes riverside .
+riverside average yes .
+riverside yes average .
+yes . riverside .
+yes riverside .
+yes riverside average .
+average yes riverside .
+average yes riverside .
+yes riverside high .
+yes riverside . high .
+high yes riverside .
+riverside yes high .
+yes riverside high .
+yes riverside . high .
+high riverside yes .
+riverside yes high .
+yes riverside high .
+riverside high yes .
+yes riverside high .
+high yes riverside .
+riverside high yes .
+yes riverside . high .
+riverside yes high .
+yes riverside high .
+riverside high yes .
+yes high . riverside .
+yes riverside high .
+yes high riverside .
+riverside yes high .
+high yes riverside .
+riverside yes high .
+yes riverside high .
+low city_centre no .
+low city_centre . no .
+city_centre low .
+city_centre no low .
+city_centre low .
+low city_centre no .
+city_centre yes low .
+yes . city_centre low .
+yes city_centre low .
+low . yes city_centre .
+yes . city_centre low .
+yes city_centre low .
+low riverside .
+low no .
+riverside . no low .
+no low .
+low no .
+riverside . no low .
+riverside low no .
+low no .
+riverside .
+no low .
+riverside no . low .
+yes riverside low .
+yes riverside low .
+low yes riverside .
+riverside yes low .
+riverside yes low .
+low yes riverside .
+riverside yes . low .
+yes riverside low .
+low . riverside yes .
+riverside yes low .
+low yes riverside .
+riverside yes low .
+low riverside yes .
+low yes riverside .
+low yes riverside .
+riverside yes low .
+riverside yes . low .
+yes low riverside .
+yes riverside low .
+low yes riverside .
+yes riverside low .
+yes . low riverside .
+yes low riverside .
+riverside . yes low .
+low riverside yes .
+riverside yes .
+low yes riverside .
+riverside low yes .
+low yes . riverside .
+coffee_shop Chinese £_20_@-@_25 . near high .
+coffee_shop Chinese £_20_@-@_25 . near high .
+high coffee_shop near . Chinese £_20_@-@_25 no .
+coffee_shop Chinese £_20_@-@_25 . near high .
+coffee_shop Chinese £_20_@-@_25 . near high no .
+yes high Chinese coffee_shop near .
+coffee_shop near . yes Chinese high .
+high Chinese coffee_shop yes . near .
+coffee_shop Chinese . high yes near .
+Chinese coffee_shop near . high yes .
+coffee_shop yes near . Chinese high .
+yes coffee_shop high . Chinese near .
+coffee_shop Chinese cheap . near 5_out_of_5 .
+near 5_out_of_5 coffee_shop Chinese cheap . no .
+coffee_shop cheap Chinese no 5_out_of_5 . near .
+near coffee_shop cheap Chinese . no 5_out_of_5 .
+coffee_shop Chinese cheap . no 5_out_of_5 near .
+coffee_shop Chinese cheap . near 5_out_of_5 .
+coffee_shop Chinese near 5_out_of_5 . cheap yes .
+coffee_shop 5_out_of_5 Chinese cheap . yes near .
+coffee_shop cheap Chinese near . yes 5_out_of_5 .
+coffee_shop near yes 5_out_of_5 . Chinese cheap .
+coffee_shop Chinese cheap . near 5_out_of_5 .
+no coffee_shop near Chinese cheap average .
+average coffee_shop near cheap Chinese no .
+cheap coffee_shop near Chinese . no average .
+cheap coffee_shop Chinese near . no average .
+coffee_shop Chinese . near cheap average no .
+cheap Chinese near . coffee_shop average no .
+near . coffee_shop no Chinese average cheap .
+coffee_shop cheap Chinese . near yes average .
+coffee_shop Chinese cheap . yes near .
+coffee_shop near . average cheap Chinese yes .
+coffee_shop Chinese cheap . near average .
+coffee_shop Chinese cheap . yes near .
+Chinese coffee_shop 1_out_of_5 . near high no .
+near 1_out_of_5 . Chinese coffee_shop high no .
+no coffee_shop Chinese . high 1_out_of_5 near .
+no Chinese coffee_shop near high 1_out_of_5 .
+coffee_shop Chinese high . near 1_out_of_5 .
+coffee_shop Chinese high . near 1_out_of_5 .
+yes coffee_shop high Chinese near 1_out_of_5 .
+near coffee_shop 1_out_of_5 . yes high .
+coffee_shop Chinese high . near 1_out_of_5 .
+high coffee_shop Chinese near . yes 1_out_of_5 .
+coffee_shop high Chinese yes near . 1_out_of_5 .
+coffee_shop Chinese high . near 1_out_of_5 .
+coffee_shop Chinese high . near average .
+coffee_shop Chinese high . near average .
+coffee_shop Chinese high . near average .
+high coffee_shop Chinese near . no average .
+coffee_shop Chinese high near . average no .
+yes coffee_shop Chinese near average high .
+coffee_shop high near Chinese yes .
+high Chinese coffee_shop near .
+coffee_shop Chinese high . near average .
+near coffee_shop Chinese average high yes .
+high Chinese coffee_shop near . average yes .
+coffee_shop near Chinese less_than_£_20 low . no .
+near . Chinese coffee_shop less_than_£_20 low no .
+coffee_shop Chinese less_than_£_20 . near low .
+coffee_shop near Chinese . no less_than_£_20 low .
+near less_than_£_20 low coffee_shop Chinese .
+coffee_shop Chinese less_than_£_20 . near low .
+Chinese . less_than_£_20 low yes near .
+Chinese less_than_£_20 near . low yes .
+less_than_£_20 yes coffee_shop Chinese near . low .
+yes coffee_shop Chinese less_than_£_20 . low near .
+near yes coffee_shop . low Chinese less_than_£_20 .
+coffee_shop Chinese less_than_£_20 . low yes near .
+near coffee_shop Chinese less_than_£_20 . yes low .
+coffee_shop Chinese moderate . 1_out_of_5 no near .
+Chinese coffee_shop moderate 1_out_of_5 . near no .
+Chinese coffee_shop near moderate . 1_out_of_5 no .
+Chinese coffee_shop near 1_out_of_5 . moderate no .
+coffee_shop Chinese moderate 1_out_of_5 no near .
+coffee_shop Chinese near . moderate no 1_out_of_5 .
+moderate near Chinese .
+yes coffee_shop Chinese moderate . near 1_out_of_5 .
+Chinese coffee_shop moderate . yes near .
+coffee_shop Chinese yes moderate 1_out_of_5 near .
+coffee_shop Chinese moderate . yes 1_out_of_5 near .
+Chinese coffee_shop near moderate . 1_out_of_5 yes .
+Chinese coffee_shop moderate . yes 1_out_of_5 near .
+coffee_shop Chinese moderate . 3_out_of_5 no near .
+near no coffee_shop Chinese 3_out_of_5 . moderate .
+coffee_shop Chinese moderate . near 3_out_of_5 .
+coffee_shop Chinese moderate . near 3_out_of_5 .
+coffee_shop Chinese moderate . near no 3_out_of_5 .
+coffee_shop near Chinese . moderate 3_out_of_5 no .
+coffee_shop Chinese moderate . near 3_out_of_5 .
+coffee_shop Chinese moderate . near 3_out_of_5 .
+coffee_shop Chinese moderate . near 3_out_of_5 .
+coffee_shop Chinese moderate . 3_out_of_5 yes near .
+coffee_shop 3_out_of_5 . yes Chinese moderate near .
+near . Chinese coffee_shop more_than_£_30 high no .
+coffee_shop Chinese more_than_£_30 . near high .
+Chinese coffee_shop . more_than_£_30 high no near .
+coffee_shop Chinese more_than_£_30 . near high .
+more_than_£_30 high . Chinese coffee_shop near no .
+near Chinese coffee_shop . more_than_£_30 high no .
+coffee_shop Chinese more_than_£_30 . near high .
+coffee_shop Chinese more_than_£_30 . near high .
+coffee_shop Chinese more_than_£_30 . near high .
+coffee_shop Chinese . more_than_£_30 high yes near .
+near more_than_£_30 high coffee_shop . Chinese yes .
+coffee_shop high no near .
+no English coffee_shop near high .
+English coffee_shop near . £_20_@-@_25 .
+English coffee_shop near . no high .
+English high yes £_20_@-@_25 coffee_shop near .
+near coffee_shop English .
+coffee_shop English near . high yes .
+coffee_shop yes near .
+English coffee_shop yes high . near .
+high near yes coffee_shop .
+coffee_shop near yes .
+near coffee_shop English high yes £_20_@-@_25 .
+high coffee_shop yes . near .
+high coffee_shop English yes .
+yes coffee_shop high near English .
+coffee_shop near cheap .
+coffee_shop near English . no cheap 5_out_of_5 .
+coffee_shop cheap near .
+near cheap coffee_shop English . 5_out_of_5 no .
+cheap coffee_shop near . no .
+near 5_out_of_5 coffee_shop cheap .
+cheap English 5_out_of_5 . yes near .
+cheap yes coffee_shop near . 5_out_of_5 English .
+coffee_shop English . near yes .
+yes coffee_shop near . cheap 5_out_of_5 .
+cheap coffee_shop near . 5_out_of_5 yes English .
+cheap 5_out_of_5 coffee_shop near . yes English .
+yes coffee_shop English . near .
+cheap near . yes 5_out_of_5 .
+coffee_shop 5_out_of_5 cheap yes near .
+yes coffee_shop near . English cheap 5_out_of_5 .
+coffee_shop 5_out_of_5 yes near .
+no English coffee_shop near average .
+coffee_shop near English cheap .
+cheap no English coffee_shop near .
+cheap English coffee_shop . average near .
+coffee_shop near average cheap no .
+no English coffee_shop near average .
+cheap coffee_shop English . yes average near .
+coffee_shop . yes near .
+yes coffee_shop near .
+coffee_shop English . near average cheap yes .
+yes coffee_shop cheap average English near .
+coffee_shop near .
+coffee_shop yes . cheap near .
+average coffee_shop near cheap English .
+cheap yes coffee_shop near .
+cheap coffee_shop near . yes .
+yes coffee_shop English near . cheap average .
+near coffee_shop English high 1_out_of_5 .
+coffee_shop English 1_out_of_5 near .
+high English coffee_shop near . 1_out_of_5 .
+English coffee_shop near . high no 1_out_of_5 .
+high 1_out_of_5 no coffee_shop English . near .
+English coffee_shop high 1_out_of_5 near . no .
+yes coffee_shop English near . high 1_out_of_5 .
+coffee_shop near . 1_out_of_5 high English yes .
+yes coffee_shop English . high near .
+near yes English coffee_shop . high .
+yes coffee_shop near . high English 1_out_of_5 .
+high English coffee_shop near . yes 1_out_of_5 .
+coffee_shop English . near .
+high coffee_shop near . English yes .
+coffee_shop English . near .
+coffee_shop near English high . no .
+high coffee_shop English near . no average .
+near coffee_shop English . no average high .
+coffee_shop English high . near no .
+high English coffee_shop near . average no .
+near high English coffee_shop average . no .
+near high coffee_shop English average yes .
+coffee_shop yes near .
+near yes coffee_shop English average .
+coffee_shop yes near .
+coffee_shop near . average English yes .
+near coffee_shop average high yes .
+near coffee_shop . yes high average .
+near coffee_shop average English . yes .
+coffee_shop average high yes . near .
+coffee_shop near less_than_£_20 low .
+low English coffee_shop . near less_than_£_20 .
+English coffee_shop no near low . less_than_£_20 .
+coffee_shop near English less_than_£_20 . low no .
+near less_than_£_20 .
+less_than_£_20 coffee_shop near . no low .
+coffee_shop low . English less_than_£_20 near no .
+coffee_shop near less_than_£_20 low .
+less_than_£_20 low . no near .
+near coffee_shop . low no English less_than_£_20 .
+English coffee_shop near . less_than_£_20 no low .
+coffee_shop near . less_than_£_20 yes .
+near . coffee_shop English yes less_than_£_20 low .
+yes coffee_shop near . less_than_£_20 .
+less_than_£_20 yes coffee_shop English . near low .
+near English coffee_shop . less_than_£_20 low yes .
+less_than_£_20 yes coffee_shop near .
+yes coffee_shop near .
+yes coffee_shop English near low less_than_£_20 .
+coffee_shop near .
+near yes coffee_shop English less_than_£_20 low .
+yes English coffee_shop near less_than_£_20 low . .
+near coffee_shop English . 1_out_of_5 no .
+coffee_shop English . near .
+moderate coffee_shop English near no 1_out_of_5 .
+coffee_shop English . near .
+moderate coffee_shop 1_out_of_5 near . English no .
+moderate coffee_shop English near no 1_out_of_5 .
+yes coffee_shop near English moderate 1_out_of_5 .
+coffee_shop moderate English yes . near 1_out_of_5 .
+English coffee_shop near . moderate 1_out_of_5 .
+yes coffee_shop near . 1_out_of_5 .
+coffee_shop moderate English near 1_out_of_5 . yes .
+near coffee_shop yes English .
+yes English coffee_shop . near .
+coffee_shop yes English near .
+coffee_shop English yes moderate near 1_out_of_5 .
+no coffee_shop near 3_out_of_5 English moderate .
+English coffee_shop near moderate 3_out_of_5 no .
+English coffee_shop near no moderate 3_out_of_5 .
+English coffee_shop near . moderate 3_out_of_5 no .
+English coffee_shop near no moderate . 3_out_of_5 .
+3_out_of_5 English moderate no coffee_shop near .
+coffee_shop moderate 3_out_of_5 . yes near .
+English moderate . yes coffee_shop near 3_out_of_5 .
+coffee_shop English . yes moderate 3_out_of_5 near .
+English coffee_shop near . moderate yes 3_out_of_5 .
+yes English coffee_shop near . moderate 3_out_of_5 .
+3_out_of_5 coffee_shop . near yes .
+near yes coffee_shop 3_out_of_5 .
+English . moderate yes coffee_shop near 3_out_of_5 .
+3_out_of_5 coffee_shop yes near .
+coffee_shop yes . 3_out_of_5 near .
+coffee_shop yes near .
+yes 1_out_of_5 .
+yes 1_out_of_5 .
+yes 1_out_of_5 .
+1_out_of_5 yes .
+. 1_out_of_5 yes .
+1_out_of_5 yes .
+yes 1_out_of_5 .
+yes 1_out_of_5 .
+yes .
+yes 1_out_of_5 .
+1_out_of_5 yes .
+1_out_of_5 . yes .
+yes . 1_out_of_5 .
+yes .
+1_out_of_5 yes .
+yes 1_out_of_5 .
+1_out_of_5 yes .
+yes 1_out_of_5 .
+yes . 1_out_of_5 .
+yes . 1_out_of_5 .
+yes 1_out_of_5 .
+yes .
+near yes 1_out_of_5 .
+yes near 1_out_of_5 .
+near yes 1_out_of_5 .
+yes near 1_out_of_5 .
+near yes 1_out_of_5 .
+yes near 1_out_of_5 .
+1_out_of_5 . yes near .
+near 1_out_of_5 yes .
+near yes 1_out_of_5 .
+near yes 1_out_of_5 .
+near 1_out_of_5 yes .
+near 1_out_of_5 yes .
+1_out_of_5 yes . near .
+1_out_of_5 yes near .
+near 1_out_of_5 . yes .
+near yes 1_out_of_5 .
+near 1_out_of_5 yes .
+near yes 1_out_of_5 .
+near yes . 1_out_of_5 .
+yes near 1_out_of_5 .
+yes near 1_out_of_5 .
+1_out_of_5 yes near .
+3_out_of_5 yes .
+yes 3_out_of_5 .
+yes 3_out_of_5 .
+3_out_of_5 yes .
+yes .
+3_out_of_5 . yes .
+yes 3_out_of_5 .
+yes 3_out_of_5 .
+yes . 3_out_of_5 .
+yes 3_out_of_5 .
+3_out_of_5 yes .
+yes 3_out_of_5 .
+yes 3_out_of_5 .
+yes 3_out_of_5 .
+3_out_of_5 yes .
+yes 3_out_of_5 .
+yes .
+yes .
+yes 3_out_of_5 .
+yes 3_out_of_5 .
+yes 3_out_of_5 .
+yes 3_out_of_5 .
+yes 3_out_of_5 .
+yes 3_out_of_5 .
+yes 3_out_of_5 .
+3_out_of_5 .
+yes 3_out_of_5 .
+3_out_of_5 yes .
+3_out_of_5 yes .
+near yes .
+yes near . 3_out_of_5 .
+near yes .
+near yes .
+3_out_of_5 . yes near .
+yes near 3_out_of_5 .
+yes near .
+near yes 3_out_of_5 .
+near 3_out_of_5 yes .
+yes near 3_out_of_5 .
+yes near . 3_out_of_5 .
+yes 3_out_of_5 . near .
+near 3_out_of_5 .
+near yes 3_out_of_5 .
+3_out_of_5 near yes .
+near yes 3_out_of_5 .
+near yes 3_out_of_5 .
+yes 3_out_of_5 near .
+near yes 3_out_of_5 .
+near yes 3_out_of_5 .
+yes near 3_out_of_5 .
+near yes .
+3_out_of_5 . near .
+near yes 3_out_of_5 .
+3_out_of_5 . near yes .
+yes 3_out_of_5 . near .
+near 3_out_of_5 .
+near . 3_out_of_5 .
+yes near 3_out_of_5 .
+5_out_of_5 no .
+5_out_of_5 . no .
+5_out_of_5 no .
+no 5_out_of_5 .
+5_out_of_5 no near .
+near no . 5_out_of_5 .
+no near . 5_out_of_5 .
+near . 5_out_of_5 .
+near . 5_out_of_5 .
+no 5_out_of_5 near .
+yes 5_out_of_5 .
+yes 5_out_of_5 .
+yes 5_out_of_5 .
+yes 5_out_of_5 .
+yes . 5_out_of_5 .
+yes 5_out_of_5 .
+yes 5_out_of_5 .
+yes 5_out_of_5 .
+yes 5_out_of_5 .
+5_out_of_5 yes .
+yes 5_out_of_5 .
+yes 5_out_of_5 .
+yes 5_out_of_5 .
+5_out_of_5 yes .
+yes . 5_out_of_5 .
+5_out_of_5 yes .
+. yes .
+5_out_of_5 yes .
+5_out_of_5 yes .
+5_out_of_5 yes .
+5_out_of_5 . yes .
+yes 5_out_of_5 .
+5_out_of_5 . yes .
+yes 5_out_of_5 .
+yes 5_out_of_5 .
+yes 5_out_of_5 .
+yes 5_out_of_5 .
+yes . 5_out_of_5 .
+yes 5_out_of_5 .
+yes 5_out_of_5 near .
+near 5_out_of_5 yes .
+yes 5_out_of_5 near .
+near 5_out_of_5 yes .
+near yes 5_out_of_5 .
+5_out_of_5 yes near .
+yes near 5_out_of_5 .
+yes 5_out_of_5 near .
+near 5_out_of_5 yes .
+near 5_out_of_5 yes .
+yes near 5_out_of_5 .
+near . yes 5_out_of_5 .
+yes 5_out_of_5 . near .
+near . yes 5_out_of_5 .
+yes near 5_out_of_5 .
+5_out_of_5 . near yes .
+yes 5_out_of_5 near .
+yes 5_out_of_5 near .
+yes near 5_out_of_5 .
+yes 5_out_of_5 . near .
+yes near 5_out_of_5 .
+5_out_of_5 yes near .
+yes near . 5_out_of_5 .
+near yes 5_out_of_5 .
+yes near 5_out_of_5 .
+near yes . 5_out_of_5 .
+near yes 5_out_of_5 .
+near 5_out_of_5 yes .
+yes 5_out_of_5 near .
+average no .
+average no .
+no average .
+average no .
+no average .
+average no .
+near average no .
+average near . no .
+near average no .
+near no average .
+no near average .
+average near no .
+average yes .
+yes average .
+average yes .
+average yes .
+yes average .
+average yes .
+average yes .
+. average yes .
+yes .
+average yes .
+average . yes .
+average yes .
+yes average .
+average yes .
+average yes .
+average yes .
+average yes .
+average yes .
+yes average .
+yes average .
+yes average .
+yes .
+yes average .
+yes average .
+average yes near .
+near yes average .
+near average yes .
+near yes average .
+average near yes .
+yes near . average .
+near average yes .
+yes near average .
+near average yes .
+average . near yes .
+yes . near average .
+yes average near .
+average yes near .
+yes . near average .
+near yes . average .
+yes average near .
+yes near .
+near yes average .
+near .
+near average yes .
+yes . average near .
+near . yes average .
+average yes near .
+near yes average .
+yes high .
+high yes .
+high .
+high yes .
+. yes high .
+high . yes .
+high yes .
+high yes .
+yes high .
+high yes .
+yes high .
+high yes .
+yes high .
+yes high .
+high yes .
+yes . high .
+high yes .
+high yes .
+high yes .
+high yes .
+yes high .
+yes high .
+high .
+yes high .
+near . high yes .
+high yes near .
+near high yes .
+yes . high near .
+high near yes .
+near high yes .
+yes high near .
+near high yes .
+yes . near .
+high yes near .
+near yes high .
+near yes . high .
+yes near high .
+near yes high .
+near yes high .
+near yes high .
+near . yes high .
+near high yes .
+near high yes .
+high yes near .
+high yes near .
+near yes high .
+yes near high .
+yes high near .
+no low .
+no low .
+low .
+no .
+low .
+low .
+no low .
+low no .
+low no .
+low no .
+low .
+low near .
+near . low .
+no . low near .
+no . low near .
+low near . no .
+near low .
+no . low near .
+low no near .
+near low no .
+low no . near .
+near low no .
+yes low .
+yes low .
+low yes .
+yes low .
+yes .
+yes . low .
+low yes .
+yes low .
+yes low .
+low yes .
+low yes .
+yes low .
+yes low .
+yes low .
+yes low .
+yes low .
+yes low .
+yes low .
+yes . low .
+yes low .
+yes low .
+yes low .
+yes .
+yes low .
+low yes .
+near yes .
+yes near low .
+near yes low .
+low yes near .
+near yes low .
+near yes . low .
+yes near . low .
+yes near low .
+near low yes .
+near . yes low .
+near yes .
+yes near . low .
+near low yes .
+near yes low .
+yes near .
+near yes . low .
+near yes low .
+low yes near .
+near . yes low .
+yes near low .
+near yes . low .
+low . yes near .
+yes near low .
+yes near low .
+near yes low .
+low yes near .
+riverside near . coffee_shop Chinese £_20_@-@_25 .
+yes coffee_shop Chinese £_20_@-@_25 . riverside near .
+coffee_shop . yes riverside near .
+coffee_shop Chinese . riverside near yes .
+riverside near . yes .
+yes coffee_shop . riverside near Chinese .
+Chinese coffee_shop riverside near . yes cheap .
+cheap Chinese coffee_shop riverside near . yes .
+yes cheap . coffee_shop Chinese near riverside .
+riverside near . cheap yes Chinese .
+coffee_shop Chinese cheap . riverside near .
+cheap Chinese coffee_shop near riverside yes .
+city_centre near coffee_shop high Chinese no .
+coffee_shop high Chinese city_centre near . no .
+Chinese coffee_shop city_centre near . high no .
+Chinese coffee_shop city_centre near . no high .
+city_centre coffee_shop high . Chinese no near .
+near city_centre coffee_shop . Chinese high no .
+coffee_shop city_centre Chinese . near no .
+coffee_shop near city_centre . Chinese high yes .
+coffee_shop near city_centre . Chinese high yes .
+coffee_shop Chinese high . city_centre near .
+city_centre near coffee_shop . yes Chinese .
+coffee_shop Chinese high . city_centre near .
+high coffee_shop Chinese riverside near no .
+coffee_shop riverside near . Chinese high no .
+coffee_shop Chinese . riverside near high .
+coffee_shop riverside near . no .
+coffee_shop Chinese . riverside no near .
+riverside coffee_shop near Chinese high . no .
+coffee_shop high Chinese no riverside near .
+coffee_shop Chinese . high riverside near yes .
+high yes Chinese coffee_shop riverside near .
+coffee_shop Chinese high . riverside near .
+near riverside yes coffee_shop Chinese . high .
+coffee_shop Chinese high . riverside near .
+riverside near . yes coffee_shop high Chinese .
+coffee_shop Chinese . near city_centre .
+no coffee_shop Chinese less_than_£_20 . near city_centre .
+no coffee_shop city_centre Chinese near .
+Chinese no coffee_shop less_than_£_20 . city_centre near .
+coffee_shop Chinese near city_centre .
+less_than_£_20 Chinese no coffee_shop city_centre near .
+coffee_shop city_centre near . no Chinese less_than_£_20 .
+coffee_shop Chinese city_centre near . yes less_than_£_20 .
+city_centre near . coffee_shop Chinese .
+coffee_shop Chinese less_than_£_20 . city_centre near yes .
+coffee_shop Chinese less_than_£_20 . city_centre near .
+yes coffee_shop Chinese less_than_£_20 . city_centre near .
+yes coffee_shop city_centre near . Chinese less_than_£_20 .
+Chinese coffee_shop less_than_£_20 near riverside no . .
+coffee_shop Chinese riverside near . less_than_£_20 no .
+coffee_shop riverside near . no Chinese less_than_£_20 .
+no coffee_shop riverside near . Chinese .
+coffee_shop Chinese less_than_£_20 . riverside near .
+coffee_shop Chinese riverside near less_than_£_20 yes .
+riverside near . yes less_than_£_20 coffee_shop Chinese .
+less_than_£_20 coffee_shop riverside . yes Chinese near .
+riverside yes coffee_shop Chinese less_than_£_20 near .
+coffee_shop Chinese near riverside . less_than_£_20 .
+coffee_shop Chinese . yes riverside near .
+coffee_shop Chinese less_than_£_20 riverside near .
+near city_centre moderate Chinese . coffee_shop no .
+moderate no Chinese coffee_shop city_centre near .
+moderate coffee_shop city_centre near . Chinese no .
+moderate coffee_shop city_centre . Chinese no near .
+coffee_shop Chinese moderate . city_centre near no .
+coffee_shop near . moderate Chinese no .
+no coffee_shop moderate Chinese city_centre near .
+moderate yes Chinese coffee_shop city_centre near .
+moderate coffee_shop Chinese . city_centre near yes .
+yes Chinese coffee_shop moderate city_centre near .
+Chinese coffee_shop city_centre near . moderate yes .
+yes coffee_shop moderate Chinese city_centre near .
+coffee_shop yes Chinese moderate . near .
+moderate coffee_shop Chinese . near city_centre yes .
+moderate Chinese coffee_shop near riverside . no .
+coffee_shop Chinese . moderate riverside no near .
+coffee_shop Chinese moderate . near riverside no .
+no Chinese coffee_shop riverside near moderate .
+Chinese coffee_shop near riverside . moderate no .
+coffee_shop Chinese riverside near . no moderate .
+Chinese coffee_shop moderate riverside near no .
+coffee_shop Chinese moderate . riverside near .
+riverside near yes moderate coffee_shop Chinese .
+Chinese riverside moderate coffee_shop yes near .
+coffee_shop Chinese moderate . riverside near .
+coffee_shop riverside Chinese . yes moderate near .
+coffee_shop Chinese yes . riverside near more_than_£_30 .
+coffee_shop riverside near Chinese yes .
+coffee_shop Chinese yes . riverside near more_than_£_30 .
+riverside yes coffee_shop Chinese more_than_£_30 . near .
+riverside near yes coffee_shop Chinese . more_than_£_30 .
+Chinese . yes riverside near .
+coffee_shop near . Chinese more_than_£_30 yes riverside .
+yes coffee_shop riverside near . English .
+yes English coffee_shop riverside near .
+yes coffee_shop English . riverside near .
+yes English coffee_shop riverside near .
+English riverside . yes coffee_shop near .
+cheap yes coffee_shop riverside English near .
+riverside English yes coffee_shop cheap . near .
+cheap coffee_shop riverside near English yes .
+yes coffee_shop English cheap . riverside near .
+near riverside cheap yes English coffee_shop .
+riverside near . coffee_shop cheap English yes .
+coffee_shop riverside near English yes cheap .
+yes coffee_shop . cheap English near riverside .
+cheap yes English coffee_shop riverside near .
+coffee_shop city_centre high . English near .
+coffee_shop city_centre high . English near .
+coffee_shop city_centre near . high English no .
+English coffee_shop city_centre . near high no .
+high coffee_shop English no . city_centre near .
+city_centre near coffee_shop . high no .
+yes coffee_shop English high near city_centre .
+high coffee_shop . city_centre near English yes .
+near city_centre coffee_shop high yes English .
+city_centre near English coffee_shop . high yes .
+coffee_shop high English . city_centre near yes .
+yes English . near city_centre high .
+English coffee_shop near . no .
+riverside near coffee_shop English no .
+English coffee_shop riverside near . no .
+English coffee_shop near riverside . high no .
+English coffee_shop near riverside . high no .
+English coffee_shop riverside near . high no .
+yes coffee_shop riverside near . English high .
+high coffee_shop English near .
+near coffee_shop riverside .
+coffee_shop near . yes English .
+yes coffee_shop near riverside . English high .
+coffee_shop near English yes . riverside high .
+coffee_shop near riverside . yes English high .
+English coffee_shop riverside . near high yes .
+high yes coffee_shop riverside English near .
+yes near .
+yes English coffee_shop riverside . high near .
+coffee_shop near riverside .
+high coffee_shop English yes . riverside near .
+coffee_shop high English . near .
+no coffee_shop near English .
+less_than_£_20 coffee_shop English near city_centre . no .
+English city_centre near coffee_shop less_than_£_20 no .
+coffee_shop English less_than_£_20 . city_centre near .
+coffee_shop city_centre near . English less_than_£_20 .
+near coffee_shop English .
+coffee_shop less_than_£_20 yes English . near city_centre .
+near city_centre . yes less_than_£_20 English coffee_shop .
+coffee_shop less_than_£_20 yes English . near city_centre .
+less_than_£_20 yes coffee_shop English . near city_centre .
+English coffee_shop near city_centre . less_than_£_20 yes .
+less_than_£_20 English coffee_shop . city_centre near yes .
+coffee_shop riverside near . English less_than_£_20 no .
+near less_than_£_20 coffee_shop no .
+less_than_£_20 no coffee_shop near .
+no less_than_£_20 coffee_shop English riverside near .
+less_than_£_20 English coffee_shop riverside near . no .
+less_than_£_20 coffee_shop English riverside near no .
+near no less_than_£_20 coffee_shop .
+less_than_£_20 English coffee_shop riverside near . no .
+coffee_shop riverside near . English less_than_£_20 no .
+near riverside English coffee_shop . yes .
+less_than_£_20 yes coffee_shop near .
+yes coffee_shop . English riverside near .
+less_than_£_20 yes coffee_shop near .
+less_than_£_20 yes coffee_shop near .
+less_than_£_20 yes coffee_shop English near riverside .
+coffee_shop yes less_than_£_20 . English near riverside .
+yes coffee_shop near less_than_£_20 .
+riverside . yes coffee_shop near English .
+riverside near coffee_shop . yes English less_than_£_20 .
+yes coffee_shop near less_than_£_20 .
+moderate coffee_shop near city_centre . no .
+coffee_shop English city_centre near moderate no .
+coffee_shop city_centre . near moderate no .
+no coffee_shop moderate English . near city_centre .
+coffee_shop English . near city_centre no moderate .
+city_centre near no coffee_shop . moderate English .
+moderate English yes near city_centre .
+coffee_shop moderate English yes near city_centre .
+city_centre near English coffee_shop . moderate yes .
+yes moderate English coffee_shop . city_centre near .
+. coffee_shop moderate English yes city_centre near .
+. coffee_shop moderate English yes city_centre near .
+coffee_shop riverside near . English moderate no .
+coffee_shop moderate riverside near .
+coffee_shop riverside near . English moderate no .
+coffee_shop English . riverside near moderate no .
+coffee_shop English . riverside near moderate .
+riverside near moderate coffee_shop .
+yes coffee_shop near .
+yes coffee_shop riverside near . English .
+moderate English . riverside coffee_shop near yes .
+near riverside English . moderate yes .
+coffee_shop English . moderate yes riverside near .
+English coffee_shop riverside near . moderate yes .
+coffee_shop riverside near . English moderate yes .
+coffee_shop riverside near . yes .
+riverside near coffee_shop English moderate yes .
+yes English moderate . coffee_shop near riverside .
+English yes coffee_shop riverside near .
+yes moderate coffee_shop English . near riverside .
+near riverside coffee_shop English . moderate yes .
+riverside near coffee_shop English more_than_£_30 yes .
+coffee_shop near . riverside yes English .
+coffee_shop riverside near English more_than_£_30 yes .
+yes coffee_shop riverside . near English .
+more_than_£_30 English yes . near coffee_shop riverside .
+near . coffee_shop English yes .
+near riverside 1_out_of_5 .
+near 1_out_of_5 riverside .
+near .
+near riverside 1_out_of_5 .
+riverside near 1_out_of_5 .
+riverside 1_out_of_5 near .
+near riverside 1_out_of_5 .
+riverside near 1_out_of_5 .
+riverside near 1_out_of_5 .
+near .
+1_out_of_5 riverside .
+riverside near 1_out_of_5 .
+riverside . near .
+near riverside 3_out_of_5 .
+near riverside .
+near riverside . 3_out_of_5 .
+near riverside 3_out_of_5 .
+riverside near . 3_out_of_5 .
+riverside near 3_out_of_5 .
+riverside near 3_out_of_5 .
+near riverside 3_out_of_5 .
+riverside near . 3_out_of_5 .
+near riverside 3_out_of_5 .
+riverside near . 3_out_of_5 .
+riverside near 3_out_of_5 .
+3_out_of_5 . near riverside .
+city_centre near 5_out_of_5 .
+city_centre near 5_out_of_5 .
+near 5_out_of_5 .
+near 5_out_of_5 city_centre .
+near 5_out_of_5 .
+5_out_of_5 near city_centre .
+near . 5_out_of_5 riverside .
+near riverside 5_out_of_5 .
+5_out_of_5 riverside near .
+near riverside 5_out_of_5 .
+near riverside 5_out_of_5 .
+near riverside 5_out_of_5 .
+riverside near 5_out_of_5 .
+riverside near . 5_out_of_5 .
+near riverside 5_out_of_5 .
+. near riverside .
+5_out_of_5 riverside near .
+5_out_of_5 near riverside .
+5_out_of_5 riverside near .
+city_centre near . average .
+city_centre near . average .
+near city_centre average .
+near city_centre average .
+near city_centre average .
+near city_centre average .
+average . riverside near .
+near riverside . average .
+riverside average . near .
+riverside average near .
+near average .
+riverside near . average .
+riverside . near .
+average riverside near .
+near riverside average .
+near riverside average .
+near riverside average .
+riverside near average .
+riverside near . average .
+riverside near high .
+near riverside high .
+near riverside high .
+riverside near high .
+riverside near high .
+near riverside high .
+near high riverside .
+near riverside high .
+high near riverside .
+riverside near high .
+riverside near high .
+riverside near high .
+riverside near . high .
+near city_centre low .
+low near city_centre .
+city_centre near . low .
+city_centre near low .
+city_centre near . low .
+low city_centre near .
+riverside near low .
+riverside near low .
+near riverside low .
+riverside near low .
+near low riverside .
+near riverside low .
+low riverside near .
+near riverside low .
+riverside near low .
+low . riverside near .
+low riverside near .
+near riverside low .
+riverside near low .
+high coffee_shop Chinese near £_20_@-@_25 .
+coffee_shop Chinese . near £_20_@-@_25 high .
+coffee_shop Chinese £_20_@-@_25 . near high .
+coffee_shop Chinese near . high £_20_@-@_25 .
+coffee_shop Chinese £_20_@-@_25 . high near .
+coffee_shop Chinese near . £_20_@-@_25 high .
+coffee_shop near . Chinese 5_out_of_5 cheap .
+coffee_shop Chinese cheap . near 5_out_of_5 .
+coffee_shop Chinese . near 5_out_of_5 cheap .
+coffee_shop Chinese cheap . near 5_out_of_5 .
+coffee_shop Chinese . 5_out_of_5 cheap near .
+coffee_shop near . Chinese cheap 5_out_of_5 .
+Chinese coffee_shop average . cheap near .
+average coffee_shop cheap Chinese near .
+near cheap coffee_shop Chinese average .
+cheap Chinese coffee_shop . near average .
+coffee_shop Chinese cheap . near average .
+coffee_shop Chinese cheap . near average .
+coffee_shop Chinese high near 1_out_of_5 .
+high coffee_shop Chinese . near .
+coffee_shop near Chinese high .
+coffee_shop Chinese . high near .
+coffee_shop Chinese . high 1_out_of_5 near .
+coffee_shop Chinese high near 1_out_of_5 .
+high coffee_shop near Chinese . 1_out_of_5 .
+high coffee_shop near Chinese . average .
+Chinese coffee_shop near high average .
+near Chinese coffee_shop average high .
+coffee_shop Chinese high . near average .
+coffee_shop near Chinese high . average .
+near coffee_shop Chinese . average high .
+coffee_shop Chinese less_than_£_20 . near low .
+coffee_shop near less_than_£_20 Chinese .
+coffee_shop Chinese less_than_£_20 . near low .
+coffee_shop near less_than_£_20 Chinese low .
+coffee_shop Chinese less_than_£_20 . near low .
+coffee_shop near Chinese . moderate .
+near coffee_shop moderate Chinese . 1_out_of_5 .
+Chinese coffee_shop near . moderate 1_out_of_5 .
+coffee_shop Chinese . near moderate .
+near coffee_shop Chinese moderate 1_out_of_5 .
+moderate coffee_shop Chinese 1_out_of_5 . near .
+moderate coffee_shop Chinese near . 1_out_of_5 .
+coffee_shop near Chinese moderate 3_out_of_5 .
+moderate 3_out_of_5 Chinese near coffee_shop .
+moderate coffee_shop Chinese . 3_out_of_5 near .
+coffee_shop . Chinese moderate near 3_out_of_5 .
+coffee_shop Chinese moderate . 3_out_of_5 near .
+near coffee_shop Chinese . moderate 3_out_of_5 .
+coffee_shop near more_than_£_30 high . Chinese .
+more_than_£_30 high near coffee_shop Chinese .
+coffee_shop more_than_£_30 . near Chinese high .
+more_than_£_30 coffee_shop Chinese near . high .
+Chinese coffee_shop near high more_than_£_30 .
+high Chinese coffee_shop more_than_£_30 near .
+coffee_shop Chinese more_than_£_30 high near .
+high coffee_shop . near .
+high coffee_shop near .
+English coffee_shop . near high .
+near English coffee_shop . high .
+coffee_shop near high .
+coffee_shop near .
+English high coffee_shop . near .
+high coffee_shop English . near .
+near high .
+coffee_shop near . high English .
+high coffee_shop near .
+coffee_shop 5_out_of_5 English cheap . near .
+coffee_shop cheap near .
+5_out_of_5 near . English cheap coffee_shop .
+coffee_shop English . 5_out_of_5 cheap near .
+cheap coffee_shop English near 5_out_of_5 .
+cheap coffee_shop English . 5_out_of_5 near .
+cheap coffee_shop English near 5_out_of_5 .
+near cheap coffee_shop English . 5_out_of_5 .
+English coffee_shop near cheap 5_out_of_5 .
+near coffee_shop . cheap .
+coffee_shop near 5_out_of_5 cheap .
+near English coffee_shop . cheap average .
+near average coffee_shop cheap English .
+near coffee_shop cheap English average .
+coffee_shop near .
+coffee_shop English cheap . near average .
+coffee_shop cheap English average near .
+near average . English cheap coffee_shop .
+near average . English cheap coffee_shop .
+English coffee_shop . near cheap average .
+cheap English coffee_shop near . average .
+average coffee_shop . near .
+English coffee_shop near high 1_out_of_5 .
+English coffee_shop near high .
+coffee_shop near . 1_out_of_5 .
+English coffee_shop near high 1_out_of_5 .
+coffee_shop English near .
+coffee_shop high 1_out_of_5 near .
+high coffee_shop 1_out_of_5 . near .
+near English coffee_shop high 1_out_of_5 .
+coffee_shop 1_out_of_5 high near .
+high English coffee_shop . near .
+coffee_shop high near . English 1_out_of_5 .
+average coffee_shop English near .
+high coffee_shop near English .
+average coffee_shop near English high .
+near English coffee_shop average high .
+coffee_shop near high .
+high coffee_shop near .
+near average coffee_shop English . .
+coffee_shop near .
+English coffee_shop average near .
+English coffee_shop average . near .
+coffee_shop near . average .
+low English coffee_shop near less_than_£_20 .
+near less_than_£_20 coffee_shop .
+coffee_shop less_than_£_20 English near low .
+less_than_£_20 low coffee_shop near .
+near coffee_shop English low less_than_£_20 .
+coffee_shop less_than_£_20 low . near .
+coffee_shop less_than_£_20 near .
+coffee_shop English . near .
+coffee_shop near less_than_£_20 .
+less_than_£_20 coffee_shop near .
+less_than_£_20 coffee_shop English near .
+moderate coffee_shop English . near 1_out_of_5 .
+English coffee_shop near moderate 1_out_of_5 .
+coffee_shop near .
+1_out_of_5 English coffee_shop near moderate .
+English coffee_shop near moderate 1_out_of_5 .
+coffee_shop . 1_out_of_5 near .
+English coffee_shop near moderate . 1_out_of_5 .
+English moderate . 1_out_of_5 near coffee_shop .
+coffee_shop near .
+coffee_shop 1_out_of_5 . near .
+coffee_shop near 1_out_of_5 .
+moderate coffee_shop near English . 3_out_of_5 .
+coffee_shop near moderate English . 3_out_of_5 .
+near coffee_shop .
+coffee_shop near .
+3_out_of_5 coffee_shop English moderate . near .
+coffee_shop near 3_out_of_5 moderate English .
+coffee_shop 3_out_of_5 . near .
+coffee_shop moderate English near 3_out_of_5 .
+moderate English coffee_shop near . 3_out_of_5 .
