@@ -1,7 +1,4 @@
-experiments/*
-data/
-opennmt_experiments/
-raw_data/
+model/
 # We're going to figure out later how to exempt run_scripts from gitignore */
 # !experiments/*/run_scripts/ */
 # !experiments/*/logging/ */
